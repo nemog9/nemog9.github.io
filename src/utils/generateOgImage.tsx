@@ -120,18 +120,18 @@ const options: SatoriOptions = {
   height: 630,
   embedFont: true,
   fonts: [
-    // {
-    //   name: "IBM Plex Sans JP",
-    //   data: fontRegular,
-    //   weight: 400,
-    //   style: "normal",
-    // },
-    // {
-    //   name: "IBM Plex Sans JP",
-    //   data: fontBold,
-    //   weight: 600,
-    //   style: "normal",
-    // },
+    {
+      name: "Noto Sans JP",
+      data: fontRegular,
+      weight: 400,
+      style: "normal",
+    },
+    {
+      name: "Noto Sans JP",
+      data: fontBold,
+      weight: 600,
+      style: "normal",
+    },
   ],
 };
 
