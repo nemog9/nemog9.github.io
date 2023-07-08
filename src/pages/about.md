@@ -2,5 +2,4 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
-
-テスト
+nemogです。工事中。
