@@ -115,8 +115,12 @@
     @apply bg-skin-card-muted;
   }
 
-  lite-youtube::before {
-    height: 100px !important;
+  .youtube {
+    margin: 1rem 0;
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    max-width: 680px;
+    height: auto;
   }
 }
 
