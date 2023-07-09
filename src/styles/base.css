@@ -114,6 +114,10 @@
   ::-webkit-scrollbar-thumb:hover {
     @apply bg-skin-card-muted;
   }
+
+  lite-youtube::before {
+    height: 100px !important;
+  }
 }
 
 @layer components {
