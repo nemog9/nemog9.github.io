@@ -12,6 +12,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku
 a{color:var(--accent)}
 .wrap{max-width:640px;margin:0 auto;padding:40px 20px calc(48px + env(safe-area-inset-bottom))}
 .profile{text-align:center;margin-bottom:36px}
+.avatar{width:112px;height:112px;border-radius:50%;object-fit:cover;border:3px solid var(--accent);background:#fff;box-shadow:0 6px 20px rgba(120,60,0,.25);margin-bottom:14px}
 .profile h1{font-size:28px;font-weight:800;letter-spacing:.01em}
 .profile p{color:var(--sub);margin-top:6px}
 h2{font-size:14px;font-weight:700;color:var(--accent);letter-spacing:.06em;margin:36px 0 12px}
