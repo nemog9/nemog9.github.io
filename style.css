@@ -12,7 +12,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku
 a{color:var(--accent)}
 .wrap{max-width:640px;margin:0 auto;padding:40px 20px calc(48px + env(safe-area-inset-bottom))}
 .profile{text-align:center;margin-bottom:36px}
-.avatar{width:112px;height:112px;border-radius:50%;object-fit:cover;border:3px solid var(--accent);background:#fff;box-shadow:0 6px 20px rgba(120,60,0,.25);margin-bottom:14px}
+.avatar{width:128px;height:128px;border-radius:50%;object-fit:cover;border:3px solid var(--accent);background:#fff;box-shadow:0 6px 20px rgba(120,60,0,.25);margin-bottom:14px}
 .profile h1{font-size:28px;font-weight:800;letter-spacing:.01em}
 .profile p{color:var(--sub);margin-top:6px}
 h2{font-size:14px;font-weight:700;color:var(--accent);letter-spacing:.06em;margin:36px 0 12px}
@@ -30,3 +30,12 @@ h2{font-size:14px;font-weight:700;color:var(--accent);letter-spacing:.06em;margi
 .sns a:hover{border-color:var(--accent)}
 .note{color:var(--mute);font-size:13px;margin-top:10px}
 footer{margin-top:48px;text-align:center;color:var(--mute);font-size:13px}
+.tagline{font-size:16px}
+.profile .sns{margin-top:18px;grid-template-columns:repeat(3,auto);justify-content:center}
+.profile .sns a{padding:8px 20px;border-radius:999px;font-size:14px}
+.about p{color:var(--sub);margin-bottom:12px}
+.facts{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:6px 18px;margin-top:16px}
+.facts div{display:flex;gap:16px;padding:10px 0;border-bottom:1px solid var(--line)}
+.facts div:last-child{border-bottom:0}
+.facts dt{width:5.5em;flex:none;font-weight:700;color:var(--accent);font-size:14px}
+.facts dd{margin:0;font-size:15px}
