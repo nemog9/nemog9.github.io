@@ -39,10 +39,3 @@ footer{margin-top:48px;text-align:center;color:var(--mute);font-size:13px}
 .facts div:last-child{border-bottom:0}
 .facts dt{width:5.5em;flex:none;font-weight:700;color:var(--accent);font-size:14px}
 .facts dd{margin:0;font-size:15px}
-.feature{display:flex;gap:16px;align-items:center;margin-top:20px;padding:20px;border-radius:20px;color:#fff;text-decoration:none;background:linear-gradient(135deg,#d62a1f,#f0562c);box-shadow:0 8px 24px rgba(214,42,31,.28);transition:transform .15s}
-.feature:hover{transform:translateY(-2px)}
-.feature h3{font-size:19px;line-height:1.4;margin:2px 0 4px}
-.feature p{font-size:14px;opacity:.95;line-height:1.55}
-.feature-label{font-size:12px;font-weight:800;letter-spacing:.08em;background:rgba(255,255,255,.22);border-radius:999px;padding:2px 10px}
-.play{flex:none;width:56px;height:40px;border-radius:12px;background:#fff;position:relative}
-.play::after{content:"";position:absolute;left:23px;top:11px;border-left:16px solid #d62a1f;border-top:9px solid transparent;border-bottom:9px solid transparent}
