@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["MYVS6F7U2G.com.nemog.namaekey"],
+        "components": [
+          { "/": "/namaekey/i/*" }
+        ]
+      }
+    ]
+  }
+}
