@@ -42,8 +42,8 @@
   <input id="name" type="text" placeholder="例: 作品名">
 
   <label for="src">1行に1つ</label>
-  <textarea id="src" spellcheck="false" placeholder="本文 | 読み | 別名1、別名2"></textarea>
-  <p class="hint">読みと別名は省略できます。区切りは「|」かタブです。表計算ソフトの列(本文・読み・別名)を、そのまま貼れます。</p>
+  <textarea id="src" spellcheck="false" placeholder="本文 | 読み"></textarea>
+  <p class="hint">読みは省略できます。区切りは「|」かタブです。表計算ソフトの列(本文・読み)を、そのまま貼れます。</p>
 
   <div class="row">
     <button id="sample" class="sub" type="button">サンプルを入れる</button>
@@ -65,7 +65,7 @@ const MAX_URL = 3500, MAX_LINES = 2000;
 const $ = id => document.getElementById(id);
 
 const SAMPLE = [
-  '山田太郎 | やまだたろう | たろ、タロウ',
+  '山田太郎 | やまだたろう',
   '鈴木花子 | すずきはなこ',
   '佐藤先生 | さとうせんせい',
 ].join('\n');
@@ -81,7 +81,6 @@ function parse(text) {
     out.push({
       body,
       reading: parts[1] || '',
-      aliases: (parts[2] || '').split(/[、,，]/).map(s => s.trim()).filter(Boolean),
     });
     if (out.length >= MAX_LINES) break;
   }
@@ -111,7 +110,7 @@ async function payloadFor(name, entries, part, total) {
   const recs = entries.map(e => {
     const title = defaultTitle(e.body);
     return ['', clean(e.body), e.reading && e.reading !== title ? clean(e.reading) : '',
-            e.aliases.map(clean).join(GS), '', ''].join(FS);
+            '', '', ''].join(FS);
   });
   const bytes = new TextEncoder().encode([head, ...recs].join(RS));
   return b64url(await deflateRaw(bytes));
@@ -155,7 +154,7 @@ $('dl').addEventListener('click', () => {
     snippets: parse($('src').value).map(e => {
       const title = defaultTitle(e.body);
       return { id: 'w-' + fnv64(e.body), title, body: e.body, reading: e.reading || title,
-               aliases: e.aliases, category: name, tags: [] };
+               aliases: [], category: name, tags: [] };
     }),
   };
   const blob = new Blob([JSON.stringify(pack, null, 2)], { type: 'application/json' });
