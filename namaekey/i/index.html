@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex">
+<title>パックを名前キーで開く</title>
+<style>
+  :root { --bg:#f4f2ff; --card:#fff; --text:#1d1b2e; --sub:#6b6880; --accent:#6c4cf0; --line:#e6e2f8; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#14121f; --card:#1f1c30; --text:#f2f0ff; --sub:#a9a5c4; --accent:#9d86ff; --line:#2e2a47; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; padding:24px 16px 48px; background:var(--bg); color:var(--text);
+         font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif; line-height:1.6; }
+  main { max-width:520px; margin:0 auto; }
+  h1 { font-size:1.15rem; margin:0 0 4px; }
+  .tag { color:var(--sub); font-size:.85rem; margin:0 0 20px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px; margin-bottom:16px; }
+  .name { font-size:1.25rem; font-weight:700; margin:0; word-break:break-word; }
+  .meta { color:var(--sub); font-size:.9rem; margin:4px 0 0; }
+  ul { list-style:none; margin:14px 0 0; padding:0; display:flex; flex-wrap:wrap; gap:6px; }
+  li { background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:3px 10px; font-size:.9rem; word-break:break-word; }
+  .more { color:var(--sub); font-size:.85rem; margin-top:8px; }
+  a.btn { display:block; text-align:center; background:var(--accent); color:#fff; text-decoration:none;
+          font-weight:700; padding:14px; border-radius:14px; font-size:1.05rem; }
+  .note { color:var(--sub); font-size:.85rem; margin:12px 2px 0; }
+  .hidden { display:none; }
+</style>
+</head>
+<body>
+<main>
+  <h1>名前キー</h1>
+  <p class="tag">キャラクターやミームを一発入力</p>
+
+  <section id="pack" class="card hidden">
+    <p class="name" id="packName"></p>
+    <p class="meta" id="packMeta"></p>
+    <ul id="items"></ul>
+    <p class="more" id="more"></p>
+  </section>
+
+  <section id="empty" class="card hidden">
+    <p>このページは、名前キーのパックのリンクを開くためのページです。</p>
+    <p class="meta">リンクの後ろの部分(#以降)にパックの内容が入っていないようです。リンクが途中で切れていないか確認してください。</p>
+  </section>
+
+  <a id="open" class="btn hidden" href="#">名前キーで開く</a>
+  <p class="note hidden" id="hint">開かないときは、名前キーが入っているか確認し、このページを Safari で開き直してください(X や LINE のアプリ内ブラウザでは開けないことがあります)。</p>
+  <p class="note">このページは、リンクの中身をあなたの端末の中だけで読み取ります。サーバーには保存されません。他の人が作ったパックなので、内容を確認してから取り込んでください。</p>
+</main>
+
+<script>
+(async () => {
+  const $ = id => document.getElementById(id);
+  const payload = location.hash.slice(1);
+  if (!payload) { $('empty').classList.remove('hidden'); return; }
+
+  // ボタン: アプリを直接開く(中身はそのまま渡す)
+  const open = $('open');
+  open.href = 'namaekey://import?d=' + payload;
+  open.classList.remove('hidden');
+  open.addEventListener('click', () => setTimeout(() => $('hint').classList.remove('hidden'), 1500));
+
+  // プレビュー(読み取れなくても、ボタンは使える)
+  try {
+    const b64 = payload.replace(/-/g, '+').replace(/_/g, '/').padEnd(Math.ceil(payload.length / 4) * 4, '=');
+    const bin = atob(b64);
+    const bytes = Uint8Array.from(bin, c => c.charCodeAt(0));
+    const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream('deflate-raw'));
+    const text = await new Response(stream).text();
+
+    const sections = text.split('\x1e');
+    const head = sections[0].split('\x1f');
+    if (head[0] !== 'v1') throw new Error('format');
+    const records = sections.slice(1).map(r => r.split('\x1f'));
+
+    $('packName').textContent = head[1] || '(名前なし)';
+    const part = Number(head[5]) > 1 ? ` ・ パート ${head[4]}/${head[5]}` : '';
+    $('packMeta').textContent = `${records.length}件${head[2] ? ' ・ 作者 ' + head[2] : ''}${part}`;
+    const list = $('items');
+    for (const r of records.slice(0, 12)) {
+      const li = document.createElement('li');
+      li.textContent = (r[0] || r[1].split('\n')[0]).slice(0, 20);
+      list.appendChild(li);
+    }
+    if (records.length > 12) $('more').textContent = `ほか ${records.length - 12}件`;
+    $('pack').classList.remove('hidden');
+  } catch (e) {
+    // プレビューできない場合は、案内だけ出す
+    $('empty').classList.remove('hidden');
+  }
+})();
+</script>
+</body>
+</html>
