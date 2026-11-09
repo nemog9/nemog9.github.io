@@ -4,7 +4,7 @@
       {
         "appIDs": ["MYVS6F7U2G.com.nemog.namaekey"],
         "components": [
-          { "/": "/namaekey/i/*" }
+          { "/": "/namaekey/i/", "#": "?*", "comment": "名前キーのパックのリンク(#以降にパックの中身があるものだけ)" }
         ]
       }
     ]
