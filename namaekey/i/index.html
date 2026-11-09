@@ -7,9 +7,9 @@
 <meta name="robots" content="noindex">
 <title>パックを名前キーで開く</title>
 <style>
-  :root { --bg:#f4f2ff; --card:#fff; --text:#1d1b2e; --sub:#6b6880; --accent:#6c4cf0; --line:#e6e2f8; }
+  :root { --bg:#fff6ee; --card:#fff; --text:#2b1a0d; --sub:#8a6a52; --accent:#e8590c; --onaccent:#fff; --line:#f6dcc6; }
   @media (prefers-color-scheme: dark) {
-    :root { --bg:#14121f; --card:#1f1c30; --text:#f2f0ff; --sub:#a9a5c4; --accent:#9d86ff; --line:#2e2a47; }
+    :root { --bg:#1a120b; --card:#2a1d13; --text:#fff3e8; --sub:#cdaa8f; --accent:#ff8a3d; --onaccent:#1b1007; --line:#46301f; }
   }
   * { box-sizing: border-box; }
   body { margin:0; padding:24px 16px 48px; background:var(--bg); color:var(--text);
@@ -23,7 +23,7 @@
   ul { list-style:none; margin:14px 0 0; padding:0; display:flex; flex-wrap:wrap; gap:6px; }
   li { background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:3px 10px; font-size:.9rem; word-break:break-word; }
   .more { color:var(--sub); font-size:.85rem; margin-top:8px; }
-  a.btn { display:block; text-align:center; background:var(--accent); color:#fff; text-decoration:none;
+  a.btn { display:block; text-align:center; background:var(--accent); color:var(--onaccent); text-decoration:none;
           font-weight:700; padding:14px; border-radius:14px; font-size:1.05rem; }
   .note { color:var(--sub); font-size:.85rem; margin:12px 2px 0; }
   .hidden { display:none; }

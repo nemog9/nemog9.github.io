@@ -6,9 +6,11 @@
 <meta name="color-scheme" content="light dark">
 <title>名前キー</title>
 <style>
-  body { margin:0; padding:48px 20px; font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans",sans-serif; line-height:1.7; }
+  :root { --bg:#fff6ee; --text:#2b1a0d; --accent:#e8590c; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#1a120b; --text:#fff3e8; --accent:#ff8a3d; } }
+  body { background:var(--bg); color:var(--text); margin:0; padding:48px 20px; font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans",sans-serif; line-height:1.7; }
   main { max-width:520px; margin:0 auto; }
-  h1 { margin:0 0 4px; } p.tag { margin:0 0 24px; opacity:.7; }
+  h1 { margin:0 0 4px; color:var(--accent); } p.tag { margin:0 0 24px; opacity:.7; }
 </style>
 </head>
 <body>
