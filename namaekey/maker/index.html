@@ -136,16 +136,17 @@ async function makeLinks(name, entries) {
   return links;
 }
 
-function packName() { return $('name').value.trim() || 'マイスニペット'; }
+function packName() { return $('name').value.trim(); }
 
 function refresh() {
   const n = parse($('src').value).length;
   $('count').textContent = n ? `${n}件` : '';
-  $('dl').disabled = $('mk').disabled = n === 0;
+  $('dl').disabled = $('mk').disabled = n === 0 || !packName();
 }
 
 $('sample').addEventListener('click', () => { $('src').value = SAMPLE; if (!$('name').value) $('name').value = 'サンプル'; refresh(); });
 $('src').addEventListener('input', refresh);
+$('name').addEventListener('input', refresh);
 
 $('dl').addEventListener('click', () => {
   const name = packName();
