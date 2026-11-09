@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex">
+<title>名前キー パック作成</title>
+<style>
+  :root { --bg:#fff6ee; --card:#fff; --text:#2b1a0d; --sub:#8a6a52; --accent:#e8590c; --onaccent:#fff; --line:#f6dcc6; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#1a120b; --card:#2a1d13; --text:#fff3e8; --sub:#cdaa8f; --accent:#ff8a3d; --onaccent:#1b1007; --line:#46301f; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; padding:24px 16px 64px; background:var(--bg); color:var(--text);
+         font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif; line-height:1.6; }
+  main { max-width:720px; margin:0 auto; }
+  h1 { font-size:1.2rem; margin:0 0 16px; }
+  label { display:block; font-weight:600; margin:16px 0 6px; }
+  input[type=text], textarea { width:100%; padding:12px; border:1px solid var(--line); border-radius:12px;
+         background:var(--card); color:var(--text); font:inherit; }
+  textarea { min-height:280px; font-family:ui-monospace,Menlo,"Hiragino Sans",monospace; font-size:.95rem; resize:vertical; }
+  .hint { color:var(--sub); font-size:.88rem; margin:6px 2px 0; }
+  .row { display:flex; gap:10px; flex-wrap:wrap; margin-top:16px; align-items:center; }
+  button { background:var(--accent); color:var(--onaccent); border:0; border-radius:12px; padding:12px 18px;
+           font:inherit; font-weight:700; cursor:pointer; }
+  button.sub { background:var(--card); color:var(--accent); border:1px solid var(--line); }
+  button:disabled { opacity:.4; cursor:default; }
+  .count { color:var(--sub); font-size:.9rem; }
+  .links { margin-top:18px; display:flex; flex-direction:column; gap:10px; }
+  .link { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:10px; }
+  .link input { font-size:.8rem; }
+  .link .meta { display:flex; justify-content:space-between; align-items:center; margin-top:8px; color:var(--sub); font-size:.85rem; }
+  .warn { color:var(--accent); font-size:.9rem; margin-top:10px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>名前キー パック作成</h1>
+
+  <label for="name">パック名</label>
+  <input id="name" type="text" placeholder="例: 作品名">
+
+  <label for="src">1行に1つ</label>
+  <textarea id="src" spellcheck="false" placeholder="本文 | 読み | 別名1、別名2"></textarea>
+  <p class="hint">読みと別名は省略できます。区切りは「|」かタブです。表計算ソフトの列(本文・読み・別名)を、そのまま貼れます。</p>
+
+  <div class="row">
+    <button id="sample" class="sub" type="button">サンプルを入れる</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="row">
+    <button id="dl" type="button" disabled>ファイルをダウンロード</button>
+    <button id="mk" class="sub" type="button" disabled>リンクを作る</button>
+  </div>
+  <div id="warn" class="warn" hidden></div>
+  <div id="links" class="links"></div>
+</main>
+
+<script>
+const FS = '\x1f', RS = '\x1e', GS = '\x1d';
+const BASE = 'https://nemog9.github.io/namaekey/i/#';
+const MAX_URL = 3500, MAX_LINES = 2000;
+const $ = id => document.getElementById(id);
+
+const SAMPLE = [
+  '山田太郎 | やまだたろう | たろ、タロウ',
+  '鈴木花子 | すずきはなこ',
+  '佐藤先生 | さとうせんせい',
+].join('\n');
+
+function clean(s) { return s.replace(/[\x1d-\x1f]/g, ''); }
+
+function parse(text) {
+  const out = [];
+  for (const line of text.split(/\r?\n/)) {
+    const parts = line.split(/[|｜\t]/).map(s => s.trim());
+    const body = parts[0];
+    if (!body) continue;
+    out.push({
+      body,
+      reading: parts[1] || '',
+      aliases: (parts[2] || '').split(/[、,，]/).map(s => s.trim()).filter(Boolean),
+    });
+    if (out.length >= MAX_LINES) break;
+  }
+  return out;
+}
+
+const defaultTitle = body => Array.from(body.trim().split(/\r?\n/)[0] || '').slice(0, 20).join('');
+
+// FNV-1a(64bit)。アプリの PackCodec.stableHash と同じ
+function fnv64(str) {
+  let h = 0xcbf29ce484222325n;
+  for (const b of new TextEncoder().encode(str)) { h ^= BigInt(b); h = (h * 0x100000001b3n) & 0xffffffffffffffffn; }
+  return h.toString(16);
+}
+
+async function deflateRaw(bytes) {
+  const stream = new Blob([bytes]).stream().pipeThrough(new CompressionStream('deflate-raw'));
+  return new Uint8Array(await new Response(stream).arrayBuffer());
+}
+function b64url(bytes) {
+  let s = ''; for (const b of bytes) s += String.fromCharCode(b);
+  return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+}
+
+async function payloadFor(name, entries, part, total) {
+  const head = ['v1', clean(name), '', fnv64(name), String(part), String(total)].join(FS);
+  const recs = entries.map(e => {
+    const title = defaultTitle(e.body);
+    return ['', clean(e.body), e.reading && e.reading !== title ? clean(e.reading) : '',
+            e.aliases.map(clean).join(GS), '', ''].join(FS);
+  });
+  const bytes = new TextEncoder().encode([head, ...recs].join(RS));
+  return b64url(await deflateRaw(bytes));
+}
+
+async function makeLinks(name, entries) {
+  const chunks = [];
+  let start = 0;
+  while (start < entries.length) {
+    let lo = 1, hi = entries.length - start, best = 1;
+    while (lo <= hi) {
+      const mid = (lo + hi) >> 1;
+      const p = await payloadFor(name, entries.slice(start, start + mid), 99, 99);
+      if (BASE.length + p.length <= MAX_URL) { best = mid; lo = mid + 1; } else { hi = mid - 1; }
+    }
+    chunks.push(entries.slice(start, start + best));
+    start += best;
+  }
+  const links = [];
+  for (let i = 0; i < chunks.length; i++) {
+    links.push(BASE + await payloadFor(name, chunks[i], i + 1, chunks.length));
+  }
+  return links;
+}
+
+function packName() { return $('name').value.trim() || 'マイスニペット'; }
+
+function refresh() {
+  const n = parse($('src').value).length;
+  $('count').textContent = n ? `${n}件` : '';
+  $('dl').disabled = $('mk').disabled = n === 0;
+}
+
+$('sample').addEventListener('click', () => { $('src').value = SAMPLE; if (!$('name').value) $('name').value = 'サンプル'; refresh(); });
+$('src').addEventListener('input', refresh);
+
+$('dl').addEventListener('click', () => {
+  const name = packName();
+  const pack = {
+    format: 'namaekey-pack', version: 1, id: fnv64(name), name, author: '',
+    snippets: parse($('src').value).map(e => {
+      const title = defaultTitle(e.body);
+      return { id: 'w-' + fnv64(e.body), title, body: e.body, reading: e.reading || title,
+               aliases: e.aliases, category: name, tags: [] };
+    }),
+  };
+  const blob = new Blob([JSON.stringify(pack, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = name.replace(/[\\/:*?"<>|\n]/g, '_').slice(0, 50) + '.namaekey';
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+$('mk').addEventListener('click', async () => {
+  const box = $('links'); box.textContent = '';
+  const links = await makeLinks(packName(), parse($('src').value));
+  $('warn').hidden = links.length <= 8;
+  $('warn').textContent = links.length > 8 ? `リンクが${links.length}本になります。ファイルでの共有をおすすめします。` : '';
+  links.forEach((url, i) => {
+    const div = document.createElement('div'); div.className = 'link';
+    const input = document.createElement('input'); input.type = 'text'; input.readOnly = true; input.value = url;
+    input.addEventListener('focus', () => input.select());
+    const meta = document.createElement('div'); meta.className = 'meta';
+    const label = document.createElement('span');
+    label.textContent = (links.length > 1 ? `${i + 1}/${links.length}  ` : '') + `${url.length}文字`;
+    const copy = document.createElement('button'); copy.className = 'sub'; copy.type = 'button'; copy.textContent = 'コピー';
+    copy.addEventListener('click', async () => { await navigator.clipboard.writeText(url); copy.textContent = 'コピーしました'; });
+    meta.append(label, copy); div.append(input, meta); box.append(div);
+  });
+});
+refresh();
+</script>
+</body>
+</html>
