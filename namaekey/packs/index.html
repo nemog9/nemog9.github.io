@@ -22,6 +22,7 @@
   .info { flex:1; min-width:0; }
   .name { font-weight:700; }
   .desc { font-size:.88rem; color:var(--sub); }
+  #all { margin:18px 0 0; }
   .btn { flex:none; background:var(--accent); color:#fff; text-decoration:none; font-weight:700;
          padding:8px 14px; border-radius:999px; font-size:.9rem; }
   .steps { font-size:.9rem; color:var(--sub); }
@@ -31,7 +32,8 @@
 <main>
   <h1>パック一覧</h1>
   <p class="sub">名前キー — キャラクターの名前を一発変換</p>
-  <p class="steps">「ダウンロード」を押したあと、ファイルを開いて「名前キー」を選ぶと、取り込めます。</p>
+  <p class="steps">「ダウンロード」を押したあと、ファイルを開いて「名前キー」を選ぶと、取り込めます。zipは、展開してから、アプリの「ファイルから取り込む」でまとめて選べます。</p>
+  <p id="all" hidden><a class="btn" href="dl/all.zip" download="名前キーのパック一式.zip">すべてまとめてダウンロード(zip)</a></p>
   <div id="list"></div>
   <p id="empty" class="sub" hidden>準備中です。</p>
   <p class="sub"><a href="../maker/">ブラウザでパックを作る</a> ・ <a href="../support/">サポート</a></p>
@@ -40,6 +42,7 @@
 fetch("packs.json", { cache: "no-cache" }).then(r => r.json()).then(items => {
   const root = document.getElementById("list");
   if (!items.length) { document.getElementById("empty").hidden = false; return; }
+  document.getElementById("all").hidden = false;
   let ul = null, last = null;
   for (const p of items) {
     if (p.genre !== last) {
