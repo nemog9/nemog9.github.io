@@ -1,0 +1,282 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "564fdca358690209",
+  "name": "ラブライブ!",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-864de4cc9a1a5a55",
+      "title": "高坂穂乃果",
+      "body": "高坂穂乃果",
+      "reading": "こうさかほのか",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-467b113307891107",
+      "title": "絢瀬絵里",
+      "body": "絢瀬絵里",
+      "reading": "あやせえり",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-8dc95e5a696c6990",
+      "title": "南ことり",
+      "body": "南ことり",
+      "reading": "みなみことり",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-ec0ea387e2543661",
+      "title": "園田海未",
+      "body": "園田海未",
+      "reading": "そのだうみ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-dc9e072ace971d8b",
+      "title": "星空凛",
+      "body": "星空凛",
+      "reading": "ほしぞらりん",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-84ce9ec6ffaa0c6e",
+      "title": "西木野真姫",
+      "body": "西木野真姫",
+      "reading": "にしきのまき",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-3a175eddc4337d99",
+      "title": "東條希",
+      "body": "東條希",
+      "reading": "とうじょうのぞみ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-dec8fc3a57f0bcc7",
+      "title": "小泉花陽",
+      "body": "小泉花陽",
+      "reading": "こいずみはなよ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-b7229d16bde42743",
+      "title": "矢澤にこ",
+      "body": "矢澤にこ",
+      "reading": "やざわにこ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-cc3d1e331ab2ff31",
+      "title": "高海千歌",
+      "body": "高海千歌",
+      "reading": "たかみちか",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-e1d0de51e2d6d7e0",
+      "title": "桜内梨子",
+      "body": "桜内梨子",
+      "reading": "さくらうちりこ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-d9fa8ea12bf435a0",
+      "title": "松浦果南",
+      "body": "松浦果南",
+      "reading": "まつうらかなん",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-860c03c3af5e2870",
+      "title": "黒澤ダイヤ",
+      "body": "黒澤ダイヤ",
+      "reading": "くろさわだいや",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-3645bef47390abab",
+      "title": "渡辺曜",
+      "body": "渡辺曜",
+      "reading": "わたなべよう",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-593c926f43230535",
+      "title": "津島善子",
+      "body": "津島善子",
+      "reading": "つしまよしこ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-77cc768bf5fcfeac",
+      "title": "国木田花丸",
+      "body": "国木田花丸",
+      "reading": "くにきだはなまる",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-af81f58948b4ff65",
+      "title": "小原鞠莉",
+      "body": "小原鞠莉",
+      "reading": "おはらまり",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-7845236e6eb9c531",
+      "title": "黒澤ルビィ",
+      "body": "黒澤ルビィ",
+      "reading": "くろさわるびぃ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-3d88a38d1e706b3a",
+      "title": "上原歩夢",
+      "body": "上原歩夢",
+      "reading": "うえはらあゆむ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-1eca7b0bceed96a0",
+      "title": "中須かすみ",
+      "body": "中須かすみ",
+      "reading": "なかすかすみ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-b323c55321d58c5e",
+      "title": "桜坂しずく",
+      "body": "桜坂しずく",
+      "reading": "おうさかしずく",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-b750ed3eb97ca469",
+      "title": "朝香果林",
+      "body": "朝香果林",
+      "reading": "あさかかりん",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-8c60078fe9ff6228",
+      "title": "宮下愛",
+      "body": "宮下愛",
+      "reading": "みやしたあい",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-b8947861b92344a2",
+      "title": "近江彼方",
+      "body": "近江彼方",
+      "reading": "このえかなた",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-dfe33a15725f80c2",
+      "title": "優木せつ菜",
+      "body": "優木せつ菜",
+      "reading": "ゆうきせつな",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-80c149942942f7c3",
+      "title": "天王寺璃奈",
+      "body": "天王寺璃奈",
+      "reading": "てんのうじりな",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-ccbd05a8dd9cf551",
+      "title": "三船栞子",
+      "body": "三船栞子",
+      "reading": "みふねしおりこ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-36883a643199e814",
+      "title": "鐘嵐珠",
+      "body": "鐘嵐珠",
+      "reading": "しょうらんじゅ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-3575ce97e360b0df",
+      "title": "高咲侑",
+      "body": "高咲侑",
+      "reading": "たかさきゆう",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-41e12420ce100f6e",
+      "title": "澁谷かのん",
+      "body": "澁谷かのん",
+      "reading": "しぶやかのん",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-5b61a67d59cecba2",
+      "title": "唐可可",
+      "body": "唐可可",
+      "reading": "たんくぅくぅ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-82b1a4e4543f03b6",
+      "title": "嵐千砂都",
+      "body": "嵐千砂都",
+      "reading": "あらしちさと",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-8d7989cd172d3025",
+      "title": "平安名すみれ",
+      "body": "平安名すみれ",
+      "reading": "へあんなすみれ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-e3c81b8c6628630d",
+      "title": "葉月恋",
+      "body": "葉月恋",
+      "reading": "はづきれん",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-129b38fa89682adf",
+      "title": "桜小路きな子",
+      "body": "桜小路きな子",
+      "reading": "さくらこうじきなこ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-db8fab6a3e649865",
+      "title": "米女メイ",
+      "body": "米女メイ",
+      "reading": "よねめめい",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-a6e7fd50967a53aa",
+      "title": "若菜四季",
+      "body": "若菜四季",
+      "reading": "わかなしき",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-7e06d7a036052f4b",
+      "title": "鬼塚夏美",
+      "body": "鬼塚夏美",
+      "reading": "おにつかなつみ",
+      "category": "ラブライブ!"
+    },
+    {
+      "id": "w-b9e1c70d617ed516",
+      "title": "鬼塚冬毬",
+      "body": "鬼塚冬毬",
+      "reading": "おにつかとまり",
+      "category": "ラブライブ!"
+    }
+  ]
+}

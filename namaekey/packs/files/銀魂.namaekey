@@ -1,0 +1,898 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "3d7b5fc58860937e",
+  "name": "銀魂",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-a45ef4f90f441ade",
+      "title": "坂田銀時",
+      "body": "坂田銀時",
+      "reading": "さかたぎんとき",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-ce50af03eb7182a1",
+      "title": "志村新八",
+      "body": "志村新八",
+      "reading": "しむらしんぱち",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-cd1b68bdea8c7b0b",
+      "title": "神楽",
+      "body": "神楽",
+      "reading": "かぐら",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-8bb20a0b925ee871",
+      "title": "定春",
+      "body": "定春",
+      "reading": "さだはる",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-6090b30c76622948",
+      "title": "坂田金時",
+      "body": "坂田金時",
+      "reading": "さかたきんとき",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-bc480657d865560d",
+      "title": "志村剣",
+      "body": "志村剣",
+      "reading": "しむらけん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-bbf40457d81ec5a8",
+      "title": "志村妙",
+      "body": "志村妙",
+      "reading": "しむらたえ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-118dcb66358c98e1",
+      "title": "尾美一",
+      "body": "尾美一",
+      "reading": "おびはじめ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-61ba6b292fe0724b",
+      "title": "星海坊主",
+      "body": "星海坊主",
+      "reading": "うみぼうず",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-cc50aebde9e13e99",
+      "title": "神晃",
+      "body": "神晃",
+      "reading": "かんこう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-4d2e0dbf7d34dc25",
+      "title": "江華",
+      "body": "江華",
+      "reading": "こうか",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-b33021bddbe3399b",
+      "title": "神威",
+      "body": "神威",
+      "reading": "かむい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-bb9b71f4811d88fe",
+      "title": "狛子",
+      "body": "狛子",
+      "reading": "こまこ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-55cb5f11fa0b5c91",
+      "title": "寺田綾乃",
+      "body": "寺田綾乃",
+      "reading": "てらだあやの",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-52f2387c5392c4e8",
+      "title": "寺田辰五郎",
+      "body": "寺田辰五郎",
+      "reading": "てらだたつごろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-57228dc632058306",
+      "title": "西郷特盛",
+      "body": "西郷特盛",
+      "reading": "さいごうとくもり",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-68a7f0f8a0a1228",
+      "title": "西郷てる彦",
+      "body": "西郷てる彦",
+      "reading": "さいごうてるひこ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-b583f7db8167a383",
+      "title": "泥水次郎長",
+      "body": "泥水次郎長",
+      "reading": "どろみずじろちょう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-9f0a9886975d386c",
+      "title": "黒駒勝男",
+      "body": "黒駒勝男",
+      "reading": "くろごまかつお",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-961ffc4becff9c1f",
+      "title": "椿平子",
+      "body": "椿平子",
+      "reading": "ちんぴらこ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-bf2c8dcd9d50669b",
+      "title": "本城狂死郎",
+      "body": "本城狂死郎",
+      "reading": "ほんじょうきょうしろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-4eb31a4d508becbe",
+      "title": "八郎",
+      "body": "八郎",
+      "reading": "はちろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-9ebb9652720904bc",
+      "title": "マダム夜神",
+      "body": "マダム夜神",
+      "reading": "まだむやがみ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-4e30c770518eb2d2",
+      "title": "阿音",
+      "body": "阿音",
+      "reading": "あね",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e061ef887969d4ba",
+      "title": "百音",
+      "body": "百音",
+      "reading": "もね",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-2490154401013638",
+      "title": "長谷川泰三",
+      "body": "長谷川泰三",
+      "reading": "はせがわたいぞう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-2521ba6ad836a0de",
+      "title": "平賀源外",
+      "body": "平賀源外",
+      "reading": "ひらがげんがい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e3d0f3ba098dd18a",
+      "title": "高屋八兵衛",
+      "body": "高屋八兵衛",
+      "reading": "たかやはちべえ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-44f79b6f22c1427b",
+      "title": "寺門通",
+      "body": "寺門通",
+      "reading": "てらかどつう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-f7778fcbd60150f3",
+      "title": "花野咲",
+      "body": "花野咲",
+      "reading": "はなのさき",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-48f08f0925bd59b",
+      "title": "錦幾松",
+      "body": "錦幾松",
+      "reading": "にしきいくまつ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-c861c48f2864b247",
+      "title": "錦松五郎",
+      "body": "錦松五郎",
+      "reading": "にしきまつごろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-f557e7fb89338de",
+      "title": "村田鉄矢",
+      "body": "村田鉄矢",
+      "reading": "むらたてつや",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-1c6fae7fbecceab0",
+      "title": "村田鉄子",
+      "body": "村田鉄子",
+      "reading": "むらたてつこ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-b2af43ef8027ea36",
+      "title": "辰巳",
+      "body": "辰巳",
+      "reading": "たつみ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-2cc002fa10dc8065",
+      "title": "華陀",
+      "body": "華陀",
+      "reading": "かだ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-d8fa8b23512eb9cd",
+      "title": "屁怒絽",
+      "body": "屁怒絽",
+      "reading": "へどろ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e8ef9d506a019f12",
+      "title": "徳川茂茂",
+      "body": "徳川茂茂",
+      "reading": "とくがわしげしげ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-a48ddb8cb7179a70",
+      "title": "徳川そよ",
+      "body": "徳川そよ",
+      "reading": "とくがわそよ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e0b861832baa1cf9",
+      "title": "徳川定々",
+      "body": "徳川定々",
+      "reading": "とくがわさださだ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-66b3c49bf5d4fda2",
+      "title": "一橋喜々",
+      "body": "一橋喜々",
+      "reading": "ひとつばしのぶのぶ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-ada77ac3d99f6d12",
+      "title": "六転舞蔵",
+      "body": "六転舞蔵",
+      "reading": "ろってんまいぞう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-9234ae5f1a91d448",
+      "title": "松平片栗虎",
+      "body": "松平片栗虎",
+      "reading": "まつだいらかたくりこ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-8833c125d3f99b12",
+      "title": "松平栗子",
+      "body": "松平栗子",
+      "reading": "まつだいらくりこ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-786c7ccf0477d2d0",
+      "title": "近藤勲",
+      "body": "近藤勲",
+      "reading": "こんどういさお",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-1335dc11aec7984",
+      "title": "土方十四郎",
+      "body": "土方十四郎",
+      "reading": "ひじかたとうしろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-b6ee64e9df7b5d5a",
+      "title": "沖田総悟",
+      "body": "沖田総悟",
+      "reading": "おきたそうご",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-7d7479fce93810d6",
+      "title": "山崎退",
+      "body": "山崎退",
+      "reading": "やまざきさがる",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-1e3524fc5057ad07",
+      "title": "原田右之助",
+      "body": "原田右之助",
+      "reading": "はらだうのすけ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e04eabcf2bb7ff4f",
+      "title": "斉藤終",
+      "body": "斉藤終",
+      "reading": "さいとうしまる",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-44100ca76e6f734f",
+      "title": "伊東鴨太郎",
+      "body": "伊東鴨太郎",
+      "reading": "いとうかもたろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-12629838ba5db1cd",
+      "title": "篠原進之進",
+      "body": "篠原進之進",
+      "reading": "しのはらしんのしん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-578e550a54ba5514",
+      "title": "隈無清蔵",
+      "body": "隈無清蔵",
+      "reading": "くまなくせいぞう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-93bacc06a0241212",
+      "title": "神山五郎",
+      "body": "神山五郎",
+      "reading": "かみやまごろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-cf83132f5e5262e6",
+      "title": "佐々木鉄之助",
+      "body": "佐々木鉄之助",
+      "reading": "ささきてつのすけ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-d7aea2656293c045",
+      "title": "佐々木異三郎",
+      "body": "佐々木異三郎",
+      "reading": "ささきいさぶろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-939e1ba35fc7c5ec",
+      "title": "今井信女",
+      "body": "今井信女",
+      "reading": "いまいのぶめ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-2b5e53768d13b80b",
+      "title": "猿飛あやめ",
+      "body": "猿飛あやめ",
+      "reading": "さるとびあやめ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-93875c1733f9f30f",
+      "title": "服部全蔵",
+      "body": "服部全蔵",
+      "reading": "はっとりぜんぞう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-3111cdf65d58a2a1",
+      "title": "脇薫",
+      "body": "脇薫",
+      "reading": "わきかおる",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-b4d411790fcfe8b2",
+      "title": "影丸",
+      "body": "影丸",
+      "reading": "かげまる",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-ba05a64ff993a9a2",
+      "title": "柳生九兵衛",
+      "body": "柳生九兵衛",
+      "reading": "やぎゅうきゅうべえ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-d9ad70a6d13dd0a3",
+      "title": "柳生輿矩",
+      "body": "柳生輿矩",
+      "reading": "やぎゅうこしのり",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-47e1b1b117e5dfbd",
+      "title": "柳生敏木斎",
+      "body": "柳生敏木斎",
+      "reading": "やぎゅうびんぼくさい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-8dbf9bc8168c3081",
+      "title": "東城歩",
+      "body": "東城歩",
+      "reading": "とうじょうあゆむ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-5cd6cbedee0bece1",
+      "title": "北大路斎",
+      "body": "北大路斎",
+      "reading": "きたおおじいつき",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-9c878fbdb125ec49",
+      "title": "西野掴",
+      "body": "西野掴",
+      "reading": "にしのつかむ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-f7275d848e630e54",
+      "title": "南戸粋",
+      "body": "南戸粋",
+      "reading": "みなみとすい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-33555d1b747516c8",
+      "title": "朧",
+      "body": "朧",
+      "reading": "おぼろ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-7dde331b9db4a1b6",
+      "title": "骸",
+      "body": "骸",
+      "reading": "むくろ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-8a1aba1ba5a6cbb0",
+      "title": "虚",
+      "body": "虚",
+      "reading": "うつろ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-3359d31b7479c821",
+      "title": "柩",
+      "body": "柩",
+      "reading": "ひつぎ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-a32af50133e4607a",
+      "title": "池田朝右衛門",
+      "body": "池田朝右衛門",
+      "reading": "いけだあさえもん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-cc1787ce05352758",
+      "title": "池田夜右衛門",
+      "body": "池田夜右衛門",
+      "reading": "いけだやえもん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e53e909e981cc5aa",
+      "title": "結野晴明",
+      "body": "結野晴明",
+      "reading": "けつのせいめい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-5941652dd21dd1a0",
+      "title": "結野クリステル",
+      "body": "結野クリステル",
+      "reading": "けつのくりすてる",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-835af631672ac65a",
+      "title": "巳厘野道満",
+      "body": "巳厘野道満",
+      "reading": "しりのどうまん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-fb81a40ef21670e3",
+      "title": "外道丸",
+      "body": "外道丸",
+      "reading": "げどうまる",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-41a93b3fc416680b",
+      "title": "小銭形平次",
+      "body": "小銭形平次",
+      "reading": "こぜにがたへいじ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-ffe7f75ef94c6989",
+      "title": "桂小太郎",
+      "body": "桂小太郎",
+      "reading": "かつらこたろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-4cea0cbf7cfb0da6",
+      "title": "江蓮",
+      "body": "江蓮",
+      "reading": "えれん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-8891ce034bf4d20d",
+      "title": "高杉晋助",
+      "body": "高杉晋助",
+      "reading": "たかすぎしんすけ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-aeb64d2a2ea8b9f0",
+      "title": "河上万斉",
+      "body": "河上万斉",
+      "reading": "かわかみばんさい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-4cbc8456b453ef6",
+      "title": "来島また子",
+      "body": "来島また子",
+      "reading": "きじままたこ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-d87efaae54a5ffd5",
+      "title": "武市変平太",
+      "body": "武市変平太",
+      "reading": "たけちへんぺいた",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-6d1c0462b6280151",
+      "title": "岡田似蔵",
+      "body": "岡田似蔵",
+      "reading": "おかだにぞう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-b29f67e8d9083ebe",
+      "title": "月詠",
+      "body": "月詠",
+      "reading": "つくよ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-de3e82358978bf19",
+      "title": "日輪",
+      "body": "日輪",
+      "reading": "ひのわ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-62f1515d60d1bdc5",
+      "title": "晴太",
+      "body": "晴太",
+      "reading": "せいた",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-1808898992b7d7a6",
+      "title": "鳳仙",
+      "body": "鳳仙",
+      "reading": "ほうせん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-d107408e585e6fa7",
+      "title": "鈴蘭",
+      "body": "鈴蘭",
+      "reading": "すずらん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-913850513a86b5b9",
+      "title": "地雷亜",
+      "body": "地雷亜",
+      "reading": "じらいあ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-5c8554e77f4e21f5",
+      "title": "猿赫",
+      "body": "猿赫",
+      "reading": "えんかく",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-f3d69d6fe7d74210",
+      "title": "坂本辰馬",
+      "body": "坂本辰馬",
+      "reading": "さかもとたつま",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-3dca21ab3d299d26",
+      "title": "陸奥",
+      "body": "陸奥",
+      "reading": "むつ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-577b816f6b1d93d0",
+      "title": "藤林鎧門",
+      "body": "藤林鎧門",
+      "reading": "ふじばやしがいもん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-7839b0d034302d7b",
+      "title": "百地乱破",
+      "body": "百地乱破",
+      "reading": "ももちらっぱ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-dc4b83bae2cea6f2",
+      "title": "吉田松陽",
+      "body": "吉田松陽",
+      "reading": "よしだしょうよう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-de4284108b8c2237",
+      "title": "獅嶺",
+      "body": "獅嶺",
+      "reading": "しれい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-5866fb94ab8fbefe",
+      "title": "馬董",
+      "body": "馬董",
+      "reading": "ばとう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e586c58424c86833",
+      "title": "范堺",
+      "body": "范堺",
+      "reading": "はんかい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-a003c29b3c865e4b",
+      "title": "猩覚",
+      "body": "猩覚",
+      "reading": "しょうかく",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-ebe3eac3ba0bd75a",
+      "title": "阿伏兎",
+      "body": "阿伏兎",
+      "reading": "あぶと",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-c316697227a5d1be",
+      "title": "云業",
+      "body": "云業",
+      "reading": "うんぎょう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-5ecd7f9ebabd8cf9",
+      "title": "勾狼",
+      "body": "勾狼",
+      "reading": "こうろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-ce29ebf1a6bd9f58",
+      "title": "陀絡",
+      "body": "陀絡",
+      "reading": "だらく",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-2b23d0703d963f43",
+      "title": "阿呆",
+      "body": "阿呆",
+      "reading": "あぼう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-2857d3bdf6463139",
+      "title": "紫雀",
+      "body": "紫雀",
+      "reading": "しじゃく",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-ac710a1b37600f9d",
+      "title": "圓翔",
+      "body": "圓翔",
+      "reading": "えんしょう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-9626c1f816dc7fd1",
+      "title": "王蓋",
+      "body": "王蓋",
+      "reading": "おうがい",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-d64c4b8cf6583b75",
+      "title": "蒼達",
+      "body": "蒼達",
+      "reading": "そうたつ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-f440bc6dbb352183",
+      "title": "孫老師",
+      "body": "孫老師",
+      "reading": "そんろうし",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-308f6a0c8de66c44",
+      "title": "黒子野太助",
+      "body": "黒子野太助",
+      "reading": "くろこのたすけ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-805bc1e5dc05f161",
+      "title": "土方為五郎",
+      "body": "土方為五郎",
+      "reading": "ひじかたためごろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-cca16af4d018b351",
+      "title": "沖田ミツバ",
+      "body": "沖田ミツバ",
+      "reading": "おきたみつば",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-8efeb39440764327",
+      "title": "蔵場当馬",
+      "body": "蔵場当馬",
+      "reading": "くらばとうま",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-7dd3a81b9dab6100",
+      "title": "鯱",
+      "body": "鯱",
+      "reading": "しゃち",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-e01d8c58b69c6c04",
+      "title": "道信",
+      "body": "道信",
+      "reading": "どうしん",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-7a3b5e0aa5e33947",
+      "title": "鬼獅子",
+      "body": "鬼獅子",
+      "reading": "おにじし",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-f5a0a8bfec270db1",
+      "title": "伍丸弐號",
+      "body": "伍丸弐號",
+      "reading": "ごまるにごう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-69ec25ad01c3186a",
+      "title": "橋田賀兵衛",
+      "body": "橋田賀兵衛",
+      "reading": "はしだかへえ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-5fe02bdb5d25277",
+      "title": "橋田勘七郎",
+      "body": "橋田勘七郎",
+      "reading": "はしだかんしちろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-2147a544d0fc436f",
+      "title": "狐火の長五郎",
+      "body": "狐火の長五郎",
+      "reading": "きつねびのちょうごろう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-bb80eae711f3178b",
+      "title": "六角霧江",
+      "body": "六角霧江",
+      "reading": "ろっかくきりえ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-c325e5b963e0dd28",
+      "title": "天堂蒼達",
+      "body": "天堂蒼達",
+      "reading": "てんどうそうたつ",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-bf4959de2af10b1e",
+      "title": "厭魅眠蔵",
+      "body": "厭魅眠蔵",
+      "reading": "えんみねむぞう",
+      "category": "銀魂"
+    },
+    {
+      "id": "w-40b09cfa5678be7f",
+      "title": "林流山",
+      "body": "林流山",
+      "reading": "はやしりゅうざん",
+      "category": "銀魂"
+    }
+  ]
+}

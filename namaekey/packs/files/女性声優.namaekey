@@ -1,0 +1,926 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "ae034b9cb3713082",
+  "name": "女性声優",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-de120827e5c75947",
+      "title": "相坂優歌",
+      "body": "相坂優歌",
+      "reading": "あいさかゆうか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f768663ed0a0b94d",
+      "title": "逢田梨香子",
+      "body": "逢田梨香子",
+      "reading": "あいだりかこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-41b68460cd0995e0",
+      "title": "青山吉能",
+      "body": "青山吉能",
+      "reading": "あおやまよしの",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f6ddb686b19e6d4a",
+      "title": "赤尾ひかる",
+      "body": "赤尾ひかる",
+      "reading": "あかおひかる",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f1999454f48a672",
+      "title": "明坂聡美",
+      "body": "明坂聡美",
+      "reading": "あけさかさとみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-c27911b968b313c7",
+      "title": "麻倉もも",
+      "body": "麻倉もも",
+      "reading": "あさくらもも",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-edd447322b48cc25",
+      "title": "阿澄佳奈",
+      "body": "阿澄佳奈",
+      "reading": "あすみかな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-7d73db69b700f0b6",
+      "title": "雨宮天",
+      "body": "雨宮天",
+      "reading": "あまみやそら",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-d511cbd6e5f68c11",
+      "title": "新井里美",
+      "body": "新井里美",
+      "reading": "あらいさとみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f4d213ce8a15915d",
+      "title": "井口裕香",
+      "body": "井口裕香",
+      "reading": "いぐちゆか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-eeb05f5b5cc363bf",
+      "title": "石上静香",
+      "body": "石上静香",
+      "reading": "いしがみしずか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-5d89f67b2d22e9c8",
+      "title": "石川由依",
+      "body": "石川由依",
+      "reading": "いしかわゆい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-5f7b17b774e0f33e",
+      "title": "石原夏織",
+      "body": "石原夏織",
+      "reading": "いしはらかおり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f53f786821f5a5f6",
+      "title": "伊瀬茉莉也",
+      "body": "伊瀬茉莉也",
+      "reading": "いせまりや",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-1debf48a2afff5c4",
+      "title": "市ノ瀬加那",
+      "body": "市ノ瀬加那",
+      "reading": "いちのせかな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-32edc76cd7e45beb",
+      "title": "伊藤かな恵",
+      "body": "伊藤かな恵",
+      "reading": "いとうかなえ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-3fb74d699660d7dd",
+      "title": "伊藤静",
+      "body": "伊藤静",
+      "reading": "いとうしずか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-333b0d9139f3630f",
+      "title": "伊藤美来",
+      "body": "伊藤美来",
+      "reading": "いとうみく",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-bb06af45d4ea7b2d",
+      "title": "井上喜久子",
+      "body": "井上喜久子",
+      "reading": "いのうえきくこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-b32055cec0cdcbae",
+      "title": "井上麻里奈",
+      "body": "井上麻里奈",
+      "reading": "いのうえまりな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-361fad6e8ce43c70",
+      "title": "石見舞菜香",
+      "body": "石見舞菜香",
+      "reading": "いわみまなか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-d42210e745868f12",
+      "title": "上坂すみれ",
+      "body": "上坂すみれ",
+      "reading": "うえさかすみれ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-5f4f78a82b16b824",
+      "title": "上田麗奈",
+      "body": "上田麗奈",
+      "reading": "うえだれな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-332913066c4c8693",
+      "title": "内田彩",
+      "body": "内田彩",
+      "reading": "うちだあや",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-7076a21b069171b7",
+      "title": "内田真礼",
+      "body": "内田真礼",
+      "reading": "うちだまあや",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-521025c92eaf6b29",
+      "title": "遠藤綾",
+      "body": "遠藤綾",
+      "reading": "えんどうあや",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-5165260359d87a0a",
+      "title": "大久保瑠美",
+      "body": "大久保瑠美",
+      "reading": "おおくぼるみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-b1791b6ea1ce06c8",
+      "title": "大谷育江",
+      "body": "大谷育江",
+      "reading": "おおたにいくえ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-54a9635e41728d66",
+      "title": "大西亜玖璃",
+      "body": "大西亜玖璃",
+      "reading": "おおにしあぐり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-6b5f1982d6b244ae",
+      "title": "大西沙織",
+      "body": "大西沙織",
+      "reading": "おおにしさおり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-339cde63c8b6964",
+      "title": "大橋彩香",
+      "body": "大橋彩香",
+      "reading": "おおはしあやか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-3aae6a31fab2103e",
+      "title": "大原さやか",
+      "body": "大原さやか",
+      "reading": "おおはらさやか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-d04616f28186ed87",
+      "title": "緒方恵美",
+      "body": "緒方恵美",
+      "reading": "おがためぐみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-1ad86a96c966e1f7",
+      "title": "小倉唯",
+      "body": "小倉唯",
+      "reading": "おぐらゆい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-b914f7d8211df570",
+      "title": "小澤亜李",
+      "body": "小澤亜李",
+      "reading": "おざわあり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-128b5547c1d95379",
+      "title": "加隈亜衣",
+      "body": "加隈亜衣",
+      "reading": "かくまあい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-58cd2f06fb763b24",
+      "title": "加藤英美里",
+      "body": "加藤英美里",
+      "reading": "かとうえみり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-e2d89f60e7393672",
+      "title": "金田朋子",
+      "body": "金田朋子",
+      "reading": "かねだともこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f215ad57ad57e7af",
+      "title": "茅野愛衣",
+      "body": "茅野愛衣",
+      "reading": "かやのあい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-a72a4f8adb28670d",
+      "title": "川澄綾子",
+      "body": "川澄綾子",
+      "reading": "かわすみあやこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-5becb782aa965219",
+      "title": "喜多村英梨",
+      "body": "喜多村英梨",
+      "reading": "きたむらえり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-c8fad00643626bc8",
+      "title": "鬼頭明里",
+      "body": "鬼頭明里",
+      "reading": "きとうあかり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-6ff7ad5e2d496df7",
+      "title": "釘宮理恵",
+      "body": "釘宮理恵",
+      "reading": "くぎみやりえ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-cae72637c83bfa64",
+      "title": "楠木ともり",
+      "body": "楠木ともり",
+      "reading": "くすのきともり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-60a5d8279c613679",
+      "title": "久野美咲",
+      "body": "久野美咲",
+      "reading": "くのみさき",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f2a91b4a029dbc3b",
+      "title": "久保ユリカ",
+      "body": "久保ユリカ",
+      "reading": "くぼゆりか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-36a20dd4d7010073",
+      "title": "黒沢ともよ",
+      "body": "黒沢ともよ",
+      "reading": "くろさわともよ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-8d9ebfdcf720861b",
+      "title": "桑島法子",
+      "body": "桑島法子",
+      "reading": "くわしまほうこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-13f0f292cd53d380",
+      "title": "寿美菜子",
+      "body": "寿美菜子",
+      "reading": "ことぶきみなこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-66b0ee5d6db7cf29",
+      "title": "後藤邑子",
+      "body": "後藤邑子",
+      "reading": "ごとうゆうこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-5a78ed4d9d0f34c7",
+      "title": "小清水亜美",
+      "body": "小清水亜美",
+      "reading": "こしみずあみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-d8c881384acd6de9",
+      "title": "小原好美",
+      "body": "小原好美",
+      "reading": "こはらこのみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-4ff40bee84e74ec9",
+      "title": "小林沙苗",
+      "body": "小林沙苗",
+      "reading": "こばやしさなえ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-46eeaf560be78637",
+      "title": "小林ゆう",
+      "body": "小林ゆう",
+      "reading": "こばやしゆう",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-39f1fef97b7ff37",
+      "title": "小松未可子",
+      "body": "小松未可子",
+      "reading": "こまつみかこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ee8adf8852178f50",
+      "title": "斎藤千和",
+      "body": "斎藤千和",
+      "reading": "さいとうちわ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-b8c222f685c5733a",
+      "title": "坂本真綾",
+      "body": "坂本真綾",
+      "reading": "さかもとまあや",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-fd6a5d43348071c9",
+      "title": "榊原良子",
+      "body": "榊原良子",
+      "reading": "さかきばらよしこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-4032b6d3c29261f8",
+      "title": "佐倉綾音",
+      "body": "佐倉綾音",
+      "reading": "さくらあやね",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-acfef49e341a35aa",
+      "title": "佐藤聡美",
+      "body": "佐藤聡美",
+      "reading": "さとうさとみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-7ecd0f43b789fcdb",
+      "title": "佐藤利奈",
+      "body": "佐藤利奈",
+      "reading": "さとうりな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-5ee5231bbe7f6ae",
+      "title": "沢城みゆき",
+      "body": "沢城みゆき",
+      "reading": "さわしろみゆき",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-451d8d441dd637c6",
+      "title": "三瓶由布子",
+      "body": "三瓶由布子",
+      "reading": "さんぺいゆうこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-dc53d05aa3d0e39d",
+      "title": "島本須美",
+      "body": "島本須美",
+      "reading": "しまもとすみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-a51cb565f92cb74e",
+      "title": "下田麻美",
+      "body": "下田麻美",
+      "reading": "しもだあさみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-33451875fd3a4001",
+      "title": "白石涼子",
+      "body": "白石涼子",
+      "reading": "しらいしりょうこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-66cd48edcf73b44",
+      "title": "瀬戸麻沙美",
+      "body": "瀬戸麻沙美",
+      "reading": "せとまさみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-712a97b0546d5a1f",
+      "title": "芹澤優",
+      "body": "芹澤優",
+      "reading": "せりざわゆう",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-b491e59555685316",
+      "title": "千本木彩花",
+      "body": "千本木彩花",
+      "reading": "せんぼんぎさやか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-77b9b05fa0746b93",
+      "title": "高垣彩陽",
+      "body": "高垣彩陽",
+      "reading": "たかがきあやひ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-eec32690d5767c3d",
+      "title": "高橋李依",
+      "body": "高橋李依",
+      "reading": "たかはしりえ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ec3f97adc3af8112",
+      "title": "高山みなみ",
+      "body": "高山みなみ",
+      "reading": "たかやまみなみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-e8cf002198796c81",
+      "title": "竹達彩奈",
+      "body": "竹達彩奈",
+      "reading": "たけたつあやな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-c07ef6c044cae594",
+      "title": "田所あずさ",
+      "body": "田所あずさ",
+      "reading": "たどころあずさ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-2c181a8a033728b0",
+      "title": "種﨑敦美",
+      "body": "種﨑敦美",
+      "reading": "たねざきあつみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ba411867b95b43ca",
+      "title": "種田梨沙",
+      "body": "種田梨沙",
+      "reading": "たねだりさ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-e604fb4cb16ec897",
+      "title": "田中真弓",
+      "body": "田中真弓",
+      "reading": "たなかまゆみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-db3376ee891ac44c",
+      "title": "田中理恵",
+      "body": "田中理恵",
+      "reading": "たなかりえ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-88c2140e9b01c229",
+      "title": "田村ゆかり",
+      "body": "田村ゆかり",
+      "reading": "たむらゆかり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-c0e94af0b4c56074",
+      "title": "丹下桜",
+      "body": "丹下桜",
+      "reading": "たんげさくら",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-782c829ec37e0864",
+      "title": "茅原実里",
+      "body": "茅原実里",
+      "reading": "ちはらみのり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-8d8ae0c03cd1ebab",
+      "title": "東山奈央",
+      "body": "東山奈央",
+      "reading": "とうやまなお",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-2782c81faf6e56ba",
+      "title": "徳井青空",
+      "body": "徳井青空",
+      "reading": "とくいそら",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ba681597ffd4b3cf",
+      "title": "戸松遥",
+      "body": "戸松遥",
+      "reading": "とまつはるか",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f3fb95f3abc3cbad",
+      "title": "富田美憂",
+      "body": "富田美憂",
+      "reading": "とみたみゆ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-537f3bb2145568e2",
+      "title": "豊口めぐみ",
+      "body": "豊口めぐみ",
+      "reading": "とよぐちめぐみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ac3a32fd8836b378",
+      "title": "豊崎愛生",
+      "body": "豊崎愛生",
+      "reading": "とよさきあき",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-68d7331b5811305e",
+      "title": "豊田萌絵",
+      "body": "豊田萌絵",
+      "reading": "とよたもえ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-1d782b5560dbd0a8",
+      "title": "長縄まりあ",
+      "body": "長縄まりあ",
+      "reading": "ながなわまりあ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f7a10f91449c949",
+      "title": "中島愛",
+      "body": "中島愛",
+      "reading": "なかじまめぐみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f7fe5ed87927bde8",
+      "title": "中原麻衣",
+      "body": "中原麻衣",
+      "reading": "なかはらまい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ba0a1629b7f5c94b",
+      "title": "夏川椎菜",
+      "body": "夏川椎菜",
+      "reading": "なつかわしいな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-8035343b50fd89a1",
+      "title": "名塚佳織",
+      "body": "名塚佳織",
+      "reading": "なづかかおり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-727bc6c86b44e84e",
+      "title": "南條愛乃",
+      "body": "南條愛乃",
+      "reading": "なんじょうよしの",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-b211387eaab5bb35",
+      "title": "沼倉愛美",
+      "body": "沼倉愛美",
+      "reading": "ぬまくらまなみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-7d7f11733e8ae8c1",
+      "title": "能登麻美子",
+      "body": "能登麻美子",
+      "reading": "のとまみこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ee71528f9cb42536",
+      "title": "野沢雅子",
+      "body": "野沢雅子",
+      "reading": "のざわまさこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-3bc6ee7d5e63632c",
+      "title": "野中藍",
+      "body": "野中藍",
+      "reading": "のなかあい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-c045419fab486a63",
+      "title": "花澤香菜",
+      "body": "花澤香菜",
+      "reading": "はなざわかな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-78f872baa82b88e6",
+      "title": "花守ゆみり",
+      "body": "花守ゆみり",
+      "reading": "はなもりゆみり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-f766ce0e27b61293",
+      "title": "林原めぐみ",
+      "body": "林原めぐみ",
+      "reading": "はやしばらめぐみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-552359ed881e2cad",
+      "title": "早見沙織",
+      "body": "早見沙織",
+      "reading": "はやみさおり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ffd218d7a59412e9",
+      "title": "潘めぐみ",
+      "body": "潘めぐみ",
+      "reading": "はんめぐみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-cf30f4ef2d79a5",
+      "title": "長谷川育美",
+      "body": "長谷川育美",
+      "reading": "はせがわいくみ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-e1b992d08507525b",
+      "title": "日笠陽子",
+      "body": "日笠陽子",
+      "reading": "ひかさようこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-10edcbf31074a1e0",
+      "title": "日高里菜",
+      "body": "日高里菜",
+      "reading": "ひだかりな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-505686d9697e0493",
+      "title": "平野綾",
+      "body": "平野綾",
+      "reading": "ひらのあや",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-2be567825d506fb2",
+      "title": "福圓美里",
+      "body": "福圓美里",
+      "reading": "ふくえんみさと",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-14fdfa16dbde36c8",
+      "title": "藤井ゆきよ",
+      "body": "藤井ゆきよ",
+      "reading": "ふじいゆきよ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-847f9115cda5efbf",
+      "title": "藤田茜",
+      "body": "藤田茜",
+      "reading": "ふじたあかね",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-9ee13815dcb347b4",
+      "title": "藤田咲",
+      "body": "藤田咲",
+      "reading": "ふじたさき",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-2aa2f800648a9096",
+      "title": "渕上舞",
+      "body": "渕上舞",
+      "reading": "ふちがみまい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-c26185238125df6",
+      "title": "降幡愛",
+      "body": "降幡愛",
+      "reading": "ふりはたあい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-ac073f6eef11178",
+      "title": "堀江由衣",
+      "body": "堀江由衣",
+      "reading": "ほりえゆい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-2c74de561b4ad90",
+      "title": "本渡楓",
+      "body": "本渡楓",
+      "reading": "ほんどかえで",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-dc32004a7a5fabd7",
+      "title": "牧野由依",
+      "body": "牧野由依",
+      "reading": "まきのゆい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-32f46f43ebe23719",
+      "title": "松井菜桜子",
+      "body": "松井菜桜子",
+      "reading": "まついなおこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-98befcc8ab1ed657",
+      "title": "三上枝織",
+      "body": "三上枝織",
+      "reading": "みかみしおり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-b6545816f1d9a8c8",
+      "title": "三石琴乃",
+      "body": "三石琴乃",
+      "reading": "みついしことの",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-e6d0e3c60db6b5d1",
+      "title": "皆口裕子",
+      "body": "皆口裕子",
+      "reading": "みなぐちゆうこ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-6c0158dfe73e315e",
+      "title": "水樹奈々",
+      "body": "水樹奈々",
+      "reading": "みずきなな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-668141935af47e0d",
+      "title": "水橋かおり",
+      "body": "水橋かおり",
+      "reading": "みずはしかおり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-7e0f71c1011f81e5",
+      "title": "水瀬いのり",
+      "body": "水瀬いのり",
+      "reading": "みなせいのり",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-d7ad87cfa7f5aa4",
+      "title": "宮本侑芽",
+      "body": "宮本侑芽",
+      "reading": "みやもとゆめ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-46a5ee4d277a5b06",
+      "title": "諸星すみれ",
+      "body": "諸星すみれ",
+      "reading": "もろほしすみれ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-196af739805c6b32",
+      "title": "安野希世乃",
+      "body": "安野希世乃",
+      "reading": "やすのきよの",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-8de0a160cac15c21",
+      "title": "羊宮妃那",
+      "body": "羊宮妃那",
+      "reading": "ようみやひな",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-7ed164f154476547",
+      "title": "悠木碧",
+      "body": "悠木碧",
+      "reading": "ゆうきあおい",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-c3a757915dc883c2",
+      "title": "横山智佐",
+      "body": "横山智佐",
+      "reading": "よこやまちさ",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-27d7807a211e543f",
+      "title": "若山詩音",
+      "body": "若山詩音",
+      "reading": "わかやましおん",
+      "category": "女性声優"
+    },
+    {
+      "id": "w-8626870583c30f1b",
+      "title": "和氣あず未",
+      "body": "和氣あず未",
+      "reading": "わきあずみ",
+      "category": "女性声優"
+    }
+  ]
+}

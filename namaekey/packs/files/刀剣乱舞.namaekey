@@ -1,0 +1,912 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "2ce7fddb3cfd7073",
+  "name": "刀剣乱舞",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-8273c697693ff959",
+      "title": "今剣",
+      "body": "今剣",
+      "reading": "いまのつるぎ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-5bbbde4d54e6bbd8",
+      "title": "平野藤四郎",
+      "body": "平野藤四郎",
+      "reading": "ひらのとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-bd0403685d80149a",
+      "title": "厚藤四郎",
+      "body": "厚藤四郎",
+      "reading": "あつしとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-29ebc8768913dd45",
+      "title": "後藤藤四郎",
+      "body": "後藤藤四郎",
+      "reading": "ごとうとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-30432e9d6a8cb405",
+      "title": "信濃藤四郎",
+      "body": "信濃藤四郎",
+      "reading": "しなのとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f15ea812ed488d5b",
+      "title": "前田藤四郎",
+      "body": "前田藤四郎",
+      "reading": "まえだとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-9350de099fb18751",
+      "title": "秋田藤四郎",
+      "body": "秋田藤四郎",
+      "reading": "あきたとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-bf2b14e05f6cc56",
+      "title": "博多藤四郎",
+      "body": "博多藤四郎",
+      "reading": "はかたとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-5c33559f3248285",
+      "title": "乱藤四郎",
+      "body": "乱藤四郎",
+      "reading": "みだれとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-1daaa836f577d57f",
+      "title": "五虎退",
+      "body": "五虎退",
+      "reading": "ごこたい",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-37a247af20a0ab54",
+      "title": "薬研藤四郎",
+      "body": "薬研藤四郎",
+      "reading": "やげんとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-e09cb7ce9d8bc90c",
+      "title": "包丁藤四郎",
+      "body": "包丁藤四郎",
+      "reading": "ほうちょうとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-93463e785fd23214",
+      "title": "愛染国俊",
+      "body": "愛染国俊",
+      "reading": "あいぜんくにとし",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-86d84f6f5cd105b3",
+      "title": "太鼓鐘貞宗",
+      "body": "太鼓鐘貞宗",
+      "reading": "たいこがねさだむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f8ec005e95098736",
+      "title": "小夜左文字",
+      "body": "小夜左文字",
+      "reading": "さよさもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-dd2c9a26f4ec80dd",
+      "title": "不動行光",
+      "body": "不動行光",
+      "reading": "ふどうゆきみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-b7d7439acb3e1a75",
+      "title": "毛利藤四郎",
+      "body": "毛利藤四郎",
+      "reading": "もうりとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f91585ecd2c09fe3",
+      "title": "謙信景光",
+      "body": "謙信景光",
+      "reading": "けんしんかげみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-ed8381292a4a019d",
+      "title": "日向正宗",
+      "body": "日向正宗",
+      "reading": "ひゅうがまさむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-ca488dfb442a9f9d",
+      "title": "北谷菜切",
+      "body": "北谷菜切",
+      "reading": "ちゃたんなきり",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-d0b1b92a1539123f",
+      "title": "太閤左文字",
+      "body": "太閤左文字",
+      "reading": "たいこうさもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-6886d93cb5ce52f5",
+      "title": "京極正宗",
+      "body": "京極正宗",
+      "reading": "きょうごくまさむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-98d789f1a48ae232",
+      "title": "九鬼正宗",
+      "body": "九鬼正宗",
+      "reading": "くきまさむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-134b1ae548c7d223",
+      "title": "倶利伽羅江",
+      "body": "倶利伽羅江",
+      "reading": "くりからごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-a4e1c24927ea14e8",
+      "title": "朝倉藤四郎",
+      "body": "朝倉藤四郎",
+      "reading": "あさくらとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f8f324e982f275fb",
+      "title": "にっかり青江",
+      "body": "にっかり青江",
+      "reading": "にっかりあおえ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-882f984fb96fc1a2",
+      "title": "鯰尾藤四郎",
+      "body": "鯰尾藤四郎",
+      "reading": "なまずおとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-6153595f4699c0f7",
+      "title": "骨喰藤四郎",
+      "body": "骨喰藤四郎",
+      "reading": "ほねばみとうしろう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-3da6ccd1e55411b4",
+      "title": "物吉貞宗",
+      "body": "物吉貞宗",
+      "reading": "ものよしさだむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-a7760b025a8f6ede",
+      "title": "堀川国広",
+      "body": "堀川国広",
+      "reading": "ほりかわくにひろ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-adbab7b6048223cb",
+      "title": "浦島虎徹",
+      "body": "浦島虎徹",
+      "reading": "うらしまこてつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-3dd8a1a9a0e5c400",
+      "title": "篭手切江",
+      "body": "篭手切江",
+      "reading": "こてぎりごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-9634cfd04b9eb05b",
+      "title": "肥前忠広",
+      "body": "肥前忠広",
+      "reading": "ひぜんただひろ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-75e0fe794c22876b",
+      "title": "治金丸",
+      "body": "治金丸",
+      "reading": "ちがねまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-76b8987efb609cd8",
+      "title": "泛塵",
+      "body": "泛塵",
+      "reading": "はんじん",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-92e778d788236e87",
+      "title": "火車切",
+      "body": "火車切",
+      "reading": "かしゃぎり",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-33dedd5aec45a07f",
+      "title": "鳴狐",
+      "body": "鳴狐",
+      "reading": "なきぎつね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-66fd5959858eac20",
+      "title": "千子村正",
+      "body": "千子村正",
+      "reading": "せんごむらまさ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-1140881e5e72660c",
+      "title": "亀甲貞宗",
+      "body": "亀甲貞宗",
+      "reading": "きっこうさだむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-e6fe050c8178c278",
+      "title": "宗三左文字",
+      "body": "宗三左文字",
+      "reading": "そうざさもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-b9a457eac2a14f56",
+      "title": "加州清光",
+      "body": "加州清光",
+      "reading": "かしゅうきよみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-1f46df1226c6ee4e",
+      "title": "大和守安定",
+      "body": "大和守安定",
+      "reading": "やまとのかみやすさだ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-d0a0ab5ef0954409",
+      "title": "歌仙兼定",
+      "body": "歌仙兼定",
+      "reading": "かせんかねさだ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-c1bfaea2a5dacf78",
+      "title": "和泉守兼定",
+      "body": "和泉守兼定",
+      "reading": "いずみのかみかねさだ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-7288ba8f2bc1bf06",
+      "title": "陸奥守吉行",
+      "body": "陸奥守吉行",
+      "reading": "むつのかみよしゆき",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-88e4b5e3507e00c8",
+      "title": "山姥切国広",
+      "body": "山姥切国広",
+      "reading": "やまんばぎりくにひろ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-91e2ca6cc8777830",
+      "title": "蜂須賀虎徹",
+      "body": "蜂須賀虎徹",
+      "reading": "はちすかこてつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-96722ff383e90253",
+      "title": "長曽祢虎徹",
+      "body": "長曽祢虎徹",
+      "reading": "ながそねこてつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-c568250d7aa8eac3",
+      "title": "大倶利伽羅",
+      "body": "大倶利伽羅",
+      "reading": "おおくりから",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-fce0587e8c9f8902",
+      "title": "へし切長谷部",
+      "body": "へし切長谷部",
+      "reading": "へしきりはせべ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-52cc2901dcad1fc9",
+      "title": "同田貫正国",
+      "body": "同田貫正国",
+      "reading": "どうだぬきまさくに",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-7cfd543dc52b0bba",
+      "title": "南泉一文字",
+      "body": "南泉一文字",
+      "reading": "なんせんいちもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-53478e07275b456c",
+      "title": "山姥切長義",
+      "body": "山姥切長義",
+      "reading": "やまんばぎりちょうぎ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-fa7cfa878968b3d5",
+      "title": "豊前江",
+      "body": "豊前江",
+      "reading": "ぶぜんごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f37497876f17c53d",
+      "title": "南海太郎朝尊",
+      "body": "南海太郎朝尊",
+      "reading": "なんかいたろうちょうそん",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-c3cdc5ae69c8cac1",
+      "title": "桑名江",
+      "body": "桑名江",
+      "reading": "くわなごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-2252dac55860d1e8",
+      "title": "水心子正秀",
+      "body": "水心子正秀",
+      "reading": "すいしんしまさひで",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-ae5d7abf7771167c",
+      "title": "源清麿",
+      "body": "源清麿",
+      "reading": "みなもときよまろ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-ecd52a8684f4f16f",
+      "title": "松井江",
+      "body": "松井江",
+      "reading": "まついごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-12eb55bf576323db",
+      "title": "地蔵行平",
+      "body": "地蔵行平",
+      "reading": "じぞうゆきひら",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-c5de6e335bc789bb",
+      "title": "五月雨江",
+      "body": "五月雨江",
+      "reading": "さみだれごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-dbbf456c5fc89f0f",
+      "title": "村雲江",
+      "body": "村雲江",
+      "reading": "むらくもごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-dcfdf3fa4d595ac",
+      "title": "稲葉江",
+      "body": "稲葉江",
+      "reading": "いなばごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-525e7dc21d92bf13",
+      "title": "石田正宗",
+      "body": "石田正宗",
+      "reading": "いしだまさむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-a2ea1e6ad0bf42f8",
+      "title": "孫六兼元",
+      "body": "孫六兼元",
+      "reading": "まごろくかねもと",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-48871844c004b53e",
+      "title": "後家兼光",
+      "body": "後家兼光",
+      "reading": "ごけかねみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-cf08c456a0a273a",
+      "title": "富田江",
+      "body": "富田江",
+      "reading": "とみたごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-288825945596f017",
+      "title": "大慶直胤",
+      "body": "大慶直胤",
+      "reading": "たいけいなおたね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-e417dd329a621fe1",
+      "title": "安宅切",
+      "body": "安宅切",
+      "reading": "あたぎぎり",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f8fd250120d88835",
+      "title": "二筋樋貞宗",
+      "body": "二筋樋貞宗",
+      "reading": "ふたすじひさだむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-9470ca3b18c0dc54",
+      "title": "雲重",
+      "body": "雲重",
+      "reading": "うんじゅう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-a9f0dee192682208",
+      "title": "童子切安綱剥落",
+      "body": "童子切安綱剥落",
+      "reading": "どうじぎりやすつなはくらく",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f4578d85a0d864dc",
+      "title": "三日月宗近",
+      "body": "三日月宗近",
+      "reading": "みかづきむねちか",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-8505033dda3345a3",
+      "title": "小狐丸",
+      "body": "小狐丸",
+      "reading": "こぎつねまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-34ed958ad10bfde7",
+      "title": "大典太光世",
+      "body": "大典太光世",
+      "reading": "おおてんたみつよ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-8597c807f86017e0",
+      "title": "数珠丸恒次",
+      "body": "数珠丸恒次",
+      "reading": "じゅずまるつねつぐ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-27e070daf3837695",
+      "title": "鬼丸国綱",
+      "body": "鬼丸国綱",
+      "reading": "おにまるくにつな",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-277daf5d5327ead5",
+      "title": "一期一振",
+      "body": "一期一振",
+      "reading": "いちごひとふり",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-3762b11ef0766962",
+      "title": "大包平",
+      "body": "大包平",
+      "reading": "おおかねひら",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-1f25f0ed9e0ae075",
+      "title": "鶯丸",
+      "body": "鶯丸",
+      "reading": "うぐいすまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-697f33f02c90d0e2",
+      "title": "明石国行",
+      "body": "明石国行",
+      "reading": "あかしくにゆき",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-3e76a7689b84c47",
+      "title": "燭台切光忠",
+      "body": "燭台切光忠",
+      "reading": "しょくだいきりみつただ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-27bd5f4770389db1",
+      "title": "大般若長光",
+      "body": "大般若長光",
+      "reading": "だいはんにゃながみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-54ce134e5913c07e",
+      "title": "小竜景光",
+      "body": "小竜景光",
+      "reading": "こりゅうかげみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-4827178cec3be01d",
+      "title": "江雪左文字",
+      "body": "江雪左文字",
+      "reading": "こうせつさもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-d2c5d5b40377fcaa",
+      "title": "山伏国広",
+      "body": "山伏国広",
+      "reading": "やまぶしくにひろ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-7c91fd2d1d6a6326",
+      "title": "髭切",
+      "body": "髭切",
+      "reading": "ひげきり",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-3d3d1daf3ed41bda",
+      "title": "膝丸",
+      "body": "膝丸",
+      "reading": "ひざまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-1df8a1211a78cef4",
+      "title": "獅子王",
+      "body": "獅子王",
+      "reading": "ししおう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-29f447c11cdf4e74",
+      "title": "小烏丸",
+      "body": "小烏丸",
+      "reading": "こがらすまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-296fcedfc2b30fa9",
+      "title": "抜丸",
+      "body": "抜丸",
+      "reading": "ぬけまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-47917c5959ea9d35",
+      "title": "鶴丸国永",
+      "body": "鶴丸国永",
+      "reading": "つるまるくになが",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-109252585d9a07f4",
+      "title": "小豆長光",
+      "body": "小豆長光",
+      "reading": "あずきながみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f4928c5aec4ac74b",
+      "title": "千代金丸",
+      "body": "千代金丸",
+      "reading": "ちよがねまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f43ac2d25647dd53",
+      "title": "山鳥毛",
+      "body": "山鳥毛",
+      "reading": "さんちょうもう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-27acf1037b41bb45",
+      "title": "古今伝授の太刀",
+      "body": "古今伝授の太刀",
+      "reading": "こきんでんじゅのたち",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-1fbdd7a7e35337a6",
+      "title": "日光一文字",
+      "body": "日光一文字",
+      "reading": "にっこういちもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-a15e6ded5fb746fe",
+      "title": "一文字則宗",
+      "body": "一文字則宗",
+      "reading": "いちもんじのりむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-499ad28fd7e1f451",
+      "title": "姫鶴一文字",
+      "body": "姫鶴一文字",
+      "reading": "ひめつるいちもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-4253863be354bc5a",
+      "title": "福島光忠",
+      "body": "福島光忠",
+      "reading": "ふくしまみつただ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-d96e95a690bf95c",
+      "title": "笹貫",
+      "body": "笹貫",
+      "reading": "ささぬき",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-730f1dd3d09c3f78",
+      "title": "八丁念仏",
+      "body": "八丁念仏",
+      "reading": "はっちょうねんぶつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-73507b49bd91356d",
+      "title": "実休光忠",
+      "body": "実休光忠",
+      "reading": "じっきゅうみつただ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-cb8ff23b38de9053",
+      "title": "雲生",
+      "body": "雲生",
+      "reading": "うんしょう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-61762e5e8db3d96b",
+      "title": "道誉一文字",
+      "body": "道誉一文字",
+      "reading": "どうよいちもんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-d1ace93b3b9c2972",
+      "title": "雲次",
+      "body": "雲次",
+      "reading": "うんじ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-399d7a3f74e0d41c",
+      "title": "面影",
+      "body": "面影",
+      "reading": "おもかげ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f5eb8841aeb3bbaf",
+      "title": "古備前信房",
+      "body": "古備前信房",
+      "reading": "こびぜんのぶふさ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-a570e020045de00f",
+      "title": "三郎国宗",
+      "body": "三郎国宗",
+      "reading": "さぶろうくにむね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-540ffcb353c3cc56",
+      "title": "波平行安",
+      "body": "波平行安",
+      "reading": "なみのひらゆきやす",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-ebc821c9bda2e502",
+      "title": "狐ヶ崎為次",
+      "body": "狐ヶ崎為次",
+      "reading": "きつねがさきためつぐ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-ae4a2d77f54679e",
+      "title": "石切丸",
+      "body": "石切丸",
+      "reading": "いしきりまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-6d1facce6730b1a5",
+      "title": "蛍丸",
+      "body": "蛍丸",
+      "reading": "ほたるまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-c39284f0417b6fcc",
+      "title": "太郎太刀",
+      "body": "太郎太刀",
+      "reading": "たろうたち",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-36cc869ec1a39854",
+      "title": "次郎太刀",
+      "body": "次郎太刀",
+      "reading": "じろうたち",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-92d04626067ce273",
+      "title": "祢々切丸",
+      "body": "祢々切丸",
+      "reading": "ねねきりまる",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-32bc28a2d4da3f73",
+      "title": "柏太刀",
+      "body": "柏太刀",
+      "reading": "かしわだち",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-de4444373470ca77",
+      "title": "桃太郎祐定",
+      "body": "桃太郎祐定",
+      "reading": "ももたろうすけさだ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-aa7e61bd6edb977c",
+      "title": "蜻蛉切",
+      "body": "蜻蛉切",
+      "reading": "とんぼきり",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-c64b3cb5b255181a",
+      "title": "日本号",
+      "body": "日本号",
+      "reading": "にほんごう",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-db2c81030d66d453",
+      "title": "御手杵",
+      "body": "御手杵",
+      "reading": "おてぎね",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-27c8c46d4148c872",
+      "title": "大千鳥十文字槍",
+      "body": "大千鳥十文字槍",
+      "reading": "おおちどりじゅうもんじやり",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-ee0c9eb5ab76e282",
+      "title": "人間無骨",
+      "body": "人間無骨",
+      "reading": "にんげんむこつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-f8e6c9c9a03ab47a",
+      "title": "岩融",
+      "body": "岩融",
+      "reading": "いわとおし",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-64e816813e3a7af9",
+      "title": "巴形薙刀",
+      "body": "巴形薙刀",
+      "reading": "ともえがたなぎなた",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-6fd4805f78bef9d2",
+      "title": "静形薙刀",
+      "body": "静形薙刀",
+      "reading": "しずかがたなぎなた",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-fd11bf3ab4412900",
+      "title": "白山吉光",
+      "body": "白山吉光",
+      "reading": "はくさんよしみつ",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-4386302cdbadef58",
+      "title": "七星剣",
+      "body": "七星剣",
+      "reading": "しちせいけん",
+      "category": "刀剣乱舞"
+    },
+    {
+      "id": "w-a79280e7276d005a",
+      "title": "丙子椒林剣",
+      "body": "丙子椒林剣",
+      "reading": "へいししょうりんけん",
+      "category": "刀剣乱舞"
+    }
+  ]
+}

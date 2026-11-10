@@ -1,0 +1,709 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "1675b5f544b2550b",
+  "name": "男性声優",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-9cee0a4f0c84da42",
+      "title": "神谷明",
+      "body": "神谷明",
+      "reading": "かみやあきら",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-e4876d3274eb6f8a",
+      "title": "古谷徹",
+      "body": "古谷徹",
+      "reading": "ふるやとおる",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-5a66768bed213ea8",
+      "title": "若本規夫",
+      "body": "若本規夫",
+      "reading": "わかもとのりお",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-26dbfb66150ad360",
+      "title": "山寺宏一",
+      "body": "山寺宏一",
+      "reading": "やまでらこういち",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-3244947a48fce041",
+      "title": "千葉繁",
+      "body": "千葉繁",
+      "reading": "ちばしげる",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-354bbe6ce8cd4a3a",
+      "title": "古川登志夫",
+      "body": "古川登志夫",
+      "reading": "ふるかわとしお",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-2d604dce11d265e8",
+      "title": "銀河万丈",
+      "body": "銀河万丈",
+      "reading": "ぎんがばんじょう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-a9dc0c295794a5d1",
+      "title": "玄田哲章",
+      "body": "玄田哲章",
+      "reading": "げんだてっしょう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-370b0dfb92d950bb",
+      "title": "井上和彦",
+      "body": "井上和彦",
+      "reading": "いのうえかずひこ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-6c3b213ae564fdb8",
+      "title": "堀川りょう",
+      "body": "堀川りょう",
+      "reading": "ほりかわりょう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-fb32402a19d620eb",
+      "title": "中尾隆聖",
+      "body": "中尾隆聖",
+      "reading": "なかおりゅうせい",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-179aef4d326c199",
+      "title": "矢尾一樹",
+      "body": "矢尾一樹",
+      "reading": "やおかずき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-b109245c7c6af50d",
+      "title": "大塚明夫",
+      "body": "大塚明夫",
+      "reading": "おおつかあきお",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-bc2a3fc29ca05bfa",
+      "title": "大塚芳忠",
+      "body": "大塚芳忠",
+      "reading": "おおつかほうちゅう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-8c5f95d01e3821ce",
+      "title": "小山力也",
+      "body": "小山力也",
+      "reading": "こやまりきや",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-f43dbb0cd0e2c051",
+      "title": "速水奨",
+      "body": "速水奨",
+      "reading": "はやみしょう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-47930d6bc41e56c5",
+      "title": "堀内賢雄",
+      "body": "堀内賢雄",
+      "reading": "ほりうちけんゆう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-d679f295c86dd4bc",
+      "title": "草尾毅",
+      "body": "草尾毅",
+      "reading": "くさおたけし",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-4718a6774774b275",
+      "title": "山口勝平",
+      "body": "山口勝平",
+      "reading": "やまぐちかっぺい",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-8ad2dbe10ec68d7b",
+      "title": "関俊彦",
+      "body": "関俊彦",
+      "reading": "せきとしひこ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-6c3eabe432670718",
+      "title": "高木渉",
+      "body": "高木渉",
+      "reading": "たかぎわたる",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-9e43e243fa529483",
+      "title": "檜山修之",
+      "body": "檜山修之",
+      "reading": "ひやまのぶゆき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-fd3574243fe07ef8",
+      "title": "飛田展男",
+      "body": "飛田展男",
+      "reading": "とびたのぶお",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-84ece8e4f4d8e169",
+      "title": "立木文彦",
+      "body": "立木文彦",
+      "reading": "たちきふみひこ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-bc5367d99d608d79",
+      "title": "石田彰",
+      "body": "石田彰",
+      "reading": "いしだあきら",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-577128f716dfeeb6",
+      "title": "子安武人",
+      "body": "子安武人",
+      "reading": "こやすたけひと",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-8cea7ed9eeb45042",
+      "title": "緑川光",
+      "body": "緑川光",
+      "reading": "みどりかわひかる",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-302436238e9cffc0",
+      "title": "森川智之",
+      "body": "森川智之",
+      "reading": "もりかわとしゆき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-97c98d6209aa20bb",
+      "title": "関智一",
+      "body": "関智一",
+      "reading": "せきともかず",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-3b1918c4318204e7",
+      "title": "置鮎龍太郎",
+      "body": "置鮎龍太郎",
+      "reading": "おきあゆりょうたろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-a79bf31fedbaef67",
+      "title": "三木眞一郎",
+      "body": "三木眞一郎",
+      "reading": "みきしんいちろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-4e13e47427de4bf1",
+      "title": "平田広明",
+      "body": "平田広明",
+      "reading": "ひらたひろあき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-7144cd3c1a182592",
+      "title": "遊佐浩二",
+      "body": "遊佐浩二",
+      "reading": "ゆさこうじ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-3b78f6ee02c06e28",
+      "title": "保志総一朗",
+      "body": "保志総一朗",
+      "reading": "ほしそういちろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-aa9db84249a1ad86",
+      "title": "鳥海浩輔",
+      "body": "鳥海浩輔",
+      "reading": "とりうみこうすけ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-6fae3ca1282df2ec",
+      "title": "小西克幸",
+      "body": "小西克幸",
+      "reading": "こにしかつゆき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-b1ae6d19641880c4",
+      "title": "神谷浩史",
+      "body": "神谷浩史",
+      "reading": "かみやひろし",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-8e129af9c4a4b23b",
+      "title": "宮野真守",
+      "body": "宮野真守",
+      "reading": "みやのまもる",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-a2568cad59997ecf",
+      "title": "櫻井孝宏",
+      "body": "櫻井孝宏",
+      "reading": "さくらいたかひろ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-a02c2bad0b2769b1",
+      "title": "福山潤",
+      "body": "福山潤",
+      "reading": "ふくやまじゅん",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-484357426ff8597",
+      "title": "鈴村健一",
+      "body": "鈴村健一",
+      "reading": "すずむらけんいち",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-f84dc94904985314",
+      "title": "森久保祥太郎",
+      "body": "森久保祥太郎",
+      "reading": "もりくぼしょうたろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-a94344deb6310268",
+      "title": "藤原啓治",
+      "body": "藤原啓治",
+      "reading": "ふじわらけいじ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-cddde4b76882a921",
+      "title": "中井和哉",
+      "body": "中井和哉",
+      "reading": "なかいかずや",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-acb699f27c3a8bde",
+      "title": "谷山紀章",
+      "body": "谷山紀章",
+      "reading": "たにやまきしょう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-c2ccd5603ebd9ffe",
+      "title": "高橋広樹",
+      "body": "高橋広樹",
+      "reading": "たかはしひろき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-3855488299827368",
+      "title": "諏訪部順一",
+      "body": "諏訪部順一",
+      "reading": "すわべじゅんいち",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-5890f2df5135df56",
+      "title": "杉田智和",
+      "body": "杉田智和",
+      "reading": "すぎたともかず",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-f91b34a207745524",
+      "title": "中村悠一",
+      "body": "中村悠一",
+      "reading": "なかむらゆういち",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-ca7f02b8a2f7e6eb",
+      "title": "小野大輔",
+      "body": "小野大輔",
+      "reading": "おのだいすけ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-33ab15beae9ba0b9",
+      "title": "下野紘",
+      "body": "下野紘",
+      "reading": "しものひろ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-785b9b2a508e04ef",
+      "title": "浪川大輔",
+      "body": "浪川大輔",
+      "reading": "なみかわだいすけ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-7ec15efddd5d79cd",
+      "title": "鈴木達央",
+      "body": "鈴木達央",
+      "reading": "すずきたつひさ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-42b9c9aee93c995a",
+      "title": "前野智昭",
+      "body": "前野智昭",
+      "reading": "まえのともあき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-9dbba0970185ca22",
+      "title": "吉野裕行",
+      "body": "吉野裕行",
+      "reading": "よしのひろゆき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-e03e4570b6803d51",
+      "title": "日野聡",
+      "body": "日野聡",
+      "reading": "ひのさとし",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-872821d4876b7e6f",
+      "title": "安元洋貴",
+      "body": "安元洋貴",
+      "reading": "やすもとひろき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-fd0b39b43f2c6cdb",
+      "title": "豊永利行",
+      "body": "豊永利行",
+      "reading": "とよながとしゆき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-d650d467689d3d35",
+      "title": "津田健次郎",
+      "body": "津田健次郎",
+      "reading": "つだけんじろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-cc5b2936c2c7bc94",
+      "title": "立花慎之介",
+      "body": "立花慎之介",
+      "reading": "たちばなしんのすけ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-ce096cec687736d",
+      "title": "近藤隆",
+      "body": "近藤隆",
+      "reading": "こんどうたかし",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-cbca9e805b5d412f",
+      "title": "梶裕貴",
+      "body": "梶裕貴",
+      "reading": "かじゆうき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-f63ac42fef1eaf29",
+      "title": "岡本信彦",
+      "body": "岡本信彦",
+      "reading": "おかもとのぶひこ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-fe6b9733993cacbd",
+      "title": "入野自由",
+      "body": "入野自由",
+      "reading": "いりのみゆ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-f89dbe56ea54dd8c",
+      "title": "木村良平",
+      "body": "木村良平",
+      "reading": "きむらりょうへい",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-3622d103a4ff3345",
+      "title": "細谷佳正",
+      "body": "細谷佳正",
+      "reading": "ほそやよしまさ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-ebbabcc32b36c71b",
+      "title": "寺島拓篤",
+      "body": "寺島拓篤",
+      "reading": "てらしまたくま",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-e28cb27ddcec7ab7",
+      "title": "小野友樹",
+      "body": "小野友樹",
+      "reading": "おのゆうき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-12766b49c590124",
+      "title": "小野賢章",
+      "body": "小野賢章",
+      "reading": "おのけんしょう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-c022319a5fbed99b",
+      "title": "逢坂良太",
+      "body": "逢坂良太",
+      "reading": "おおさかりょうた",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-fcc40775688a0c95",
+      "title": "代永翼",
+      "body": "代永翼",
+      "reading": "よながつばさ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-66d8f04cd4681cf",
+      "title": "柿原徹也",
+      "body": "柿原徹也",
+      "reading": "かきはらてつや",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-cc50f7d9e8a7b690",
+      "title": "阿部敦",
+      "body": "阿部敦",
+      "reading": "あべあつし",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-20b157ac86272871",
+      "title": "蒼井翔太",
+      "body": "蒼井翔太",
+      "reading": "あおいしょうた",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-d8ce7c6683e88dcf",
+      "title": "羽多野渉",
+      "body": "羽多野渉",
+      "reading": "はたのわたる",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-b522c1e46adbbe8d",
+      "title": "興津和幸",
+      "body": "興津和幸",
+      "reading": "おきつかずゆき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-13ec20429623d6ad",
+      "title": "松岡禎丞",
+      "body": "松岡禎丞",
+      "reading": "まつおかよしつぐ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-8e672e4ff08f4f08",
+      "title": "村瀬歩",
+      "body": "村瀬歩",
+      "reading": "むらせあゆむ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-8503abab4c2707f",
+      "title": "花江夏樹",
+      "body": "花江夏樹",
+      "reading": "はなえなつき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-10e3af8e3c715cc5",
+      "title": "内山昂輝",
+      "body": "内山昂輝",
+      "reading": "うちやまこうき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-e9589e4e265e5a97",
+      "title": "石川界人",
+      "body": "石川界人",
+      "reading": "いしかわかいと",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-f3b393ebee5d05da",
+      "title": "増田俊樹",
+      "body": "増田俊樹",
+      "reading": "ますだとしき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-2cd891287a5fa750",
+      "title": "浅沼晋太郎",
+      "body": "浅沼晋太郎",
+      "reading": "あさぬましんたろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-4a4fda732d8349ef",
+      "title": "木村昴",
+      "body": "木村昴",
+      "reading": "きむらすばる",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-90dfe0332172a5b2",
+      "title": "江口拓也",
+      "body": "江口拓也",
+      "reading": "えぐちたくや",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-37c2bc65cf2b9a44",
+      "title": "斉藤壮馬",
+      "body": "斉藤壮馬",
+      "reading": "さいとうそうま",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-82d33d263f2ec5a2",
+      "title": "島﨑信長",
+      "body": "島﨑信長",
+      "reading": "しまざきのぶなが",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-d5f74cb0300d8b72",
+      "title": "梅原裕一郎",
+      "body": "梅原裕一郎",
+      "reading": "うめはらゆういちろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-36cd12643dee31cf",
+      "title": "内田雄馬",
+      "body": "内田雄馬",
+      "reading": "うちだゆうま",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-673a5ad2a65a297b",
+      "title": "古川慎",
+      "body": "古川慎",
+      "reading": "ふるかわまこと",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-eb968737048a76f0",
+      "title": "小林裕介",
+      "body": "小林裕介",
+      "reading": "こばやしゆうすけ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-18e35310cb0bd324",
+      "title": "河西健吾",
+      "body": "河西健吾",
+      "reading": "かわにしけんご",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-6f99ac337c024061",
+      "title": "田丸篤志",
+      "body": "田丸篤志",
+      "reading": "たまるあつし",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-f71d5c65a4a5aa13",
+      "title": "白井悠介",
+      "body": "白井悠介",
+      "reading": "しらいゆうすけ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-1b2794fef7da51d0",
+      "title": "西山宏太朗",
+      "body": "西山宏太朗",
+      "reading": "にしやまこうたろう",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-14493ff01cebf3f9",
+      "title": "榎木淳弥",
+      "body": "榎木淳弥",
+      "reading": "えのきじゅんや",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-3501a69d8c7687f2",
+      "title": "山下大輝",
+      "body": "山下大輝",
+      "reading": "やましただいき",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-1e2e8fa44bed0263",
+      "title": "武内駿輔",
+      "body": "武内駿輔",
+      "reading": "たけうちしゅんすけ",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-4a55d1c27cfda839",
+      "title": "佐藤拓也",
+      "body": "佐藤拓也",
+      "reading": "さとうたくや",
+      "category": "男性声優"
+    },
+    {
+      "id": "w-5f4a06dfaef95b59",
+      "title": "小林千晃",
+      "body": "小林千晃",
+      "reading": "こばやしちあき",
+      "category": "男性声優"
+    }
+  ]
+}

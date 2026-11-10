@@ -1,0 +1,261 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "484eb67f3ae3c8fc",
+  "name": "東京リベンジャーズ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-493acb723e53eb7a",
+      "title": "花垣武道",
+      "body": "花垣武道",
+      "reading": "はながきたけみち",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-c9c40e3c47971ecc",
+      "title": "佐野万次郎",
+      "body": "佐野万次郎",
+      "reading": "さのまんじろう",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-1644eb9bd797e71a",
+      "title": "佐野真一郎",
+      "body": "佐野真一郎",
+      "reading": "さのしんいちろう",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-af1cfa8f2b9605",
+      "title": "佐野エマ",
+      "body": "佐野エマ",
+      "reading": "さのえま",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-808deacf1dcdb5c2",
+      "title": "龍宮寺堅",
+      "body": "龍宮寺堅",
+      "reading": "りゅうぐうじけん",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-5a0f87132b7eac96",
+      "title": "三ツ谷隆",
+      "body": "三ツ谷隆",
+      "reading": "みつやたかし",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-44e58e8fd53afd59",
+      "title": "林田春樹",
+      "body": "林田春樹",
+      "reading": "はやしだはるき",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-1267e4c4f40888b5",
+      "title": "林良平",
+      "body": "林良平",
+      "reading": "はやしりょうへい",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-474d8853e152bc7c",
+      "title": "松野千冬",
+      "body": "松野千冬",
+      "reading": "まつのちふゆ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-22d968a943604a35",
+      "title": "場地圭介",
+      "body": "場地圭介",
+      "reading": "ばじけいすけ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-66f45b3704e3d101",
+      "title": "羽宮一虎",
+      "body": "羽宮一虎",
+      "reading": "はみやかずとら",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-f65549b68dfd2052",
+      "title": "稀咲鉄太",
+      "body": "稀咲鉄太",
+      "reading": "きさきてった",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-8b432687cfececb0",
+      "title": "半間修二",
+      "body": "半間修二",
+      "reading": "はんましゅうじ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-88ba3a0be26dd020",
+      "title": "黒川イザナ",
+      "body": "黒川イザナ",
+      "reading": "くろかわいざな",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-5562b63a936ce809",
+      "title": "柴大寿",
+      "body": "柴大寿",
+      "reading": "しばたいじゅ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-4518b7fe6bb47ddf",
+      "title": "柴八戒",
+      "body": "柴八戒",
+      "reading": "しばはっかい",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-4cbc6d3256891a8d",
+      "title": "柴柚葉",
+      "body": "柴柚葉",
+      "reading": "しばゆずは",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-224b99dbcf34ff6c",
+      "title": "乾青宗",
+      "body": "乾青宗",
+      "reading": "いぬいせいしゅう",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-4beb2ef3f830131e",
+      "title": "九井一",
+      "body": "九井一",
+      "reading": "ここのいはじめ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-7d1341b0557d400a",
+      "title": "三途春千夜",
+      "body": "三途春千夜",
+      "reading": "さんずはるちよ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-89ae7a71f180f4c8",
+      "title": "明司武臣",
+      "body": "明司武臣",
+      "reading": "あかしたけおみ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-8026c186a28f4c45",
+      "title": "明司千寿",
+      "body": "明司千寿",
+      "reading": "あかしせんじゅ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-e1ea4c2df2885bd9",
+      "title": "鶴蝶",
+      "body": "鶴蝶",
+      "reading": "かくちょう",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-6924ff44c4c81b41",
+      "title": "望月莞爾",
+      "body": "望月莞爾",
+      "reading": "もちづきかんじ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-1cb9e76d34909c9c",
+      "title": "斑目獅音",
+      "body": "斑目獅音",
+      "reading": "まだらめしおん",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-3fcfc09b0205331f",
+      "title": "灰谷蘭",
+      "body": "灰谷蘭",
+      "reading": "はいたにらん",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-5ededf335f07148b",
+      "title": "灰谷竜胆",
+      "body": "灰谷竜胆",
+      "reading": "はいたにりんどう",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-c65ebd19908a925e",
+      "title": "武藤泰宏",
+      "body": "武藤泰宏",
+      "reading": "むとうやすひろ",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-5ce430e87e33fb1e",
+      "title": "河田ナホヤ",
+      "body": "河田ナホヤ",
+      "reading": "かわたなほや",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-ae263fde478b3c74",
+      "title": "河田ソウヤ",
+      "body": "河田ソウヤ",
+      "reading": "かわたそうや",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-cab07afe72ea7f8a",
+      "title": "千堂敦",
+      "body": "千堂敦",
+      "reading": "せんどうあつし",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-fa75e0ea002a89b2",
+      "title": "山本タクヤ",
+      "body": "山本タクヤ",
+      "reading": "やまもとたくや",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-93333e678207291e",
+      "title": "鈴木マコト",
+      "body": "鈴木マコト",
+      "reading": "すずきまこと",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-e171ac79f301a9c7",
+      "title": "山岸一司",
+      "body": "山岸一司",
+      "reading": "やまぎしかずし",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-c5d0236db91c101e",
+      "title": "橘日向",
+      "body": "橘日向",
+      "reading": "たちばなひなた",
+      "category": "東京リベンジャーズ"
+    },
+    {
+      "id": "w-8d623c589e3d0906",
+      "title": "橘直人",
+      "body": "橘直人",
+      "reading": "たちばななおと",
+      "category": "東京リベンジャーズ"
+    }
+  ]
+}

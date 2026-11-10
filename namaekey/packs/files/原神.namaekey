@@ -1,0 +1,282 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "7926e4eb79dc481b",
+  "name": "原神",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-446faba7954644d2",
+      "title": "神里綾華",
+      "body": "神里綾華",
+      "reading": "かみさとあやか",
+      "category": "原神"
+    },
+    {
+      "id": "w-942c5d831632fd8a",
+      "title": "甘雨",
+      "body": "甘雨",
+      "reading": "かんう",
+      "category": "原神"
+    },
+    {
+      "id": "w-dea4d43496fc7158",
+      "title": "申鶴",
+      "body": "申鶴",
+      "reading": "しんかく",
+      "category": "原神"
+    },
+    {
+      "id": "w-e3dc1ccae866a5ca",
+      "title": "重雲",
+      "body": "重雲",
+      "reading": "ちょううん",
+      "category": "原神"
+    },
+    {
+      "id": "w-d3faab575a1a7c6b",
+      "title": "七七",
+      "body": "七七",
+      "reading": "なな",
+      "category": "原神"
+    },
+    {
+      "id": "w-b72f2f15e51564d2",
+      "title": "楓原万葉",
+      "body": "楓原万葉",
+      "reading": "かえではらかずは",
+      "category": "原神"
+    },
+    {
+      "id": "w-8e1649a3dc0b232d",
+      "title": "閑雲",
+      "body": "閑雲",
+      "reading": "かんうん",
+      "category": "原神"
+    },
+    {
+      "id": "w-3802dcba14c2d84",
+      "title": "早柚",
+      "body": "早柚",
+      "reading": "さゆ",
+      "category": "原神"
+    },
+    {
+      "id": "w-375e089ded2d29c",
+      "title": "鹿野院平蔵",
+      "body": "鹿野院平蔵",
+      "reading": "しかのいんへいぞう",
+      "category": "原神"
+    },
+    {
+      "id": "w-7dce051b9da79359",
+      "title": "魈",
+      "body": "魈",
+      "reading": "しょう",
+      "category": "原神"
+    },
+    {
+      "id": "w-a4b2cd4b886e398b",
+      "title": "放浪者",
+      "body": "放浪者",
+      "reading": "ほうろうしゃ",
+      "category": "原神"
+    },
+    {
+      "id": "w-b5630dd9c84ef554",
+      "title": "夢見月瑞希",
+      "body": "夢見月瑞希",
+      "reading": "ゆめみづきみずき",
+      "category": "原神"
+    },
+    {
+      "id": "w-f0713d6ce7ead784",
+      "title": "藍硯",
+      "body": "藍硯",
+      "reading": "らんやん",
+      "category": "原神"
+    },
+    {
+      "id": "w-e16bb8520d607627",
+      "title": "夜蘭",
+      "body": "夜蘭",
+      "reading": "いぇらん",
+      "category": "原神"
+    },
+    {
+      "id": "w-6a4e62a7aba22084",
+      "title": "神里綾人",
+      "body": "神里綾人",
+      "reading": "かみさとあやと",
+      "category": "原神"
+    },
+    {
+      "id": "w-e8b2d19712fd7cbf",
+      "title": "珊瑚宮心海",
+      "body": "珊瑚宮心海",
+      "reading": "さんごのみやここみ",
+      "category": "原神"
+    },
+    {
+      "id": "w-4f9e7c5b2dd23f01",
+      "title": "行秋",
+      "body": "行秋",
+      "reading": "ゆくあき",
+      "category": "原神"
+    },
+    {
+      "id": "w-fb9d9ad0f08ea847",
+      "title": "煙緋",
+      "body": "煙緋",
+      "reading": "えんひ",
+      "category": "原神"
+    },
+    {
+      "id": "w-5ee64fe7b0351c1",
+      "title": "嘉明",
+      "body": "嘉明",
+      "reading": "がみん",
+      "category": "原神"
+    },
+    {
+      "id": "w-4fe8094d4d3879f3",
+      "title": "香菱",
+      "body": "香菱",
+      "reading": "しゃんりん",
+      "category": "原神"
+    },
+    {
+      "id": "w-736873a253ad25c1",
+      "title": "辛炎",
+      "body": "辛炎",
+      "reading": "しんえん",
+      "category": "原神"
+    },
+    {
+      "id": "w-ce2df04afdc7b74f",
+      "title": "胡桃",
+      "body": "胡桃",
+      "reading": "ふーたお",
+      "category": "原神"
+    },
+    {
+      "id": "w-627a457c68e79c84",
+      "title": "宵宮",
+      "body": "宵宮",
+      "reading": "よいみや",
+      "category": "原神"
+    },
+    {
+      "id": "w-f9fddf4db601555",
+      "title": "久岐忍",
+      "body": "久岐忍",
+      "reading": "くきしのぶ",
+      "category": "原神"
+    },
+    {
+      "id": "w-dc67775b26c24451",
+      "title": "九条裟羅",
+      "body": "九条裟羅",
+      "reading": "くじょうさら",
+      "category": "原神"
+    },
+    {
+      "id": "w-a296ce9693b47e78",
+      "title": "刻晴",
+      "body": "刻晴",
+      "reading": "こくせい",
+      "category": "原神"
+    },
+    {
+      "id": "w-aed1fe5cfc638f32",
+      "title": "北斗",
+      "body": "北斗",
+      "reading": "ほくと",
+      "category": "原神"
+    },
+    {
+      "id": "w-86618a4db5aa783f",
+      "title": "八重神子",
+      "body": "八重神子",
+      "reading": "やえみこ",
+      "category": "原神"
+    },
+    {
+      "id": "w-47ecf3b4573da3ec",
+      "title": "雷電将軍",
+      "body": "雷電将軍",
+      "reading": "らいでんしょうぐん",
+      "category": "原神"
+    },
+    {
+      "id": "w-56571ca18fd7c029",
+      "title": "荒瀧一斗",
+      "body": "荒瀧一斗",
+      "reading": "あらたきいっと",
+      "category": "原神"
+    },
+    {
+      "id": "w-9ceb913b1d81eb61",
+      "title": "雲菫",
+      "body": "雲菫",
+      "reading": "うんきん",
+      "category": "原神"
+    },
+    {
+      "id": "w-de1c0e0010c634ed",
+      "title": "凝光",
+      "body": "凝光",
+      "reading": "ぎょうこう",
+      "category": "原神"
+    },
+    {
+      "id": "w-e3f732e026c6cd0d",
+      "title": "兹白",
+      "body": "兹白",
+      "reading": "しはく",
+      "category": "原神"
+    },
+    {
+      "id": "w-59c3bce4a4fec08b",
+      "title": "鍾離",
+      "body": "鍾離",
+      "reading": "しょうり",
+      "category": "原神"
+    },
+    {
+      "id": "w-e385294c656ae0d4",
+      "title": "千織",
+      "body": "千織",
+      "reading": "ちおり",
+      "category": "原神"
+    },
+    {
+      "id": "w-fe27594906b90d6c",
+      "title": "綺良々",
+      "body": "綺良々",
+      "reading": "きらら",
+      "category": "原神"
+    },
+    {
+      "id": "w-acb59770fa59183c",
+      "title": "白朮",
+      "body": "白朮",
+      "reading": "びゃくじゅつ",
+      "category": "原神"
+    },
+    {
+      "id": "w-273ca11b6ca2df25",
+      "title": "空",
+      "body": "空",
+      "reading": "そら",
+      "category": "原神"
+    },
+    {
+      "id": "w-8a12ed1ba59f50ab",
+      "title": "蛍",
+      "body": "蛍",
+      "reading": "ほたる",
+      "category": "原神"
+    }
+  ]
+}

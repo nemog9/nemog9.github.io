@@ -1,0 +1,170 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "b4b6362ac0e6d616",
+  "name": "ゆるゆり",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-30182a24a222332e",
+      "title": "赤座あかり",
+      "body": "赤座あかり",
+      "reading": "あかざあかり",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-ae436fb2bcf3e509",
+      "title": "歳納京子",
+      "body": "歳納京子",
+      "reading": "としのうきょうこ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-fc64a1b1c3843be3",
+      "title": "船見結衣",
+      "body": "船見結衣",
+      "reading": "ふなみゆい",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-843074d0cf57b477",
+      "title": "吉川ちなつ",
+      "body": "吉川ちなつ",
+      "reading": "よしかわちなつ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-6cd6528a06eea15b",
+      "title": "杉浦綾乃",
+      "body": "杉浦綾乃",
+      "reading": "すぎうらあやの",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-5fd0a6ac1c61828a",
+      "title": "池田千歳",
+      "body": "池田千歳",
+      "reading": "いけだちとせ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-de2edb07c0a7ec8c",
+      "title": "大室櫻子",
+      "body": "大室櫻子",
+      "reading": "おおむろさくらこ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-2ad8cd9cbbc2f2ec",
+      "title": "古谷向日葵",
+      "body": "古谷向日葵",
+      "reading": "ふるたにひまわり",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-71e97e7be75c6122",
+      "title": "松本りせ",
+      "body": "松本りせ",
+      "reading": "まつもとりせ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-797190ac2acbed79",
+      "title": "池田千鶴",
+      "body": "池田千鶴",
+      "reading": "いけだちづる",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-f784c38dad128ef1",
+      "title": "西垣奈々",
+      "body": "西垣奈々",
+      "reading": "にしがきなな",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-13d75b0c3d18c155",
+      "title": "高岡ひろ",
+      "body": "高岡ひろ",
+      "reading": "たかおかひろ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-cd117d3f2fb77ea9",
+      "title": "出崎貴音",
+      "body": "出崎貴音",
+      "reading": "でざきたかね",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-ad1bce17fd62a7cb",
+      "title": "小山遥",
+      "body": "小山遥",
+      "reading": "こやまはるか",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-be1bc035eb8fd949",
+      "title": "南野つばさ",
+      "body": "南野つばさ",
+      "reading": "みなみのつばさ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-734cd7b9c9d252b5",
+      "title": "北宮初美",
+      "body": "北宮初美",
+      "reading": "きたみやはつみ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-2fd1f042935be8f5",
+      "title": "東志帆子",
+      "body": "東志帆子",
+      "reading": "あずましほこ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-30222d24a22a8ccc",
+      "title": "赤座あかね",
+      "body": "赤座あかね",
+      "reading": "あかざあかね",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-41e66b8c10a5b3a4",
+      "title": "船見まり",
+      "body": "船見まり",
+      "reading": "ふなみまり",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-8f73e9afba1b2ffc",
+      "title": "吉川ともこ",
+      "body": "吉川ともこ",
+      "reading": "よしかわともこ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-e9d6343276facdde",
+      "title": "古谷楓",
+      "body": "古谷楓",
+      "reading": "ふるたにかえで",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-8d51c0ae2b729c23",
+      "title": "大室撫子",
+      "body": "大室撫子",
+      "reading": "おおむろなでしこ",
+      "category": "ゆるゆり"
+    },
+    {
+      "id": "w-d53e276d909f0dd7",
+      "title": "大室花子",
+      "body": "大室花子",
+      "reading": "おおむろはなこ",
+      "category": "ゆるゆり"
+    }
+  ]
+}

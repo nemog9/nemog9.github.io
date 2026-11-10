@@ -1,0 +1,65 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "f131413e33102f6a",
+  "name": "ぼっち・ざ・ろっく!",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-b92d8f496267a3d8",
+      "title": "後藤ひとり",
+      "body": "後藤ひとり",
+      "reading": "ごとうひとり",
+      "category": "ぼっち・ざ・ろっく!"
+    },
+    {
+      "id": "w-79777597cba9285",
+      "title": "伊地知虹夏",
+      "body": "伊地知虹夏",
+      "reading": "いじちにじか",
+      "category": "ぼっち・ざ・ろっく!"
+    },
+    {
+      "id": "w-7607fb4540e4d4b9",
+      "title": "山田リョウ",
+      "body": "山田リョウ",
+      "reading": "やまだりょう",
+      "category": "ぼっち・ざ・ろっく!"
+    },
+    {
+      "id": "w-647eb6a331fb5888",
+      "title": "喜多郁代",
+      "body": "喜多郁代",
+      "reading": "きたいくよ",
+      "category": "ぼっち・ざ・ろっく!"
+    },
+    {
+      "id": "w-da3fc75f7f45dfcf",
+      "title": "伊地知星歌",
+      "body": "伊地知星歌",
+      "reading": "いじちせいか",
+      "category": "ぼっち・ざ・ろっく!"
+    },
+    {
+      "id": "w-aab4c2f444aa3a24",
+      "title": "廣井きくり",
+      "body": "廣井きくり",
+      "reading": "ひろいきくり",
+      "category": "ぼっち・ざ・ろっく!"
+    },
+    {
+      "id": "w-c24e46b61e778fb2",
+      "title": "後藤ふたり",
+      "body": "後藤ふたり",
+      "reading": "ごとうふたり",
+      "category": "ぼっち・ざ・ろっく!"
+    },
+    {
+      "id": "w-a65b671865b04f1d",
+      "title": "PAさん",
+      "body": "PAさん",
+      "reading": "ぴーえーさん",
+      "category": "ぼっち・ざ・ろっく!"
+    }
+  ]
+}

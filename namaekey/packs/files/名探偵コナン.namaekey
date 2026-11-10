@@ -1,0 +1,793 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "4609c9d3a27ecec9",
+  "name": "名探偵コナン",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-654ad0f537f9654d",
+      "title": "江戸川コナン",
+      "body": "江戸川コナン",
+      "reading": "えどがわこなん",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b1d88e5950087f17",
+      "title": "工藤新一",
+      "body": "工藤新一",
+      "reading": "くどうしんいち",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-3a0694a7023736b8",
+      "title": "毛利蘭",
+      "body": "毛利蘭",
+      "reading": "もうりらん",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-64e035f14b821b9",
+      "title": "毛利小五郎",
+      "body": "毛利小五郎",
+      "reading": "もうりこごろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-99fcd9ba5aebb3",
+      "title": "阿笠博士",
+      "body": "阿笠博士",
+      "reading": "あがさひろし",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-19b9458f07930433",
+      "title": "灰原哀",
+      "body": "灰原哀",
+      "reading": "はいばらあい",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-d2d76196b6fa5aa1",
+      "title": "宮野志保",
+      "body": "宮野志保",
+      "reading": "みやのしほ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-64050ddab7a9c5b9",
+      "title": "吉田歩美",
+      "body": "吉田歩美",
+      "reading": "よしだあゆみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-3e2a33cdcc9fdf26",
+      "title": "円谷光彦",
+      "body": "円谷光彦",
+      "reading": "つぶらやみつひこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-1cfed18cca18b6cb",
+      "title": "小嶋元太",
+      "body": "小嶋元太",
+      "reading": "こじまげんた",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b408ed5b29fd20b3",
+      "title": "鈴木園子",
+      "body": "鈴木園子",
+      "reading": "すずきそのこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-1b0266b4befd5d86",
+      "title": "服部平次",
+      "body": "服部平次",
+      "reading": "はっとりへいじ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-5203ea02db85312f",
+      "title": "遠山和葉",
+      "body": "遠山和葉",
+      "reading": "とおやまかずは",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-e490dbb2852baae4",
+      "title": "妃英理",
+      "body": "妃英理",
+      "reading": "きさきえり",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-ae2d6d4b676d8791",
+      "title": "黒羽快斗",
+      "body": "黒羽快斗",
+      "reading": "くろばかいと",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-68a6463885088e80",
+      "title": "安室透",
+      "body": "安室透",
+      "reading": "あむろとおる",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-52ef814523437b1b",
+      "title": "降谷零",
+      "body": "降谷零",
+      "reading": "ふるやれい",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-bc79ba9db5f244bd",
+      "title": "黒田兵衛",
+      "body": "黒田兵衛",
+      "reading": "くろだひょうえ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-5f3218f92a18bf8",
+      "title": "松本清長",
+      "body": "松本清長",
+      "reading": "まつもときよなが",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b8cb4f91910333db",
+      "title": "目暮十三",
+      "body": "目暮十三",
+      "reading": "めぐれじゅうぞう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-fecb5654c6cb2beb",
+      "title": "佐藤美和子",
+      "body": "佐藤美和子",
+      "reading": "さとうみわこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-6c3eabe432670718",
+      "title": "高木渉",
+      "body": "高木渉",
+      "reading": "たかぎわたる",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-db59378794de0ef4",
+      "title": "白鳥任三郎",
+      "body": "白鳥任三郎",
+      "reading": "しらとりにんざぶろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-8ae8d36ad3571f51",
+      "title": "宮本由美",
+      "body": "宮本由美",
+      "reading": "みやもとゆみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-6de1e4b80b97a1a9",
+      "title": "千葉和伸",
+      "body": "千葉和伸",
+      "reading": "ちばかずのぶ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-348ffd69c0ac35af",
+      "title": "三池苗子",
+      "body": "三池苗子",
+      "reading": "みいけなえこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-e12407d5af51ff33",
+      "title": "中森銀三",
+      "body": "中森銀三",
+      "reading": "なかもりぎんぞう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-156526f5374e66f8",
+      "title": "茶木神太郎",
+      "body": "茶木神太郎",
+      "reading": "ちゃきしんたろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-7cd4d0100bed4199",
+      "title": "風見裕也",
+      "body": "風見裕也",
+      "reading": "かざみゆうや",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-5007e38adbc68169",
+      "title": "松田陣平",
+      "body": "松田陣平",
+      "reading": "まつだじんぺい",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-7b1a012845a410e1",
+      "title": "萩原研二",
+      "body": "萩原研二",
+      "reading": "はぎわらけんじ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-ae15725bc38db409",
+      "title": "伊達航",
+      "body": "伊達航",
+      "reading": "だてわたる",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-cf0bb9c608139346",
+      "title": "諸伏景光",
+      "body": "諸伏景光",
+      "reading": "もろふしひろみつ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-db8e8cc92851f60e",
+      "title": "横溝重悟",
+      "body": "横溝重悟",
+      "reading": "よこみぞじゅうご",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-f9c521a14c9a4ae3",
+      "title": "萩原千速",
+      "body": "萩原千速",
+      "reading": "はぎわらちはや",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-da27ce0e66a9d150",
+      "title": "山村ミサオ",
+      "body": "山村ミサオ",
+      "reading": "やまむらみさお",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-6b3aaf55fe2aeeab",
+      "title": "大和敢助",
+      "body": "大和敢助",
+      "reading": "やまとかんすけ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-9ced762ed2b27aa9",
+      "title": "上原由衣",
+      "body": "上原由衣",
+      "reading": "うえはらゆい",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-6be9d689f172d6f1",
+      "title": "諸伏高明",
+      "body": "諸伏高明",
+      "reading": "もろふしたかあき",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b3bf7e09b2a51ad5",
+      "title": "横溝参悟",
+      "body": "横溝参悟",
+      "reading": "よこみぞさんご",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-a151b8b479f265b0",
+      "title": "服部平蔵",
+      "body": "服部平蔵",
+      "reading": "はっとりへいぞう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-d8a3566459dd30b5",
+      "title": "遠山銀司郎",
+      "body": "遠山銀司郎",
+      "reading": "とおやまぎんしろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-1768f3e91357a8e0",
+      "title": "大滝悟郎",
+      "body": "大滝悟郎",
+      "reading": "おおたきごろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-987284c310b44bb6",
+      "title": "遠山櫻",
+      "body": "遠山櫻",
+      "reading": "とおやまさくら",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-adf38ec7e2bb2bed",
+      "title": "綾小路文麿",
+      "body": "綾小路文麿",
+      "reading": "あやのこうじふみまろ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-2257ecb2ccff7636",
+      "title": "西村京兵",
+      "body": "西村京兵",
+      "reading": "にしむらきょうへい",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b80850a6507d692d",
+      "title": "水無怜奈",
+      "body": "水無怜奈",
+      "reading": "みずなしれな",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-1a341c0184cfe7c3",
+      "title": "本堂瑛海",
+      "body": "本堂瑛海",
+      "reading": "ほんどうひでみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-d8712017c7dd779",
+      "title": "本堂瑛祐",
+      "body": "本堂瑛祐",
+      "reading": "ほんどうえいすけ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-207b2e3e3f23399b",
+      "title": "イーサン・本堂",
+      "body": "イーサン・本堂",
+      "reading": "いーさんほんどう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-c452cfdfb8e57812",
+      "title": "メアリー・世良",
+      "body": "メアリー・世良",
+      "reading": "めありーせら",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-891aaf6fd83612b3",
+      "title": "赤井務武",
+      "body": "赤井務武",
+      "reading": "あかいつとむ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-40ecfc0d108ce4ca",
+      "title": "世良真純",
+      "body": "世良真純",
+      "reading": "せらますみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-cbe394b52e3f4f8d",
+      "title": "会沢栄介",
+      "body": "会沢栄介",
+      "reading": "あいざわえいすけ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-6837d080395b7b5b",
+      "title": "塚本数美",
+      "body": "塚本数美",
+      "reading": "つかもとかずみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-d8091e518fd6f770",
+      "title": "新出智明",
+      "body": "新出智明",
+      "reading": "あらいでともあき",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-ab5671c09581ca8",
+      "title": "小林澄子",
+      "body": "小林澄子",
+      "reading": "こばやしすみこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-4afb0ad76b296848",
+      "title": "若狭留美",
+      "body": "若狭留美",
+      "reading": "わかさるみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-e1c6a9ebd7ba3221",
+      "title": "東尾マリア",
+      "body": "東尾マリア",
+      "reading": "ひがしおまりあ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-9bd3d15cfe8b2fc1",
+      "title": "植松竜司郎",
+      "body": "植松竜司郎",
+      "reading": "うえまつりゅうじろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b0e4cab7f43e4d81",
+      "title": "大岡紅葉",
+      "body": "大岡紅葉",
+      "reading": "おおおかもみじ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-9d1ecce9d0ea0cff",
+      "title": "沖田総司",
+      "body": "沖田総司",
+      "reading": "おきたそうし",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-7977defb6ac8fded",
+      "title": "京極真",
+      "body": "京極真",
+      "reading": "きょうごくまこと",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-1aa9af4c76921c36",
+      "title": "和田陽奈",
+      "body": "和田陽奈",
+      "reading": "わだひな",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-f0211e3e028158ed",
+      "title": "澁谷夏子",
+      "body": "澁谷夏子",
+      "reading": "しぶやなつこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-717bcca95b325b8d",
+      "title": "工藤優作",
+      "body": "工藤優作",
+      "reading": "くどうゆうさく",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-240058972848cf87",
+      "title": "工藤有希子",
+      "body": "工藤有希子",
+      "reading": "くどうゆきこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-2a2476f658ce6db5",
+      "title": "赤井秀一",
+      "body": "赤井秀一",
+      "reading": "あかいしゅういち",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-c6bc332812590956",
+      "title": "羽田秀吉",
+      "body": "羽田秀吉",
+      "reading": "はねだしゅうきち",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-1cf9434fe34512b3",
+      "title": "宮野厚司",
+      "body": "宮野厚司",
+      "reading": "みやのあつし",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-de08085f383dbfcf",
+      "title": "宮野エレーナ",
+      "body": "宮野エレーナ",
+      "reading": "みやのえれーな",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-f031cd63a8df33db",
+      "title": "宮野明美",
+      "body": "宮野明美",
+      "reading": "みやのあけみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-ed7b58536f4e44a7",
+      "title": "服部静華",
+      "body": "服部静華",
+      "reading": "はっとりしずか",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-ea1faa9c3cd84e10",
+      "title": "目暮みどり",
+      "body": "目暮みどり",
+      "reading": "めぐれみどり",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-c6aac8e017a2acbf",
+      "title": "円谷朝美",
+      "body": "円谷朝美",
+      "reading": "つぶらやあさみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-3bfeb8cbc011d03",
+      "title": "小嶋元次",
+      "body": "小嶋元次",
+      "reading": "こじまげんじ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-9559be2e2a5259e2",
+      "title": "鈴木史郎",
+      "body": "鈴木史郎",
+      "reading": "すずきしろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-14fc6255469bd41d",
+      "title": "鈴木朋子",
+      "body": "鈴木朋子",
+      "reading": "すずきともこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-9adcfe39a24a79c7",
+      "title": "鈴木綾子",
+      "body": "鈴木綾子",
+      "reading": "すずきあやこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-3266321eeebe0ce1",
+      "title": "鈴木次郎吉",
+      "body": "鈴木次郎吉",
+      "reading": "すずきじろきち",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-7b24c96e4a224307",
+      "title": "後藤善悟",
+      "body": "後藤善悟",
+      "reading": "ごとうぜんご",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-5db0e3f779e412dc",
+      "title": "伊織無我",
+      "body": "伊織無我",
+      "reading": "いおりむが",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-88780981f816eafe",
+      "title": "榎本梓",
+      "body": "榎本梓",
+      "reading": "えのもとあずさ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-733d4a24ef58d202",
+      "title": "脇田兼則",
+      "body": "脇田兼則",
+      "reading": "わきたかねのり",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-2534cea05f12fc38",
+      "title": "小倉功雅",
+      "body": "小倉功雅",
+      "reading": "おぐらかつまさ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-d45292e620f6eb38",
+      "title": "大橋彩代",
+      "body": "大橋彩代",
+      "reading": "おおはしさよ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-d5e2eeb6aeb96be0",
+      "title": "羽田浩司",
+      "body": "羽田浩司",
+      "reading": "はねだこうじ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-e2e3c5a371a26a30",
+      "title": "勝又力",
+      "body": "勝又力",
+      "reading": "かつまたちから",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-ad891c79a3222795",
+      "title": "沖野ヨーコ",
+      "body": "沖野ヨーコ",
+      "reading": "おきのよーこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-73f0cbff68de26de",
+      "title": "剣崎修",
+      "body": "剣崎修",
+      "reading": "けんざきおさむ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-a33f49db3e46e4d6",
+      "title": "光本兵我",
+      "body": "光本兵我",
+      "reading": "こうもとひょうが",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-967f3ab341221170",
+      "title": "赤木英雄",
+      "body": "赤木英雄",
+      "reading": "あかぎひでお",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-bca6ed522a975a3c",
+      "title": "上村直樹",
+      "body": "上村直樹",
+      "reading": "うえむらなおき",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-bb0370075ce43859",
+      "title": "比護隆佑",
+      "body": "比護隆佑",
+      "reading": "ひごりゅうすけ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-a825f33360d5aa80",
+      "title": "真田貴大",
+      "body": "真田貴大",
+      "reading": "さなだたかひろ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-bdba25d705ce7486",
+      "title": "栗山緑",
+      "body": "栗山緑",
+      "reading": "くりやまみどり",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-eb3d5cc30f168e56",
+      "title": "九条玲子",
+      "body": "九条玲子",
+      "reading": "くじょうれいこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-d1e23009dd978333",
+      "title": "大井宏樹",
+      "body": "大井宏樹",
+      "reading": "おおいひろき",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-63ff1f8fb5709799",
+      "title": "白馬探",
+      "body": "白馬探",
+      "reading": "はくばさぐる",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b04dd0403ae29ac1",
+      "title": "米原桜子",
+      "body": "米原桜子",
+      "reading": "よねはらさくらこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-8d3bd49f911f59cd",
+      "title": "烏丸蓮耶",
+      "body": "烏丸蓮耶",
+      "reading": "からすまれんや",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-48b73e74afef2f28",
+      "title": "枡山憲三",
+      "body": "枡山憲三",
+      "reading": "ますやまけんぞう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-189110cb1d753cf4",
+      "title": "楠田陸道",
+      "body": "楠田陸道",
+      "reading": "くすだりくみち",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-23c1f5548f1bbf6a",
+      "title": "呑口重彦",
+      "body": "呑口重彦",
+      "reading": "のみぐちしげひこ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-4125e80dc06fb550",
+      "title": "沼淵己一郎",
+      "body": "沼淵己一郎",
+      "reading": "ぬまぶちきいちろう",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-721cfd65ed22c317",
+      "title": "原佳明",
+      "body": "原佳明",
+      "reading": "はらよしあき",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-bf569011de1222b6",
+      "title": "岡倉政明",
+      "body": "岡倉政明",
+      "reading": "おかくらまさあき",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-22a757d8d0bbc31b",
+      "title": "沖矢昴",
+      "body": "沖矢昴",
+      "reading": "おきやすばる",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-5a78f6e8459923b",
+      "title": "諸星大",
+      "body": "諸星大",
+      "reading": "もろぼしだい",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-b29c75bb552e16a8",
+      "title": "広田雅美",
+      "body": "広田雅美",
+      "reading": "ひろたまさみ",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-bcf8469e21f305da",
+      "title": "黒澤陣",
+      "body": "黒澤陣",
+      "reading": "くろさわじん",
+      "category": "名探偵コナン"
+    },
+    {
+      "id": "w-eff17730a405281e",
+      "title": "魚塚三郎",
+      "body": "魚塚三郎",
+      "reading": "うおづかさぶろう",
+      "category": "名探偵コナン"
+    }
+  ]
+}

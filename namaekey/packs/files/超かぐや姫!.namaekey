@@ -1,0 +1,107 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "27dcdc71858d1284",
+  "name": "超かぐや姫!",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-760d2a328c735588",
+      "title": "酒寄彩葉",
+      "body": "酒寄彩葉",
+      "reading": "さかよりいろは",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-9f7ac3f4f9134fa7",
+      "title": "月見ヤチヨ",
+      "body": "月見ヤチヨ",
+      "reading": "るなみやちよ",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-a3c5da1eb9a17d91",
+      "title": "帝アキラ",
+      "body": "帝アキラ",
+      "reading": "みかどあきら",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-f9a49bcb42eab7a4",
+      "title": "酒寄朝日",
+      "body": "酒寄朝日",
+      "reading": "さかよりあさひ",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-78dc1162bae8f5ee",
+      "title": "駒沢雷",
+      "body": "駒沢雷",
+      "reading": "こまざわらい",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-aef4af07b71b0c68",
+      "title": "駒沢乃依",
+      "body": "駒沢乃依",
+      "reading": "こまざわのい",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-ede952161cda5226",
+      "title": "綾紬芦花",
+      "body": "綾紬芦花",
+      "reading": "あやつむぎろか",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-a40e83eddf05ea55",
+      "title": "諌山真実",
+      "body": "諌山真実",
+      "reading": "いさやままみ",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-a43bf1ce41b1bdca",
+      "title": "FUSHI",
+      "body": "FUSHI",
+      "reading": "ふし",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-818efc3db1128407",
+      "title": "忠犬オタ公",
+      "body": "忠犬オタ公",
+      "reading": "ちゅうけんおたこう",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-821c8ba622f32342",
+      "title": "乙事照琴",
+      "body": "乙事照琴",
+      "reading": "おっこてること",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-b31c8c96bb1195f5",
+      "title": "犬DOGE",
+      "body": "犬DOGE",
+      "reading": "いぬどうじ",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-eb50dcb4fe77384",
+      "title": "酒寄朝久",
+      "body": "酒寄朝久",
+      "reading": "さかよりともひさ",
+      "category": "超かぐや姫!"
+    },
+    {
+      "id": "w-ad639511e2e9f999",
+      "title": "酒寄紅葉",
+      "body": "酒寄紅葉",
+      "reading": "さかよりもみじ",
+      "category": "超かぐや姫!"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "33d5ce7d4e82752f",
+  "name": "ペルソナシリーズ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-8c63e5e021fd696",
+      "title": "結城理",
+      "body": "結城理",
+      "reading": "ゆうきまこと",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-d58016041f461717",
+      "title": "有里湊",
+      "body": "有里湊",
+      "reading": "ありさとみなと",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-eeb8239d30c9bc58",
+      "title": "岳羽ゆかり",
+      "body": "岳羽ゆかり",
+      "reading": "たけばゆかり",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-7541d243c8e0322f",
+      "title": "伊織順平",
+      "body": "伊織順平",
+      "reading": "いおりじゅんぺい",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-5673f72e7f7a90d2",
+      "title": "桐条美鶴",
+      "body": "桐条美鶴",
+      "reading": "きりじょうみつる",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-7739c5cc49cc64c8",
+      "title": "真田明彦",
+      "body": "真田明彦",
+      "reading": "さなだあきひこ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-8e43a9cbe34c6ca9",
+      "title": "山岸風花",
+      "body": "山岸風花",
+      "reading": "やまぎしふうか",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-faee222eb0996a36",
+      "title": "虎狼丸",
+      "body": "虎狼丸",
+      "reading": "ころうまる",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-c77760b73d0fbb37",
+      "title": "天田乾",
+      "body": "天田乾",
+      "reading": "あまだけん",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-7f08cfd30d2e9805",
+      "title": "荒垣真次郎",
+      "body": "荒垣真次郎",
+      "reading": "あらがきしんじろう",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-cfbe2489ed06b840",
+      "title": "榊貴隆也",
+      "body": "榊貴隆也",
+      "reading": "さかきたかや",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-ca86c7ba5e9394f1",
+      "title": "白戸陣",
+      "body": "白戸陣",
+      "reading": "しらとじん",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-3ccd1e851e39895d",
+      "title": "吉野千鳥",
+      "body": "吉野千鳥",
+      "reading": "よしのちどり",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-771d87b546c0b944",
+      "title": "望月綾時",
+      "body": "望月綾時",
+      "reading": "もちづきりょうじ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-88f4f83df69387c4",
+      "title": "幾月修司",
+      "body": "幾月修司",
+      "reading": "いくつきしゅうじ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-dd77eaa21eed5806",
+      "title": "桐条武治",
+      "body": "桐条武治",
+      "reading": "きりじょうたけはる",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-f16e19017f084fd9",
+      "title": "鳴上悠",
+      "body": "鳴上悠",
+      "reading": "なるかみゆう",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-728268eac22d374a",
+      "title": "瀬多総司",
+      "body": "瀬多総司",
+      "reading": "せたそうじ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-d621e075702e5d93",
+      "title": "花村陽介",
+      "body": "花村陽介",
+      "reading": "はなむらようすけ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-13597cc740cac584",
+      "title": "里中千枝",
+      "body": "里中千枝",
+      "reading": "さとなかちえ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-8297d2c66bb2773f",
+      "title": "天城雪子",
+      "body": "天城雪子",
+      "reading": "あまみゆきこ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-548fe174aef46725",
+      "title": "巽完二",
+      "body": "巽完二",
+      "reading": "たつみかんじ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-aca434ae91a4d219",
+      "title": "久慈川りせ",
+      "body": "久慈川りせ",
+      "reading": "くじかわりせ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-963c507079c43ebc",
+      "title": "白鐘直斗",
+      "body": "白鐘直斗",
+      "reading": "しろがねなおと",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-b42aa8fb0ad9c787",
+      "title": "堂島遼太郎",
+      "body": "堂島遼太郎",
+      "reading": "どうじまりょうたろう",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-a981abf2daac64ab",
+      "title": "堂島菜々子",
+      "body": "堂島菜々子",
+      "reading": "どうじまななこ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-8cf23178992a335f",
+      "title": "足立透",
+      "body": "足立透",
+      "reading": "あだちとおる",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-c2ad2715d1238011",
+      "title": "生田目太郎",
+      "body": "生田目太郎",
+      "reading": "なまためたろう",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-15ba015472b6e8d7",
+      "title": "久保美津雄",
+      "body": "久保美津雄",
+      "reading": "くぼみつお",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-68022914d668dbcf",
+      "title": "山野真由美",
+      "body": "山野真由美",
+      "reading": "やまのまゆみ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-911eb2bbb9504ef8",
+      "title": "小西早紀",
+      "body": "小西早紀",
+      "reading": "こにしさき",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-60b33108c9fd202c",
+      "title": "諸岡金四郎",
+      "body": "諸岡金四郎",
+      "reading": "もろおかきんしろう",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-cac2969771303b3",
+      "title": "雨宮蓮",
+      "body": "雨宮蓮",
+      "reading": "あまみやれん",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-6a8c29a0131a1f1c",
+      "title": "来栖暁",
+      "body": "来栖暁",
+      "reading": "くるすあきら",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-dce0fdc83b5b431d",
+      "title": "坂本竜司",
+      "body": "坂本竜司",
+      "reading": "さかもとりゅうじ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-1a7eb1a936077d56",
+      "title": "高巻杏",
+      "body": "高巻杏",
+      "reading": "たかまきあん",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-948c2a79f10b4534",
+      "title": "喜多川祐介",
+      "body": "喜多川祐介",
+      "reading": "きたがわゆうすけ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-1de26d3e594b155",
+      "title": "新島真",
+      "body": "新島真",
+      "reading": "にいじままこと",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-e3d04d1d41af302c",
+      "title": "佐倉双葉",
+      "body": "佐倉双葉",
+      "reading": "さくらふたば",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-dbd5ae8e686532c3",
+      "title": "奥村春",
+      "body": "奥村春",
+      "reading": "おくむらはる",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-dd6fa3a61ca4cc69",
+      "title": "明智吾郎",
+      "body": "明智吾郎",
+      "reading": "あけちごろう",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-344d21e1ebd3605d",
+      "title": "芳澤かすみ",
+      "body": "芳澤かすみ",
+      "reading": "よしざわかすみ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-46f5e63298d702cf",
+      "title": "芳澤すみれ",
+      "body": "芳澤すみれ",
+      "reading": "よしざわすみれ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-bbff8648d8952ff",
+      "title": "佐倉惣治郎",
+      "body": "佐倉惣治郎",
+      "reading": "さくらそうじろう",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-12f40dd3ef30e710",
+      "title": "新島冴",
+      "body": "新島冴",
+      "reading": "にいじまさえ",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-b8d3ad49911e0618",
+      "title": "丸喜拓人",
+      "body": "丸喜拓人",
+      "reading": "まるきたくと",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-824bc8960e32a8ff",
+      "title": "三島由輝",
+      "body": "三島由輝",
+      "reading": "みしまゆうき",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-e3676340a923a009",
+      "title": "鴨志田卓",
+      "body": "鴨志田卓",
+      "reading": "かもしだすぐる",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-4682785bcdac0156",
+      "title": "斑目一流斎",
+      "body": "斑目一流斎",
+      "reading": "まだらめいちりゅうさい",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-ed63bb29a57ce20b",
+      "title": "金城潤矢",
+      "body": "金城潤矢",
+      "reading": "かねしろじゅんや",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-ab3b1d2be03022ce",
+      "title": "奥村邦和",
+      "body": "奥村邦和",
+      "reading": "おくむらくにかず",
+      "category": "ペルソナシリーズ"
+    },
+    {
+      "id": "w-76145d0b1d8d8f77",
+      "title": "獅童正義",
+      "body": "獅童正義",
+      "reading": "しどうまさよし",
+      "category": "ペルソナシリーズ"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "171af096dc6dd38f",
+  "name": "ホロライブ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-9cffe44e4202f8e1",
+      "title": "ロボ子さん",
+      "body": "ロボ子さん",
+      "reading": "ろぼこさん",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-9035be8694435d52",
+      "title": "星街すいせい",
+      "body": "星街すいせい",
+      "reading": "ほしまちすいせい",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-d753fb8bcb72e9c6",
+      "title": "AZKi",
+      "body": "AZKi",
+      "reading": "あずき",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-938b6f88dc4d845b",
+      "title": "白上フブキ",
+      "body": "白上フブキ",
+      "reading": "しらかみふぶき",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-474a7a0b40f6e53",
+      "title": "夏色まつり",
+      "body": "夏色まつり",
+      "reading": "なついろまつり",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-6c3f5e73e02236e2",
+      "title": "赤井はあと",
+      "body": "赤井はあと",
+      "reading": "あかいはあと",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-b09932cf1e52656f",
+      "title": "百鬼あやめ",
+      "body": "百鬼あやめ",
+      "reading": "なきりあやめ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-c641d1a98997a01f",
+      "title": "癒月ちょこ",
+      "body": "癒月ちょこ",
+      "reading": "ゆづきちょこ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-95d259bf6627409a",
+      "title": "大空スバル",
+      "body": "大空スバル",
+      "reading": "おおぞらすばる",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-ab7dcadcb50ff7f1",
+      "title": "大神ミオ",
+      "body": "大神ミオ",
+      "reading": "おおかみみお",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-991457b85885b86b",
+      "title": "猫又おかゆ",
+      "body": "猫又おかゆ",
+      "reading": "ねこまたおかゆ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-6c2ae526b231113d",
+      "title": "戌神ころね",
+      "body": "戌神ころね",
+      "reading": "いぬがみころね",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-33a9e28b1aaa5fad",
+      "title": "兎田ぺこら",
+      "body": "兎田ぺこら",
+      "reading": "うさだぺこら",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-4321549649fa33c",
+      "title": "不知火フレア",
+      "body": "不知火フレア",
+      "reading": "しらぬいふれあ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-5e7c677038aae321",
+      "title": "白銀ノエル",
+      "body": "白銀ノエル",
+      "reading": "しろがねのえる",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-3708da541d0d4787",
+      "title": "宝鐘マリン",
+      "body": "宝鐘マリン",
+      "reading": "ほうしょうまりん",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-2875945c258770e4",
+      "title": "角巻わため",
+      "body": "角巻わため",
+      "reading": "つのまきわため",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-5a137664f2e3ec2c",
+      "title": "常闇トワ",
+      "body": "常闇トワ",
+      "reading": "とこやみとわ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-4734383ce8fe79e",
+      "title": "姫森ルーナ",
+      "body": "姫森ルーナ",
+      "reading": "ひめもりるーな",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-c6d9c8390faf7ad8",
+      "title": "雪花ラミィ",
+      "body": "雪花ラミィ",
+      "reading": "ゆきはならみぃ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-b1569f4cd55b9362",
+      "title": "桃鈴ねね",
+      "body": "桃鈴ねね",
+      "reading": "ももすずねね",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-9628fdd27472eddc",
+      "title": "獅白ぼたん",
+      "body": "獅白ぼたん",
+      "reading": "ししろぼたん",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-aad6f1bd66948e50",
+      "title": "尾丸ポルカ",
+      "body": "尾丸ポルカ",
+      "reading": "おまるぽるか",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-8b3123d7955e5fb9",
+      "title": "鷹嶺ルイ",
+      "body": "鷹嶺ルイ",
+      "reading": "たかねるい",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-f5114617673fface",
+      "title": "博衣こより",
+      "body": "博衣こより",
+      "reading": "はくいこより",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-e972c5a720677c23",
+      "title": "風真いろは",
+      "body": "風真いろは",
+      "reading": "かざまいろは",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-f47e66680391c2b6",
+      "title": "音乃瀬奏",
+      "body": "音乃瀬奏",
+      "reading": "おとのせかなで",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-c615112f93bb2036",
+      "title": "一条莉々華",
+      "body": "一条莉々華",
+      "reading": "いちじょうりりか",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-f70a64feeb803ec4",
+      "title": "儒烏風亭らでん",
+      "body": "儒烏風亭らでん",
+      "reading": "じゅうふうていらでん",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-795ba168904ee654",
+      "title": "轟はじめ",
+      "body": "轟はじめ",
+      "reading": "とどろきはじめ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-9fd16618135cb078",
+      "title": "響咲リオナ",
+      "body": "響咲リオナ",
+      "reading": "いさきりおな",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-3ab8abb495b6a534",
+      "title": "虎金妃笑虎",
+      "body": "虎金妃笑虎",
+      "reading": "こがねいにこ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-3ec6129334feae9e",
+      "title": "水宮枢",
+      "body": "水宮枢",
+      "reading": "みずみやすう",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-19cd76ee4163dd45",
+      "title": "輪堂千速",
+      "body": "輪堂千速",
+      "reading": "りんどうちはや",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-7f9dfa5d43f5d86",
+      "title": "綺々羅々ヴィヴィ",
+      "body": "綺々羅々ヴィヴィ",
+      "reading": "ききららゔぃゔぃ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-b276400ddbdcec61",
+      "title": "湊あくあ",
+      "body": "湊あくあ",
+      "reading": "みなとあくあ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-71e99a2170474588",
+      "title": "紫咲シオン",
+      "body": "紫咲シオン",
+      "reading": "むらさきしおん",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-7a5f7a245dfb5693",
+      "title": "潤羽るしあ",
+      "body": "潤羽るしあ",
+      "reading": "うるはるしあ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-1b8382d49917935e",
+      "title": "天音かなた",
+      "body": "天音かなた",
+      "reading": "あまねかなた",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-9539f1ec33550a48",
+      "title": "桐生ココ",
+      "body": "桐生ココ",
+      "reading": "きりゅうここ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-400810326ac9e34e",
+      "title": "夜空メル",
+      "body": "夜空メル",
+      "reading": "よぞらめる",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-741b4051d8dcadf8",
+      "title": "沙花叉クロヱ",
+      "body": "沙花叉クロヱ",
+      "reading": "さかまたくろゑ",
+      "category": "ホロライブ"
+    },
+    {
+      "id": "w-f62aa40f452ecdba",
+      "title": "火威青",
+      "body": "火威青",
+      "reading": "ひおどしあお",
+      "category": "ホロライブ"
+    }
+  ]
+}

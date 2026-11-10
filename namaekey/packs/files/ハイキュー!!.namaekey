@@ -1,0 +1,310 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "4b44fa55c814dab6",
+  "name": "ハイキュー!!",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-7ada0d5125913554",
+      "title": "日向翔陽",
+      "body": "日向翔陽",
+      "reading": "ひなたしょうよう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-af13f68121ce4f3c",
+      "title": "影山飛雄",
+      "body": "影山飛雄",
+      "reading": "かげやまとびお",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-86cd1ddd9c4c4503",
+      "title": "月島蛍",
+      "body": "月島蛍",
+      "reading": "つきしまけい",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-9edfd5111ae3ceb5",
+      "title": "山口忠",
+      "body": "山口忠",
+      "reading": "やまぐちただし",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-8fff4e5a9c160dcf",
+      "title": "田中龍之介",
+      "body": "田中龍之介",
+      "reading": "たなかりゅうのすけ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-84a08f39dce8d890",
+      "title": "西谷夕",
+      "body": "西谷夕",
+      "reading": "にしやゆう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-7b454132df1fc3f1",
+      "title": "菅原孝支",
+      "body": "菅原孝支",
+      "reading": "すがわらこうし",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-dd305074e2869430",
+      "title": "澤村大地",
+      "body": "澤村大地",
+      "reading": "さわむらだいち",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-56293d78bb5c46cd",
+      "title": "東峰旭",
+      "body": "東峰旭",
+      "reading": "あずまねあさひ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-3e25901f5eba218f",
+      "title": "清水潔子",
+      "body": "清水潔子",
+      "reading": "しみずきよこ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-d82a6b5c1ab3d410",
+      "title": "谷地仁花",
+      "body": "谷地仁花",
+      "reading": "やちひとか",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-4212998f4751051d",
+      "title": "武田一鉄",
+      "body": "武田一鉄",
+      "reading": "たけだいってつ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-41df14060ce8b747",
+      "title": "烏養繋心",
+      "body": "烏養繋心",
+      "reading": "うかいけいしん",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-fae225e97588a6cc",
+      "title": "烏養一繋",
+      "body": "烏養一繋",
+      "reading": "うかいいっけい",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-6680de90ed273445",
+      "title": "木下久志",
+      "body": "木下久志",
+      "reading": "きのしたひさし",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-5f70efde4eb9fd2",
+      "title": "成田一仁",
+      "body": "成田一仁",
+      "reading": "なりたかずひと",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-dec2e63fc4f4894a",
+      "title": "縁下力",
+      "body": "縁下力",
+      "reading": "えんのしたちから",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-8bf06a4ade8df416",
+      "title": "及川徹",
+      "body": "及川徹",
+      "reading": "おいかわとおる",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-d5b9c3c3623e0edb",
+      "title": "岩泉一",
+      "body": "岩泉一",
+      "reading": "いわいずみはじめ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-f239a1a42a7027f5",
+      "title": "金田一勇太郎",
+      "body": "金田一勇太郎",
+      "reading": "きんだいちゆうたろう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-7f259ef63f623cc9",
+      "title": "国見英",
+      "body": "国見英",
+      "reading": "くにみあきら",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-f768f3955b492bb4",
+      "title": "牛島若利",
+      "body": "牛島若利",
+      "reading": "うしじまわかとし",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-8f621fb9d0ecf7a4",
+      "title": "天童覚",
+      "body": "天童覚",
+      "reading": "てんどうさとり",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-38d0a29c3dc1437f",
+      "title": "白布賢二郎",
+      "body": "白布賢二郎",
+      "reading": "しらふけんじろう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-9716db0d47f11897",
+      "title": "五色工",
+      "body": "五色工",
+      "reading": "ごしきたくみ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-b6a0c2a3ee1e2e79",
+      "title": "宮侑",
+      "body": "宮侑",
+      "reading": "みやあつむ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-c56782a3f5c44acd",
+      "title": "宮治",
+      "body": "宮治",
+      "reading": "みやおさむ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-f4813bb1b5460201",
+      "title": "角名倫太郎",
+      "body": "角名倫太郎",
+      "reading": "すなりんたろう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-15cad0e048db516b",
+      "title": "北信介",
+      "body": "北信介",
+      "reading": "きたしんすけ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-8fc579f4eb844eaa",
+      "title": "尾白アラン",
+      "body": "尾白アラン",
+      "reading": "おしろあらん",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-b773fc3aa2310129",
+      "title": "木兎光太郎",
+      "body": "木兎光太郎",
+      "reading": "ぼくとこうたろう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-bd0139fe16fd7c9e",
+      "title": "赤葦京治",
+      "body": "赤葦京治",
+      "reading": "あかあしけいじ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-f48d15aaf1fd70ad",
+      "title": "孤爪研磨",
+      "body": "孤爪研磨",
+      "reading": "こづめけんま",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-cab305df8d246a8b",
+      "title": "黒尾鉄朗",
+      "body": "黒尾鉄朗",
+      "reading": "くろおてつろう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-45b4fe61bddcf932",
+      "title": "夜久衛輔",
+      "body": "夜久衛輔",
+      "reading": "やくもりすけ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-814e81a94bfc447d",
+      "title": "灰羽リエーフ",
+      "body": "灰羽リエーフ",
+      "reading": "はいばりえーふ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-bb514f48e3913bd9",
+      "title": "星海光来",
+      "body": "星海光来",
+      "reading": "ほしうみこうらい",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-77a51ff0cc2be49d",
+      "title": "昼神幸郎",
+      "body": "昼神幸郎",
+      "reading": "ひるがみゆきろう",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-52be07fbb91e5c45",
+      "title": "佐久早聖臣",
+      "body": "佐久早聖臣",
+      "reading": "さくさきよおみ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-f0999d447caffaa3",
+      "title": "古森元也",
+      "body": "古森元也",
+      "reading": "こもりもとや",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-78c4035b6f4ad764",
+      "title": "青根高伸",
+      "body": "青根高伸",
+      "reading": "あおねたかのぶ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-321e25baddf46ae7",
+      "title": "二口堅治",
+      "body": "二口堅治",
+      "reading": "ふたくちけんじ",
+      "category": "ハイキュー!!"
+    },
+    {
+      "id": "w-e6b1930780ca26c",
+      "title": "作並浩輔",
+      "body": "作並浩輔",
+      "reading": "さくなみこうすけ",
+      "category": "ハイキュー!!"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "d10b91ef0245327",
+  "name": "文豪ストレイドッグス",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-f482df9142053f7",
+      "title": "中島敦",
+      "body": "中島敦",
+      "reading": "なかじまあつし",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-c2448575eaa638a4",
+      "title": "太宰治",
+      "body": "太宰治",
+      "reading": "だざいおさむ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-191421460eb52635",
+      "title": "国木田独歩",
+      "body": "国木田独歩",
+      "reading": "くにきだどっぽ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-ef91fd5bf2d303b2",
+      "title": "江戸川乱歩",
+      "body": "江戸川乱歩",
+      "reading": "えどがわらんぽ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-d495820256b5388c",
+      "title": "谷崎潤一郎",
+      "body": "谷崎潤一郎",
+      "reading": "たにざきじゅんいちろう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-720bfdf1548bea90",
+      "title": "宮沢賢治",
+      "body": "宮沢賢治",
+      "reading": "みやざわけんじ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-7a89bb981362793f",
+      "title": "与謝野晶子",
+      "body": "与謝野晶子",
+      "reading": "よさのあきこ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-c80320064cc233dd",
+      "title": "谷崎ナオミ",
+      "body": "谷崎ナオミ",
+      "reading": "たにざきなおみ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-33a401ea9c3996f1",
+      "title": "福沢諭吉",
+      "body": "福沢諭吉",
+      "reading": "ふくざわゆきち",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-2a95b3613d748885",
+      "title": "泉鏡花",
+      "body": "泉鏡花",
+      "reading": "いずみきょうか",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-edb8049341b385a3",
+      "title": "春野綺羅子",
+      "body": "春野綺羅子",
+      "reading": "はるのきらこ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-89d512acc6bcc153",
+      "title": "田山花袋",
+      "body": "田山花袋",
+      "reading": "たやまかたい",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-1cb631ac44f1b9f3",
+      "title": "芥川龍之介",
+      "body": "芥川龍之介",
+      "reading": "あくたがわりゅうのすけ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-6639151450245d1f",
+      "title": "樋口一葉",
+      "body": "樋口一葉",
+      "reading": "ひぐちいちよう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-2364f9e7bf54b569",
+      "title": "中原中也",
+      "body": "中原中也",
+      "reading": "なかはらちゅうや",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-21b9bd527216db4b",
+      "title": "尾崎紅葉",
+      "body": "尾崎紅葉",
+      "reading": "おざきこうよう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-4501566b0f94e7f9",
+      "title": "梶井基次郎",
+      "body": "梶井基次郎",
+      "reading": "かじいもとじろう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-d3eb0823bb8ecc03",
+      "title": "夢野久作",
+      "body": "夢野久作",
+      "reading": "ゆめのきゅうさく",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-2f737915a159a812",
+      "title": "森鴎外",
+      "body": "森鴎外",
+      "reading": "もりおうがい",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-6889cce239274b87",
+      "title": "織田作之助",
+      "body": "織田作之助",
+      "reading": "おださくのすけ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-34801b1f2eafe8d",
+      "title": "蘭堂",
+      "body": "蘭堂",
+      "reading": "らんどう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-5a63b86fa17ff6f1",
+      "title": "広津柳浪",
+      "body": "広津柳浪",
+      "reading": "ひろつりゅうろう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-6a177bd1f31ec642",
+      "title": "立原道造",
+      "body": "立原道造",
+      "reading": "たちはらみちぞう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-7e4bcb1b9e1275de",
+      "title": "銀",
+      "body": "銀",
+      "reading": "ぎん",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-99f0ea3cec0c3b77",
+      "title": "坂口安吾",
+      "body": "坂口安吾",
+      "reading": "さかぐちあんご",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-c554043daeff6fa7",
+      "title": "種田山頭火",
+      "body": "種田山頭火",
+      "reading": "たねださんとうか",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-317614e273f86ed4",
+      "title": "辻村深月",
+      "body": "辻村深月",
+      "reading": "つじむらみづき",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-8a8cc04b46d05696",
+      "title": "村社八千代",
+      "body": "村社八千代",
+      "reading": "むらこそやちよ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-9c3c62770901a66a",
+      "title": "青木卓一",
+      "body": "青木卓一",
+      "reading": "あおきたくいち",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-7272146822d62297",
+      "title": "福地桜痴",
+      "body": "福地桜痴",
+      "reading": "ふくちおうち",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-a8e803d5e017c966",
+      "title": "大倉燁子",
+      "body": "大倉燁子",
+      "reading": "おおくらてるこ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-61b58a647bf7d0f7",
+      "title": "条野採菊",
+      "body": "条野採菊",
+      "reading": "じょうのさいぎく",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-21a2efb52b249689",
+      "title": "末広鐵腸",
+      "body": "末広鐵腸",
+      "reading": "すえひろてっちょう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-f32cb3b0844934b3",
+      "title": "夏目漱石",
+      "body": "夏目漱石",
+      "reading": "なつめそうせき",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-f30af664805cd4d7",
+      "title": "幸田文",
+      "body": "幸田文",
+      "reading": "こうだあや",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-10023e45a0b74591",
+      "title": "桂正作",
+      "body": "桂正作",
+      "reading": "かつらしょうさく",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-8a891376f3f486b0",
+      "title": "佐々城信子",
+      "body": "佐々城信子",
+      "reading": "ささきのぶこ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-599b5148a7fbfec7",
+      "title": "田口六蔵",
+      "body": "田口六蔵",
+      "reading": "たぐちろくぞう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-34880585ef96c731",
+      "title": "小栗虫太郎",
+      "body": "小栗虫太郎",
+      "reading": "おぐりむしたろう",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-2ecfbad0ff0f51a2",
+      "title": "澁澤龍彦",
+      "body": "澁澤龍彦",
+      "reading": "しぶさわたつひこ",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-f5f9f4445f5eca62",
+      "title": "綾辻行人",
+      "body": "綾辻行人",
+      "reading": "あやつじゆきと",
+      "category": "文豪ストレイドッグス"
+    },
+    {
+      "id": "w-453db91902cf8885",
+      "title": "京極夏彦",
+      "body": "京極夏彦",
+      "reading": "きょうごくなつひこ",
+      "category": "文豪ストレイドッグス"
+    }
+  ]
+}

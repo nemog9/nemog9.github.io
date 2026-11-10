@@ -1,0 +1,128 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "f1da18ed926c6ea5",
+  "name": "やがて君になる",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-b1b937e58d21560a",
+      "title": "小糸侑",
+      "body": "小糸侑",
+      "reading": "こいとゆう",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-e291dbc443350078",
+      "title": "七海燈子",
+      "body": "七海燈子",
+      "reading": "ななみとうこ",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-e130ac7f8bc8493c",
+      "title": "佐伯沙弥香",
+      "body": "佐伯沙弥香",
+      "reading": "さえきさやか",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-3067b044c53e5528",
+      "title": "槙聖司",
+      "body": "槙聖司",
+      "reading": "まきせいじ",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-f1863fe720864997",
+      "title": "堂島卓",
+      "body": "堂島卓",
+      "reading": "どうじますぐる",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-4cb319822ac617ce",
+      "title": "叶こよみ",
+      "body": "叶こよみ",
+      "reading": "かのうこよみ",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-2f9ed7929cbef488",
+      "title": "日向朱里",
+      "body": "日向朱里",
+      "reading": "ひゅうがあかり",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-ec2c8734fa23208b",
+      "title": "箱崎理子",
+      "body": "箱崎理子",
+      "reading": "はこざきりこ",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-a814083ba6b69ae6",
+      "title": "児玉都",
+      "body": "児玉都",
+      "reading": "こだまみやこ",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-bf833ee593efaddd",
+      "title": "小糸怜",
+      "body": "小糸怜",
+      "reading": "こいとれい",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-207fc484b2b0cd6a",
+      "title": "市ヶ谷知雪",
+      "body": "市ヶ谷知雪",
+      "reading": "いちがやともゆき",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-781c36fea1198a31",
+      "title": "園村菜月",
+      "body": "園村菜月",
+      "reading": "そのむらなつき",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-c97af6bf65155a75",
+      "title": "吉田愛果",
+      "body": "吉田愛果",
+      "reading": "よしだまなか",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-3238805dafec4639",
+      "title": "五十嵐みどり",
+      "body": "五十嵐みどり",
+      "reading": "いがらしみどり",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-aca04a4fba38c738",
+      "title": "柚木千枝",
+      "body": "柚木千枝",
+      "reading": "ゆずきちえ",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-81c4bbcd6215fa32",
+      "title": "七海澪",
+      "body": "七海澪",
+      "reading": "ななみみお",
+      "category": "やがて君になる"
+    },
+    {
+      "id": "w-fc273b3c2b52b0c4",
+      "title": "枝元陽",
+      "body": "枝元陽",
+      "reading": "えだもとはる",
+      "category": "やがて君になる"
+    }
+  ]
+}

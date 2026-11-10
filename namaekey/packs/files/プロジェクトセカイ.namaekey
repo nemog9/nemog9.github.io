@@ -1,0 +1,191 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "7b2c6c5a5f0df04d",
+  "name": "プロジェクトセカイ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-80eccc140c01cd6f",
+      "title": "星乃一歌",
+      "body": "星乃一歌",
+      "reading": "ほしのいちか",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-22e90f88d3d0242a",
+      "title": "天馬咲希",
+      "body": "天馬咲希",
+      "reading": "てんまさき",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-a5d8a8a93d745edb",
+      "title": "望月穂波",
+      "body": "望月穂波",
+      "reading": "もちづきほなみ",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-4e313a500cfd7d87",
+      "title": "日野森志歩",
+      "body": "日野森志歩",
+      "reading": "ひのもりしほ",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-7b7140aa6357b630",
+      "title": "花里みのり",
+      "body": "花里みのり",
+      "reading": "はなさとみのり",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-b554647d7293842e",
+      "title": "桐谷遥",
+      "body": "桐谷遥",
+      "reading": "きりたにはるか",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-14a2ef8182daceee",
+      "title": "桃井愛莉",
+      "body": "桃井愛莉",
+      "reading": "ももいあいり",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-f33ebde8c7598659",
+      "title": "日野森雫",
+      "body": "日野森雫",
+      "reading": "ひのもりしずく",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-ac281bf0fd7e6147",
+      "title": "小豆沢こはね",
+      "body": "小豆沢こはね",
+      "reading": "あずさわこはね",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-8bc0d695d8aea9ef",
+      "title": "白石杏",
+      "body": "白石杏",
+      "reading": "しらいしあん",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-e865165ba53c0329",
+      "title": "東雲彰人",
+      "body": "東雲彰人",
+      "reading": "しののめあきと",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-1f8f3a308dd2fdee",
+      "title": "青柳冬弥",
+      "body": "青柳冬弥",
+      "reading": "あおやぎとうや",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-652bddf50c702378",
+      "title": "天馬司",
+      "body": "天馬司",
+      "reading": "てんまつかさ",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-8ed35905ec99dc31",
+      "title": "鳳えむ",
+      "body": "鳳えむ",
+      "reading": "おおとりえむ",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-4368bd14d84f47c3",
+      "title": "草薙寧々",
+      "body": "草薙寧々",
+      "reading": "くさなぎねね",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-61b8b0450fd6f55f",
+      "title": "神代類",
+      "body": "神代類",
+      "reading": "かみしろるい",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-1f25d4c93ef622d9",
+      "title": "宵崎奏",
+      "body": "宵崎奏",
+      "reading": "よいさきかなで",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-dd60a3430300073f",
+      "title": "朝比奈まふゆ",
+      "body": "朝比奈まふゆ",
+      "reading": "あさひなまふゆ",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-ce13a9be3630a50e",
+      "title": "東雲絵名",
+      "body": "東雲絵名",
+      "reading": "しののめえな",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-2185cb05ae8bc374",
+      "title": "暁山瑞希",
+      "body": "暁山瑞希",
+      "reading": "あきやまみずき",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-f009f96d37a582c7",
+      "title": "初音ミク",
+      "body": "初音ミク",
+      "reading": "はつねみく",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-ce4cb4d0c77e26e",
+      "title": "鏡音リン",
+      "body": "鏡音リン",
+      "reading": "かがみねりん",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-9e04e37cb4314250",
+      "title": "鏡音レン",
+      "body": "鏡音レン",
+      "reading": "かがみねれん",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-9c6a60b7658a46fa",
+      "title": "巡音ルカ",
+      "body": "巡音ルカ",
+      "reading": "めぐりねるか",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-6810723616675094",
+      "title": "MEIKO",
+      "body": "MEIKO",
+      "reading": "めいこ",
+      "category": "プロジェクトセカイ"
+    },
+    {
+      "id": "w-8c091ceb06e1a1e1",
+      "title": "KAITO",
+      "body": "KAITO",
+      "reading": "かいと",
+      "category": "プロジェクトセカイ"
+    }
+  ]
+}

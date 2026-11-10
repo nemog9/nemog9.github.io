@@ -1,0 +1,149 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "b594b47a57f75e50",
+  "name": "ホロライブEN",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-9f65bdd4eb5b4b39",
+      "title": "Gawr Gura",
+      "body": "Gawr Gura",
+      "reading": "がうるぐら",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-7100fc5ea09f139f",
+      "title": "Mori Calliope",
+      "body": "Mori Calliope",
+      "reading": "もりかりおぺ",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-65421ea66b9484d",
+      "title": "Takanashi Kiara",
+      "body": "Takanashi Kiara",
+      "reading": "たかなしきあら",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-427d138a02fac7a7",
+      "title": "Ninomae Ina'nis",
+      "body": "Ninomae Ina'nis",
+      "reading": "にのまえいなにす",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-9391bd965f693386",
+      "title": "Watson Amelia",
+      "body": "Watson Amelia",
+      "reading": "わとそんあめりあ",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-72b699d119aa10b6",
+      "title": "IRyS",
+      "body": "IRyS",
+      "reading": "あいりす",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-5418d35c6960d600",
+      "title": "Ceres Fauna",
+      "body": "Ceres Fauna",
+      "reading": "せれすふぁうな",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-e9066c3048b8fee0",
+      "title": "Ouro Kronii",
+      "body": "Ouro Kronii",
+      "reading": "おうろくろにい",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-52df02537588cd2a",
+      "title": "Nanashi Mumei",
+      "body": "Nanashi Mumei",
+      "reading": "ななしむめい",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-505928a17df52edb",
+      "title": "Hakos Baelz",
+      "body": "Hakos Baelz",
+      "reading": "はこすべいるず",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-942a0d4af1c1ff36",
+      "title": "Shiori Novella",
+      "body": "Shiori Novella",
+      "reading": "しおりのべら",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-74ad0ebb9d9fc2da",
+      "title": "Koseki Bijou",
+      "body": "Koseki Bijou",
+      "reading": "こせきびじゅう",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-e41eaee03dc4ecf4",
+      "title": "Nerissa Ravencroft",
+      "body": "Nerissa Ravencroft",
+      "reading": "ねりっさらべんくろふと",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-6d3bd7b796db4a1a",
+      "title": "Fuwawa Abyssgard",
+      "body": "Fuwawa Abyssgard",
+      "reading": "ふわわあびすがーど",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-68af42e28159d68b",
+      "title": "Mococo Abyssgard",
+      "body": "Mococo Abyssgard",
+      "reading": "もここあびすがーど",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-b42876a031a1e1fc",
+      "title": "Tsukumo Sana",
+      "body": "Tsukumo Sana",
+      "reading": "つくもさな",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-a5c20c8407bcb8f9",
+      "title": "Elizabeth Rose Blood",
+      "body": "Elizabeth Rose Bloodflame",
+      "reading": "えりざべすろーずぶらっどふれいむ",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-73b7f5644d5f0cd2",
+      "title": "Gigi Murin",
+      "body": "Gigi Murin",
+      "reading": "ぎぎむりん",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-d9ed38f4007b533a",
+      "title": "Cecilia Immergreen",
+      "body": "Cecilia Immergreen",
+      "reading": "せしりあいまーぐりーん",
+      "category": "ホロライブEN"
+    },
+    {
+      "id": "w-31749b82c84f3553",
+      "title": "Raora Panthera",
+      "body": "Raora Panthera",
+      "reading": "らおらぱんてら",
+      "category": "ホロライブEN"
+    }
+  ]
+}

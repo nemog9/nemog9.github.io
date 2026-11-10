@@ -1,0 +1,184 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "dedfe63b46ba514",
+  "name": "学園アイドルマスター",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-cd15ecab9371535a",
+      "title": "花海咲季",
+      "body": "花海咲季",
+      "reading": "はなみさき",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-182ef0504308ae00",
+      "title": "月村手毬",
+      "body": "月村手毬",
+      "reading": "つきむらてまり",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-f00caf6649120b35",
+      "title": "藤田ことね",
+      "body": "藤田ことね",
+      "reading": "ふじたことね",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-abec280995ebd64f",
+      "title": "有村麻央",
+      "body": "有村麻央",
+      "reading": "ありむらまお",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-449be1628bd46803",
+      "title": "葛城リーリヤ",
+      "body": "葛城リーリヤ",
+      "reading": "かつらぎりーりや",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-69c2fd796e4f67c4",
+      "title": "倉本千奈",
+      "body": "倉本千奈",
+      "reading": "くらもとちな",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-f1125414086b006a",
+      "title": "紫雲清夏",
+      "body": "紫雲清夏",
+      "reading": "しうんすみか",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-d59ca7d69631b47d",
+      "title": "篠澤広",
+      "body": "篠澤広",
+      "reading": "しのさわひろ",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-d9051997dfd0e22b",
+      "title": "姫崎莉波",
+      "body": "姫崎莉波",
+      "reading": "ひめさきりなみ",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-ac0e1a1d856e41f3",
+      "title": "花海佑芽",
+      "body": "花海佑芽",
+      "reading": "はなみうめ",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-f06463ceef70ea60",
+      "title": "秦谷美鈴",
+      "body": "秦谷美鈴",
+      "reading": "はたやみすず",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-e48b9cc7deb6c426",
+      "title": "十王星南",
+      "body": "十王星南",
+      "reading": "じゅうおうせな",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-e4a088c2baa43ecb",
+      "title": "雨夜燕",
+      "body": "雨夜燕",
+      "reading": "あまやつばめ",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-f5f4a39c45c073f",
+      "title": "十王邦夫",
+      "body": "十王邦夫",
+      "reading": "じゅうおうくにお",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-90e9d684d9659188",
+      "title": "根緒亜紗里",
+      "body": "根緒亜紗里",
+      "reading": "ねおあさり",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-d6888a9b866ae170",
+      "title": "真城優",
+      "body": "真城優",
+      "reading": "ましろゆう",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-42f878487baf60cf",
+      "title": "氷渡香名江",
+      "body": "氷渡香名江",
+      "reading": "ひわたりかなえ",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-5ec9e66234a8aeb3",
+      "title": "賀陽燐羽",
+      "body": "賀陽燐羽",
+      "reading": "かやりんは",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-330352348fdc3145",
+      "title": "藍井撫子",
+      "body": "藍井撫子",
+      "reading": "あおいなでしこ",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-7ea733d209f2f290",
+      "title": "白草四音",
+      "body": "白草四音",
+      "reading": "しらくさしおん",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-32142723a4a03bd",
+      "title": "白草月花",
+      "body": "白草月花",
+      "reading": "しらくさげっか",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-1e23e645e901e714",
+      "title": "十王龍正",
+      "body": "十王龍正",
+      "reading": "じゅうおうりゅうせい",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-340ba18edde6c796",
+      "title": "村雨愁佳",
+      "body": "村雨愁佳",
+      "reading": "むらさめしゅうか",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-9c9f43b042f2e658",
+      "title": "黒井崇男",
+      "body": "黒井崇男",
+      "reading": "くろいたかお",
+      "category": "学園アイドルマスター"
+    },
+    {
+      "id": "w-488369eda3356417",
+      "title": "犬束静紅",
+      "body": "犬束静紅",
+      "reading": "いぬづかしずく",
+      "category": "学園アイドルマスター"
+    }
+  ]
+}

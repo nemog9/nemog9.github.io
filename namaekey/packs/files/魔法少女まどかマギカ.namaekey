@@ -1,0 +1,93 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "cfa28dc845d0506d",
+  "name": "魔法少女まどかマギカ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-fa6e592dfbea5b2",
+      "title": "鹿目まどか",
+      "body": "鹿目まどか",
+      "reading": "かなめまどか",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-486d67e36515215b",
+      "title": "暁美ほむら",
+      "body": "暁美ほむら",
+      "reading": "あけみほむら",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-e23771e7e7a875ba",
+      "title": "美樹さやか",
+      "body": "美樹さやか",
+      "reading": "みきさやか",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-96f3cb45335f2b64",
+      "title": "巴マミ",
+      "body": "巴マミ",
+      "reading": "ともえまみ",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-2ca647d8a0617c32",
+      "title": "佐倉杏子",
+      "body": "佐倉杏子",
+      "reading": "さくらきょうこ",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-1bdff6a6edb79fbc",
+      "title": "百江なぎさ",
+      "body": "百江なぎさ",
+      "reading": "ももえなぎさ",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-edfff3e33a36b0d4",
+      "title": "志筑仁美",
+      "body": "志筑仁美",
+      "reading": "しづきひとみ",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-6b2dba716b390b31",
+      "title": "上条恭介",
+      "body": "上条恭介",
+      "reading": "かみじょうきょうすけ",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-560cdcd18e7c0bba",
+      "title": "鹿目達也",
+      "body": "鹿目達也",
+      "reading": "かなめたつや",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-a813dcd974c90a0b",
+      "title": "鹿目詢子",
+      "body": "鹿目詢子",
+      "reading": "かなめじゅんこ",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-95af86a8aafe1d41",
+      "title": "鹿目知久",
+      "body": "鹿目知久",
+      "reading": "かなめともひさ",
+      "category": "魔法少女まどかマギカ"
+    },
+    {
+      "id": "w-baabb2bf84416609",
+      "title": "早乙女和子",
+      "body": "早乙女和子",
+      "reading": "さおとめかずこ",
+      "category": "魔法少女まどかマギカ"
+    }
+  ]
+}

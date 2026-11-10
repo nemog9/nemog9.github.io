@@ -1,0 +1,954 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "a2655f944f3d2d27",
+  "name": "にじさんじ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-e462dea17e99679c",
+      "title": "月ノ美兎",
+      "body": "月ノ美兎",
+      "reading": "つきのみと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-c07c89292845e489",
+      "title": "樋口楓",
+      "body": "樋口楓",
+      "reading": "ひぐちかえで",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-25cb6a787fce7893",
+      "title": "静凛",
+      "body": "静凛",
+      "reading": "しずかりん",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-78a8e3bf8a513b14",
+      "title": "渋谷ハジメ",
+      "body": "渋谷ハジメ",
+      "reading": "しぶやはじめ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-6c5ad6d10380e76b",
+      "title": "宇志海いちご",
+      "body": "宇志海いちご",
+      "reading": "うしみいちご",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-ee3bcab723e02508",
+      "title": "家長むぎ",
+      "body": "家長むぎ",
+      "reading": "いえながむぎ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-634ac85d1823d4f0",
+      "title": "夕陽リリ",
+      "body": "夕陽リリ",
+      "reading": "ゆうひりり",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-775571a784a56b38",
+      "title": "物述有栖",
+      "body": "物述有栖",
+      "reading": "もののべありす",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-827cd3fd5996de7",
+      "title": "文野環",
+      "body": "文野環",
+      "reading": "ふみのたまき",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-6bb9045240ba0d96",
+      "title": "伏見ガク",
+      "body": "伏見ガク",
+      "reading": "ふしみがく",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-f3d2c3947b0ff76",
+      "title": "ギルザレンIII世",
+      "body": "ギルザレンIII世",
+      "reading": "ぎるざれんさんせい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-139e1f4c403c82f4",
+      "title": "剣持刀也",
+      "body": "剣持刀也",
+      "reading": "けんもちとうや",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-16d22a19989a996f",
+      "title": "森中花咲",
+      "body": "森中花咲",
+      "reading": "もりなかかざき",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-19cfd31b662216b1",
+      "title": "叶",
+      "body": "叶",
+      "reading": "かなえ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-e521b1d13d895772",
+      "title": "赤羽葉子",
+      "body": "赤羽葉子",
+      "reading": "あかばねようこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-f4920442db37fa47",
+      "title": "轟京子",
+      "body": "轟京子",
+      "reading": "とどろききょうこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-7e03ea6849176dfa",
+      "title": "花畑チャイカ",
+      "body": "花畑チャイカ",
+      "reading": "はなばたけちゃいか",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-10a068b8a2f7bf4d",
+      "title": "社築",
+      "body": "社築",
+      "reading": "やしろきずく",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-620fb13c6ddc99d9",
+      "title": "卯月コウ",
+      "body": "卯月コウ",
+      "reading": "うづきこう",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-e0f1d3b723edbae1",
+      "title": "鈴木勝",
+      "body": "鈴木勝",
+      "reading": "すずきまさる",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-c07cddcb3106742a",
+      "title": "緑仙",
+      "body": "緑仙",
+      "reading": "りゅーしぇん",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-d95808c239c2d86a",
+      "title": "春崎エアル",
+      "body": "春崎エアル",
+      "reading": "はるさきえある",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-57f4c908851dfcfc",
+      "title": "笹木咲",
+      "body": "笹木咲",
+      "reading": "ささきさく",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-b36ad5d5dbb7c378",
+      "title": "本間ひまわり",
+      "body": "本間ひまわり",
+      "reading": "ほんまひまわり",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-74e825acdb1dcb92",
+      "title": "魔界ノりりむ",
+      "body": "魔界ノりりむ",
+      "reading": "まかいのりりむ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-9fd370ae47b3d063",
+      "title": "葛葉",
+      "body": "葛葉",
+      "reading": "くずは",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-70dd0e4923ff9b1d",
+      "title": "椎名唯華",
+      "body": "椎名唯華",
+      "reading": "しいなゆいか",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-5131c4a2251cf2c",
+      "title": "神田笑一",
+      "body": "神田笑一",
+      "reading": "かんだしょういち",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-ea94c87992b36c39",
+      "title": "飛鳥ひな",
+      "body": "飛鳥ひな",
+      "reading": "あすかひな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-90dadcfb6f5f9577",
+      "title": "雨森小夜",
+      "body": "雨森小夜",
+      "reading": "あめもりさよ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-92855c6f3ff154ed",
+      "title": "鷹宮リオン",
+      "body": "鷹宮リオン",
+      "reading": "たかみやりおん",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-bcc053f47877c1f7",
+      "title": "舞元啓介",
+      "body": "舞元啓介",
+      "reading": "まいもとけいすけ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-22f41eed3c275047",
+      "title": "竜胆尊",
+      "body": "竜胆尊",
+      "reading": "りんどうみこと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-7de2b4df7f3d049d",
+      "title": "桜凛月",
+      "body": "桜凛月",
+      "reading": "さくらりつき",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-7823dc8547a62c7a",
+      "title": "町田ちま",
+      "body": "町田ちま",
+      "reading": "まちたちま",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-e26de7fbd1b07cd2",
+      "title": "ジョー・力一",
+      "body": "ジョー・力一",
+      "reading": "じょーりきいち",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-729955a4e5b43bb4",
+      "title": "矢車りね",
+      "body": "矢車りね",
+      "reading": "やぐるまりね",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-161cf3d3a403d54c",
+      "title": "夢追翔",
+      "body": "夢追翔",
+      "reading": "ゆめおいかける",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-342f9aab8dc57aa9",
+      "title": "黒井しば",
+      "body": "黒井しば",
+      "reading": "くろいしば",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-ed737f62adec3a92",
+      "title": "夢月ロア",
+      "body": "夢月ロア",
+      "reading": "ゆづきろあ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-b090ba7066e6fa15",
+      "title": "語部紡",
+      "body": "語部紡",
+      "reading": "かたりべつむぐ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-db309314d3d6fda7",
+      "title": "戌亥とこ",
+      "body": "戌亥とこ",
+      "reading": "いぬいとこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-3338eb0ec277d757",
+      "title": "三枝明那",
+      "body": "三枝明那",
+      "reading": "さえぐさあきな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-5a2f0fe140a5d919",
+      "title": "愛園愛美",
+      "body": "愛園愛美",
+      "reading": "あいぞのまなみ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-d0e5f4c11e83b2c0",
+      "title": "鈴原るる",
+      "body": "鈴原るる",
+      "reading": "すずはらるる",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-e03e7de59de02c76",
+      "title": "雪城眞尋",
+      "body": "雪城眞尋",
+      "reading": "ゆきしろまひろ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-fa4083971658b0cb",
+      "title": "葉山舞鈴",
+      "body": "葉山舞鈴",
+      "reading": "はやままりん",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-af3e5278542364d2",
+      "title": "葉加瀬冬雪",
+      "body": "葉加瀬冬雪",
+      "reading": "はかせふゆき",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-4bf7f72f2b1dd0e1",
+      "title": "加賀美ハヤト",
+      "body": "加賀美ハヤト",
+      "reading": "かがみはやと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-2e1f52c0394c4478",
+      "title": "夜見れな",
+      "body": "夜見れな",
+      "reading": "よるみれな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-7e5d8471a9dc8610",
+      "title": "天宮こころ",
+      "body": "天宮こころ",
+      "reading": "あまみやこころ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-4484acced840d707",
+      "title": "早瀬走",
+      "body": "早瀬走",
+      "reading": "はやせそう",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-f20616916bd72e8e",
+      "title": "健屋花那",
+      "body": "健屋花那",
+      "reading": "すこやかな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-8c69c3f36f142a8a",
+      "title": "星川サラ",
+      "body": "星川サラ",
+      "reading": "ほしかわさら",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-c5a4cac9b4a66d51",
+      "title": "山神カルタ",
+      "body": "山神カルタ",
+      "reading": "やまがみかるた",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-99ebeaf630ce41aa",
+      "title": "魔使マオ",
+      "body": "魔使マオ",
+      "reading": "まつかいまお",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-fd0a028dba22df56",
+      "title": "不破湊",
+      "body": "不破湊",
+      "reading": "ふわみなと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a716f95fcdf501c2",
+      "title": "白雪巴",
+      "body": "白雪巴",
+      "reading": "しらゆきともえ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-b0f8a0aff906dba",
+      "title": "ましろ爻",
+      "body": "ましろ爻",
+      "reading": "ましろめめ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-aec4fe31b69ee876",
+      "title": "来栖夏芽",
+      "body": "来栖夏芽",
+      "reading": "くるすなつめ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-23ac30f70a9eb5e4",
+      "title": "フレン・E・ルスタリオ",
+      "body": "フレン・E・ルスタリオ",
+      "reading": "ふれんいーるすたりお",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-c83b3e7265fa9b45",
+      "title": "長尾景",
+      "body": "長尾景",
+      "reading": "ながおけい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-2bfbd2ebb6f41d4e",
+      "title": "弦月藤士郎",
+      "body": "弦月藤士郎",
+      "reading": "げんづきとうじろう",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-d67289a4c63aeb0",
+      "title": "甲斐田晴",
+      "body": "甲斐田晴",
+      "reading": "かいだはる",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-7b248344337bd99b",
+      "title": "空星きらめ",
+      "body": "空星きらめ",
+      "reading": "そらほしきらめ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-33800f7443e7f920",
+      "title": "周央サンゴ",
+      "body": "周央サンゴ",
+      "reading": "すおうさんご",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-3c8ab83d97e30159",
+      "title": "東堂コハク",
+      "body": "東堂コハク",
+      "reading": "とうどうこはく",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-f68d2afb66e42078",
+      "title": "北小路ヒスイ",
+      "body": "北小路ヒスイ",
+      "reading": "きたこうじひすい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-8d13ff54b8f29b44",
+      "title": "西園チグサ",
+      "body": "西園チグサ",
+      "reading": "にしぞのちぐさ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a66bc70ec64a1af8",
+      "title": "海妹四葉",
+      "body": "海妹四葉",
+      "reading": "うみせよつは",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-388799415d4b1262",
+      "title": "天ヶ瀬むゆ",
+      "body": "天ヶ瀬むゆ",
+      "reading": "あまがせむゆ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a086a70eb1746d67",
+      "title": "先斗寧",
+      "body": "先斗寧",
+      "reading": "ぽんとねい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-71fb4bd2b70a6c88",
+      "title": "壱百満天原サロメ",
+      "body": "壱百満天原サロメ",
+      "reading": "ひゃくまんてんばらさろめ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-1a690b6cbdd28af2",
+      "title": "風楽奏斗",
+      "body": "風楽奏斗",
+      "reading": "ふうらかなと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-8c6bad65c780e082",
+      "title": "渡会雲雀",
+      "body": "渡会雲雀",
+      "reading": "わたらいひばり",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-d211b41cefadbbc7",
+      "title": "四季凪アキラ",
+      "body": "四季凪アキラ",
+      "reading": "しきなぎあきら",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-e2089dd730ebe982",
+      "title": "小清水透",
+      "body": "小清水透",
+      "reading": "こしみずとおる",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-9a37e831af6dd391",
+      "title": "獅子堂あかり",
+      "body": "獅子堂あかり",
+      "reading": "ししどうあかり",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-8e49936df9679553",
+      "title": "鏑木ろこ",
+      "body": "鏑木ろこ",
+      "reading": "かぶらきろこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-44b96513a9d94765",
+      "title": "五十嵐梨花",
+      "body": "五十嵐梨花",
+      "reading": "いがらしりか",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-861d30c82a6224a3",
+      "title": "石神のぞみ",
+      "body": "石神のぞみ",
+      "reading": "いしがみのぞみ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a8691739da4799ae",
+      "title": "倉持めると",
+      "body": "倉持めると",
+      "reading": "くらもちめると",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-410efedf3d0a489b",
+      "title": "佐伯イッテツ",
+      "body": "佐伯イッテツ",
+      "reading": "さいきいってつ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-bd601b2572a3423c",
+      "title": "赤城ウェン",
+      "body": "赤城ウェン",
+      "reading": "あかぎうぇん",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-6e4f1f1bd6dd3a07",
+      "title": "宇佐美リト",
+      "body": "宇佐美リト",
+      "reading": "うさみりと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-4c66cd81b267337",
+      "title": "緋八マナ",
+      "body": "緋八マナ",
+      "reading": "ひばちまな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-466c30e36e152b81",
+      "title": "星導ショウ",
+      "body": "星導ショウ",
+      "reading": "ほしるべしょう",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-6bc6828bb6254c4",
+      "title": "叢雲カゲツ",
+      "body": "叢雲カゲツ",
+      "reading": "むらくもかげつ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-cb8994af21ad09c9",
+      "title": "小柳ロウ",
+      "body": "小柳ロウ",
+      "reading": "こやなぎろう",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-8fb1e5ade5abc5d8",
+      "title": "伊波ライ",
+      "body": "伊波ライ",
+      "reading": "いなみらい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-114ad7b19980ee28",
+      "title": "立伝都々",
+      "body": "立伝都々",
+      "reading": "たちつてとと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a40625c7fa8e8c6c",
+      "title": "栞葉るり",
+      "body": "栞葉るり",
+      "reading": "しおりはるり",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-2db3111cb4ef8c6",
+      "title": "北見遊征",
+      "body": "北見遊征",
+      "reading": "きたみゆうせい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a539d49f3cffe7dd",
+      "title": "魁星",
+      "body": "魁星",
+      "reading": "かいせい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-7507780d43d55196",
+      "title": "榊ネス",
+      "body": "榊ネス",
+      "reading": "さかきねす",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-6d81109d5d6b5e2c",
+      "title": "司賀りこ",
+      "body": "司賀りこ",
+      "reading": "しがりこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-73857b9b74f24bc8",
+      "title": "珠乃井ナナ",
+      "body": "珠乃井ナナ",
+      "reading": "たまのいなな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-3b67f1c6f18b3eff",
+      "title": "綺沙良",
+      "body": "綺沙良",
+      "reading": "きさら",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-30d08d30e503e3d6",
+      "title": "梢桃音",
+      "body": "梢桃音",
+      "reading": "こずえもね",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-c871d897a49ceac7",
+      "title": "七瀬すず菜",
+      "body": "七瀬すず菜",
+      "reading": "ななせすずな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-941270ff1132bce7",
+      "title": "早乙女ベリー",
+      "body": "早乙女ベリー",
+      "reading": "さおとめべりー",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-1124112f7387ae19",
+      "title": "雲母たまこ",
+      "body": "雲母たまこ",
+      "reading": "きららたまこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-76ced9da62ce6b64",
+      "title": "酒寄颯馬",
+      "body": "酒寄颯馬",
+      "reading": "さかよりそうま",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-34cfb05f56770419",
+      "title": "渚トラウト",
+      "body": "渚トラウト",
+      "reading": "なぎさとらうと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-570235bcaf14ae90",
+      "title": "一橋綾人",
+      "body": "一橋綾人",
+      "reading": "ひとつばしあやと",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-5b15d45640afc729",
+      "title": "五木左京",
+      "body": "五木左京",
+      "reading": "いつきさきょう",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-9488670995d38634",
+      "title": "十河ののは",
+      "body": "十河ののは",
+      "reading": "とがわののは",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-70489b435614dfa3",
+      "title": "夜牛詩乃",
+      "body": "夜牛詩乃",
+      "reading": "やぎゅうしの",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-cf6d6752654693c5",
+      "title": "蝸堂みかる",
+      "body": "蝸堂みかる",
+      "reading": "かどうみかる",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-6326371390b70a45",
+      "title": "猫屋敷美紅",
+      "body": "猫屋敷美紅",
+      "reading": "ねこやしきみく",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-12a914f18ae3aaee",
+      "title": "皇れお",
+      "body": "皇れお",
+      "reading": "すめらぎれお",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-91dacacaf9d189d",
+      "title": "篠宮ゆの",
+      "body": "篠宮ゆの",
+      "reading": "しのみやゆの",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-789cb2190baf5c72",
+      "title": "城瀬いすみ",
+      "body": "城瀬いすみ",
+      "reading": "しろせいすみ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a219bc2cb11a72c9",
+      "title": "花籠つばさ",
+      "body": "花籠つばさ",
+      "reading": "はなかごつばさ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-fb4762aa89cf2511",
+      "title": "白砂あやね",
+      "body": "白砂あやね",
+      "reading": "しらさあやね",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-f75cb33325f61d9f",
+      "title": "水面まどか",
+      "body": "水面まどか",
+      "reading": "みなもまどか",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a122bf1120de18d2",
+      "title": "男虎",
+      "body": "男虎",
+      "reading": "おのとら",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-603af1e64a734d71",
+      "title": "九里詠太",
+      "body": "九里詠太",
+      "reading": "くりえいた",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-193d00ef529eb42f",
+      "title": "小々波いるか",
+      "body": "小々波いるか",
+      "reading": "ここなみいるか",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-b0c152a045017d85",
+      "title": "千凛あゆむ",
+      "body": "千凛あゆむ",
+      "reading": "せんりあゆむ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-78b806c2b857108c",
+      "title": "塚原大地",
+      "body": "塚原大地",
+      "reading": "つかはらだいち",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-a6f0a560be4fad67",
+      "title": "御子神琴音",
+      "body": "御子神琴音",
+      "reading": "みこがみことね",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-7428b12bbe80d3a4",
+      "title": "Rei7",
+      "body": "Rei7",
+      "reading": "れいな",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-c724d625c3d14bf",
+      "title": "神永タイガ",
+      "body": "神永タイガ",
+      "reading": "かみながたいが",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-bc35987fff5bd779",
+      "title": "山田龍一郎",
+      "body": "山田龍一郎",
+      "reading": "やまだりゅういちろう",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-1cc9808fc59d93f2",
+      "title": "勇気ちひろ",
+      "body": "勇気ちひろ",
+      "reading": "ゆうきちひろ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-1d6825f5158e1466",
+      "title": "鈴谷アキ",
+      "body": "鈴谷アキ",
+      "reading": "すずやあき",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-c9f5c4f7f1ca6cef",
+      "title": "鈴鹿詩子",
+      "body": "鈴鹿詩子",
+      "reading": "すずかうたこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-520a040f18e6b88e",
+      "title": "童田明治",
+      "body": "童田明治",
+      "reading": "わらべだめいじー",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-3b81bdd88be76159",
+      "title": "郡道美玲",
+      "body": "郡道美玲",
+      "reading": "ぐんどうみれい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-643a69bda238076",
+      "title": "瀬戸美夜子",
+      "body": "瀬戸美夜子",
+      "reading": "せとみやこ",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-2c3c79fe52a3be",
+      "title": "御伽原江良",
+      "body": "御伽原江良",
+      "reading": "おとぎばらえら",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-77f6d83d315c01fe",
+      "title": "黛灰",
+      "body": "黛灰",
+      "reading": "まゆずみかい",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-913813e2edbb0d62",
+      "title": "相羽ういは",
+      "body": "相羽ういは",
+      "reading": "あいばういは",
+      "category": "にじさんじ"
+    },
+    {
+      "id": "w-4ca81fbb650c7328",
+      "title": "スノー・ホワイト・パラダイス・エルサント",
+      "body": "スノー・ホワイト・パラダイス・エルサント・フロウ・ワスレナ・ピュア・プリンセス・リーブル・ラブ・ハイデルン・ドコドコ・ヤッタゼ・ヴァルキュリア・パッション・アールヴ・ノエル・チャコボシ・エルアリア・フロージア・メイドイン・ブルーム・エル",
+      "reading": "すのーほわいとぱらだいすえるさんとふろうわすれなぴゅあぷりんせすりーぶるらぶはいでるんどこどこやったぜゔぁるきゅりあぱっしょんあーるゔのえるちゃこぼしえるありあふろーじゃめいどいんぶるーむえる",
+      "category": "にじさんじ"
+    }
+  ]
+}

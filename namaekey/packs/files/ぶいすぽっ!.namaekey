@@ -1,0 +1,226 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "8c4b581dab7173e9",
+  "name": "ぶいすぽっ!",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-859efc5b1b45d712",
+      "title": "花芽すみれ",
+      "body": "花芽すみれ",
+      "reading": "かがすみれ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-1469ebca7536634b",
+      "title": "花芽なずな",
+      "body": "花芽なずな",
+      "reading": "かがなずな",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-6a7d0aa4354416e3",
+      "title": "小雀とと",
+      "body": "小雀とと",
+      "reading": "こがらとと",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-ff62fbabd0ac7f0f",
+      "title": "一ノ瀬うるは",
+      "body": "一ノ瀬うるは",
+      "reading": "いちのせうるは",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-1256bc5b52afdac3",
+      "title": "胡桃のあ",
+      "body": "胡桃のあ",
+      "reading": "くるみのあ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-7b0d54e74acd9c40",
+      "title": "兎咲ミミ",
+      "body": "兎咲ミミ",
+      "reading": "とさきみみ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-dd534a3569b9ed45",
+      "title": "空澄セナ",
+      "body": "空澄セナ",
+      "reading": "あすみせな",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-6c214f63d899a4f2",
+      "title": "橘ひなの",
+      "body": "橘ひなの",
+      "reading": "たちばなひなの",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-83cd9f1690988fb7",
+      "title": "英リサ",
+      "body": "英リサ",
+      "reading": "はなぶさりさ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-da3fa434aec3670d",
+      "title": "如月れん",
+      "body": "如月れん",
+      "reading": "きさらぎれん",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-83999210416a8020",
+      "title": "神成きゅぴ",
+      "body": "神成きゅぴ",
+      "reading": "かみなりきゅぴ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-bbde5162b49289e6",
+      "title": "八雲べに",
+      "body": "八雲べに",
+      "reading": "やくもべに",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-5f08f7ed9fbc46a2",
+      "title": "藍沢エマ",
+      "body": "藍沢エマ",
+      "reading": "あいざわえま",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-e4768fbe7e4a253e",
+      "title": "紫宮るな",
+      "body": "紫宮るな",
+      "reading": "しのみやるな",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-68b9142bc6f6d068",
+      "title": "猫汰つな",
+      "body": "猫汰つな",
+      "reading": "ねこたつな",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-d6c2f534689baa47",
+      "title": "白波らむね",
+      "body": "白波らむね",
+      "reading": "しらなみらむね",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-de1a5bc53c2a0bd8",
+      "title": "小森めと",
+      "body": "小森めと",
+      "reading": "こもりめと",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-e66e12aa5c26ba90",
+      "title": "夢野あかり",
+      "body": "夢野あかり",
+      "reading": "ゆめのあかり",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-49bd7507fdf4e65a",
+      "title": "夜乃くろむ",
+      "body": "夜乃くろむ",
+      "reading": "やのくろむ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-9fb8f49dd6d63bcb",
+      "title": "紡木こかげ",
+      "body": "紡木こかげ",
+      "reading": "つむぎこかげ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-a1b14faa1a22f49f",
+      "title": "千燈ゆうひ",
+      "body": "千燈ゆうひ",
+      "reading": "せんどうゆうひ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-d86a7997e3657917",
+      "title": "蝶屋はなび",
+      "body": "蝶屋はなび",
+      "reading": "ちょうやはなび",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-316c2f328729a618",
+      "title": "甘結もか",
+      "body": "甘結もか",
+      "reading": "あまゆいもか",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-6ebb80a7ce8e2290",
+      "title": "銀城サイネ",
+      "body": "銀城サイネ",
+      "reading": "ぎんじょうさいね",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-9e7080ad09a56c9a",
+      "title": "龍巻ちせ",
+      "body": "龍巻ちせ",
+      "reading": "たつまきちせ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-cc3635af9dc03ebf",
+      "title": "青月レミア",
+      "body": "青月レミア",
+      "reading": "あおつきれみあ",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-ecbfdc7454564508",
+      "title": "黒刃アリヤ",
+      "body": "黒刃アリヤ",
+      "reading": "くろはありや",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-efcfd8886a879611",
+      "title": "地崎ジラ",
+      "body": "地崎ジラ",
+      "reading": "じさきじら",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-5e0ea4554cac29f3",
+      "title": "美暮ナリン",
+      "body": "美暮ナリン",
+      "reading": "みくれなりん",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-151f6c3d89e3bec6",
+      "title": "涼上エリス",
+      "body": "涼上エリス",
+      "reading": "すずかみえりす",
+      "category": "ぶいすぽっ!"
+    },
+    {
+      "id": "w-8b20252ccc0ee03b",
+      "title": "梅園ジュノ",
+      "body": "梅園ジュノ",
+      "reading": "うめぞのじゅの",
+      "category": "ぶいすぽっ!"
+    }
+  ]
+}

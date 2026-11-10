@@ -1,0 +1,240 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "e28a71a2f4de1ca1",
+  "name": "響け!ユーフォニアム",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-671b5af10045a5a3",
+      "title": "黄前久美子",
+      "body": "黄前久美子",
+      "reading": "おうまえくみこ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-f3bd0a593133b417",
+      "title": "高坂麗奈",
+      "body": "高坂麗奈",
+      "reading": "こうさかれいな",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-664b17be9b396952",
+      "title": "川島緑輝",
+      "body": "川島緑輝",
+      "reading": "かわしまさふぁいあ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-d3520a08b13b8419",
+      "title": "加藤葉月",
+      "body": "加藤葉月",
+      "reading": "かとうはづき",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-f45f5b3e990885c1",
+      "title": "塚本秀一",
+      "body": "塚本秀一",
+      "reading": "つかもとしゅういち",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-b32d7331fe293cec",
+      "title": "後藤卓也",
+      "body": "後藤卓也",
+      "reading": "ごとうたくや",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-873c386437efe5d7",
+      "title": "長瀬梨子",
+      "body": "長瀬梨子",
+      "reading": "ながせりこ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-69924f6618742614",
+      "title": "中川夏紀",
+      "body": "中川夏紀",
+      "reading": "なかがわなつき",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-a7a634123fe3a57b",
+      "title": "吉川優子",
+      "body": "吉川優子",
+      "reading": "よしかわゆうこ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-bfbbb544a2a0b0b1",
+      "title": "田中あすか",
+      "body": "田中あすか",
+      "reading": "たなかあすか",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-11621a077b447551",
+      "title": "小笠原晴香",
+      "body": "小笠原晴香",
+      "reading": "おがさわらはるか",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-9bbe94f37c5a9358",
+      "title": "中世古香織",
+      "body": "中世古香織",
+      "reading": "なかせこかおり",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-93d65ca331989332",
+      "title": "斎藤葵",
+      "body": "斎藤葵",
+      "reading": "さいとうあおい",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-500a04d5b78bc51b",
+      "title": "鎧塚みぞれ",
+      "body": "鎧塚みぞれ",
+      "reading": "よろいづかみぞれ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-e1f7ff6f86043d30",
+      "title": "傘木希美",
+      "body": "傘木希美",
+      "reading": "かさきのぞみ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-48976edd029cccf1",
+      "title": "加部友恵",
+      "body": "加部友恵",
+      "reading": "かべともえ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-1bf109f5b1805e5a",
+      "title": "釜屋つばめ",
+      "body": "釜屋つばめ",
+      "reading": "かまやつばめ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-de842c46f8445e5f",
+      "title": "久石奏",
+      "body": "久石奏",
+      "reading": "ひさいしかなで",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-4fb9a31a0ca40be2",
+      "title": "月永求",
+      "body": "月永求",
+      "reading": "つきながもとむ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-223ecc2dc2f22e84",
+      "title": "鈴木美玲",
+      "body": "鈴木美玲",
+      "reading": "すずきみれい",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-d160f655bf1fc356",
+      "title": "鈴木さつき",
+      "body": "鈴木さつき",
+      "reading": "すずきさつき",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-a390296ef22871c",
+      "title": "剣崎梨々花",
+      "body": "剣崎梨々花",
+      "reading": "けんざきりりか",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-facf4db58a4985a3",
+      "title": "黒江真由",
+      "body": "黒江真由",
+      "reading": "くろえまゆ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-3d27a433d3977107",
+      "title": "釜屋すずめ",
+      "body": "釜屋すずめ",
+      "reading": "かまやすずめ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-ca7bc811e39a6504",
+      "title": "上石弥生",
+      "body": "上石弥生",
+      "reading": "かみいしやよい",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-b54238b22090e90b",
+      "title": "針谷佳穂",
+      "body": "針谷佳穂",
+      "reading": "はりやかほ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-a2055a48afefc8c5",
+      "title": "義井沙里",
+      "body": "義井沙里",
+      "reading": "よしいさり",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-2e60d200fdc24020",
+      "title": "滝昇",
+      "body": "滝昇",
+      "reading": "たきのぼる",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-e7d30673994f94e",
+      "title": "松本美知恵",
+      "body": "松本美知恵",
+      "reading": "まつもとみちえ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-208fc3bac4a93305",
+      "title": "橋本真博",
+      "body": "橋本真博",
+      "reading": "はしもとまさひろ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-4740aa67df3147f7",
+      "title": "新山聡美",
+      "body": "新山聡美",
+      "reading": "にいやまさとみ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-2f9173d2d26d82b1",
+      "title": "黄前麻美子",
+      "body": "黄前麻美子",
+      "reading": "おうまえまみこ",
+      "category": "響け!ユーフォニアム"
+    },
+    {
+      "id": "w-1ad6761ec0a61c7f",
+      "title": "佐々木梓",
+      "body": "佐々木梓",
+      "reading": "ささきあずさ",
+      "category": "響け!ユーフォニアム"
+    }
+  ]
+}

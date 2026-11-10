@@ -1,0 +1,303 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "3962aa25af0a00e6",
+  "name": "呪術廻戦",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-d1da663c47f1f7f9",
+      "title": "虎杖悠仁",
+      "body": "虎杖悠仁",
+      "reading": "いたどりゆうじ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-d04a138e2ac45104",
+      "title": "伏黒恵",
+      "body": "伏黒恵",
+      "reading": "ふしぐろめぐみ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-f5b9e15de273dbdb",
+      "title": "釘崎野薔薇",
+      "body": "釘崎野薔薇",
+      "reading": "くぎさきのばら",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-cc489d7751ac16ac",
+      "title": "五条悟",
+      "body": "五条悟",
+      "reading": "ごじょうさとる",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-1ecf7c28f211cfdd",
+      "title": "両面宿儺",
+      "body": "両面宿儺",
+      "reading": "りょうめんすくな",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-9698b20e89243c1",
+      "title": "乙骨憂太",
+      "body": "乙骨憂太",
+      "reading": "おっこつゆうた",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-26aba0a5029cd9b1",
+      "title": "禪院真希",
+      "body": "禪院真希",
+      "reading": "ぜんいんまき",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-479c769972e70856",
+      "title": "狗巻棘",
+      "body": "狗巻棘",
+      "reading": "いぬまきとげ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-7bb81ea1fda1ad9e",
+      "title": "七海建人",
+      "body": "七海建人",
+      "reading": "ななみけんと",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-ddb85100e51ab43e",
+      "title": "夏油傑",
+      "body": "夏油傑",
+      "reading": "げとうすぐる",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-3585ec32e844ff55",
+      "title": "真人",
+      "body": "真人",
+      "reading": "まひと",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-7d23facca3c293aa",
+      "title": "東堂葵",
+      "body": "東堂葵",
+      "reading": "とうどうあおい",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-87b7ef31db0df62f",
+      "title": "加茂憲紀",
+      "body": "加茂憲紀",
+      "reading": "かものりとし",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-a7b82f90a0b52090",
+      "title": "西宮桃",
+      "body": "西宮桃",
+      "reading": "にしみやもも",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-8d2d1cdb36fd1fc3",
+      "title": "三輪霞",
+      "body": "三輪霞",
+      "reading": "みわかすみ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-1a3742a4fa7ce31b",
+      "title": "禪院真依",
+      "body": "禪院真依",
+      "reading": "ぜんいんまい",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-157ae9cb53c39697",
+      "title": "与幸吉",
+      "body": "与幸吉",
+      "reading": "むたこうきち",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-42a44ba6945348ed",
+      "title": "庵歌姫",
+      "body": "庵歌姫",
+      "reading": "いおりうたひめ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-50ca141b0a81e1ea",
+      "title": "家入硝子",
+      "body": "家入硝子",
+      "reading": "いえいりしょうこ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-d75f5e2567ffcb7c",
+      "title": "夜蛾正道",
+      "body": "夜蛾正道",
+      "reading": "やがまさみち",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-55b6f4dcf691b490",
+      "title": "九十九由基",
+      "body": "九十九由基",
+      "reading": "つくもゆき",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-bee90b2fab2ce2a9",
+      "title": "秤金次",
+      "body": "秤金次",
+      "reading": "はかりきんじ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-192c5ef9034903dd",
+      "title": "星綺羅羅",
+      "body": "星綺羅羅",
+      "reading": "ほしきらら",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-fc965dc86e38bc40",
+      "title": "日下部篤也",
+      "body": "日下部篤也",
+      "reading": "くさかべあつや",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-f7745cf9d0bc62d8",
+      "title": "伊地知潔高",
+      "body": "伊地知潔高",
+      "reading": "いじちきよたか",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-b2ee187d42ec635b",
+      "title": "猪野琢真",
+      "body": "猪野琢真",
+      "reading": "いのたくま",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-f9f1658ef662ad53",
+      "title": "灰原雄",
+      "body": "灰原雄",
+      "reading": "はいばらゆう",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-3881b929bf2d5253",
+      "title": "禪院直毘人",
+      "body": "禪院直毘人",
+      "reading": "ぜんいんなおびと",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-3e69f15995bef1a5",
+      "title": "冥冥",
+      "body": "冥冥",
+      "reading": "めいめい",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-157285c432bf68ee",
+      "title": "伏黒甚爾",
+      "body": "伏黒甚爾",
+      "reading": "ふしぐろとうじ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-7a3b4441b20c23f3",
+      "title": "伏黒津美紀",
+      "body": "伏黒津美紀",
+      "reading": "ふしぐろつみき",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-fb6921f42b6f1c38",
+      "title": "天内理子",
+      "body": "天内理子",
+      "reading": "あまないりこ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-f05cd65649f0378b",
+      "title": "吉野順平",
+      "body": "吉野順平",
+      "reading": "よしのじゅんぺい",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-effd158837ce336d",
+      "title": "羂索",
+      "body": "羂索",
+      "reading": "けんじゃく",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-3a600800fd7de4d8",
+      "title": "裏梅",
+      "body": "裏梅",
+      "reading": "うらうめ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-4a34931490c4fd96",
+      "title": "脹相",
+      "body": "脹相",
+      "reading": "ちょうそう",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-85280051e3b13662",
+      "title": "漏瑚",
+      "body": "漏瑚",
+      "reading": "じょうご",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-639de1fdaa6e3560",
+      "title": "花御",
+      "body": "花御",
+      "reading": "はなみ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-298c4bf1d966c6dc",
+      "title": "陀艮",
+      "body": "陀艮",
+      "reading": "だごん",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-63f9eb68328263ce",
+      "title": "鹿紫雲一",
+      "body": "鹿紫雲一",
+      "reading": "かしもはじめ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-808c2e8b671f8926",
+      "title": "日車寛見",
+      "body": "日車寛見",
+      "reading": "ひぐるまひろみ",
+      "category": "呪術廻戦"
+    },
+    {
+      "id": "w-f145319fce694591",
+      "title": "来栖華",
+      "body": "来栖華",
+      "reading": "くるすはな",
+      "category": "呪術廻戦"
+    }
+  ]
+}

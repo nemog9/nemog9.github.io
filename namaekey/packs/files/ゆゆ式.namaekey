@@ -1,0 +1,58 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "e1a0d8e288938ffb",
+  "name": "ゆゆ式",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-7dc59366b21980bb",
+      "title": "野々原ゆずこ",
+      "body": "野々原ゆずこ",
+      "reading": "ののはらゆずこ",
+      "category": "ゆゆ式"
+    },
+    {
+      "id": "w-fbbba1830c9f47df",
+      "title": "日向縁",
+      "body": "日向縁",
+      "reading": "ひなたゆかり",
+      "category": "ゆゆ式"
+    },
+    {
+      "id": "w-a15872240774cc8a",
+      "title": "櫟井唯",
+      "body": "櫟井唯",
+      "reading": "いちいゆい",
+      "category": "ゆゆ式"
+    },
+    {
+      "id": "w-bf40c77a619df4b3",
+      "title": "相川千穂",
+      "body": "相川千穂",
+      "reading": "あいかわちほ",
+      "category": "ゆゆ式"
+    },
+    {
+      "id": "w-657b2cf9535980fb",
+      "title": "岡野佳",
+      "body": "岡野佳",
+      "reading": "おかのけい",
+      "category": "ゆゆ式"
+    },
+    {
+      "id": "w-df5bf15565c3be44",
+      "title": "長谷川ふみ",
+      "body": "長谷川ふみ",
+      "reading": "はせがわふみ",
+      "category": "ゆゆ式"
+    },
+    {
+      "id": "w-7fa3e760ed0df6b",
+      "title": "松本頼子",
+      "body": "松本頼子",
+      "reading": "まつもとよりこ",
+      "category": "ゆゆ式"
+    }
+  ]
+}

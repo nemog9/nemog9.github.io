@@ -1,0 +1,156 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "fe4d28d3bbb6e872",
+  "name": "チェンソーマン",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-5f112a587e408b1f",
+      "title": "早川アキ",
+      "body": "早川アキ",
+      "reading": "はやかわあき",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-c423c00a5121330c",
+      "title": "三鷹アサ",
+      "body": "三鷹アサ",
+      "reading": "みたかあさ",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-7de85cb59db3cedc",
+      "title": "姫野",
+      "body": "姫野",
+      "reading": "ひめの",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-343408aee8144a16",
+      "title": "東山コベニ",
+      "body": "東山コベニ",
+      "reading": "ひがしやまこべに",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-eabc3a703f04398f",
+      "title": "荒井ヒロカズ",
+      "body": "荒井ヒロカズ",
+      "reading": "あらいひろかず",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-19b2711b660a259c",
+      "title": "円",
+      "body": "円",
+      "reading": "まどか",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-1e67231b6795a076",
+      "title": "伏",
+      "body": "伏",
+      "reading": "ふし",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-33585c3ab07371d6",
+      "title": "岸辺",
+      "body": "岸辺",
+      "reading": "きしべ",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-e19c774913b156b5",
+      "title": "黒瀬ユウタロウ",
+      "body": "黒瀬ユウタロウ",
+      "reading": "くろせゆうたろう",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-12a12e387ed1b332",
+      "title": "天童ミチコ",
+      "body": "天童ミチコ",
+      "reading": "てんどうみちこ",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-1ebf5fe2fd826729",
+      "title": "野茂",
+      "body": "野茂",
+      "reading": "のも",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-e9f5f31112301cb8",
+      "title": "安藤マサキ",
+      "body": "安藤マサキ",
+      "reading": "あんどうまさき",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-c8eaf035722c06b7",
+      "title": "古野",
+      "body": "古野",
+      "reading": "ふるの",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-962a32bb179024e6",
+      "title": "日下部",
+      "body": "日下部",
+      "reading": "くさかべ",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-2328abeb44825c97",
+      "title": "玉置",
+      "body": "玉置",
+      "reading": "たまき",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-347a688792f516b5",
+      "title": "吉田ヒロフミ",
+      "body": "吉田ヒロフミ",
+      "reading": "よしだひろふみ",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-8d75256b38184a04",
+      "title": "須郷ミリ",
+      "body": "須郷ミリ",
+      "reading": "すごうみり",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-3d0793d23dc11b78",
+      "title": "沢渡アカネ",
+      "body": "沢渡アカネ",
+      "reading": "さわたりあかね",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-9c477537dba3debb",
+      "title": "三船フミコ",
+      "body": "三船フミコ",
+      "reading": "みふねふみこ",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-a1536a436758c555",
+      "title": "天使の悪魔",
+      "body": "天使の悪魔",
+      "reading": "てんしのあくま",
+      "category": "チェンソーマン"
+    },
+    {
+      "id": "w-fdec9b7c80ee9093",
+      "title": "暴力の魔人",
+      "body": "暴力の魔人",
+      "reading": "ぼうりょくのまじん",
+      "category": "チェンソーマン"
+    }
+  ]
+}

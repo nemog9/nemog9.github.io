@@ -1,0 +1,79 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "2b1717eb66c167e9",
+  "name": "大室家",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-8d51c0ae2b729c23",
+      "title": "大室撫子",
+      "body": "大室撫子",
+      "reading": "おおむろなでしこ",
+      "category": "大室家"
+    },
+    {
+      "id": "w-de2edb07c0a7ec8c",
+      "title": "大室櫻子",
+      "body": "大室櫻子",
+      "reading": "おおむろさくらこ",
+      "category": "大室家"
+    },
+    {
+      "id": "w-d53e276d909f0dd7",
+      "title": "大室花子",
+      "body": "大室花子",
+      "reading": "おおむろはなこ",
+      "category": "大室家"
+    },
+    {
+      "id": "w-841284db31b4351a",
+      "title": "三輪藍",
+      "body": "三輪藍",
+      "reading": "みわあい",
+      "category": "大室家"
+    },
+    {
+      "id": "w-5ce838b3ae6d2caa",
+      "title": "八重野美穂",
+      "body": "八重野美穂",
+      "reading": "やえのみほ",
+      "category": "大室家"
+    },
+    {
+      "id": "w-6805dd01fbbc31f2",
+      "title": "園川めぐみ",
+      "body": "園川めぐみ",
+      "reading": "そのかわめぐみ",
+      "category": "大室家"
+    },
+    {
+      "id": "w-53834c6ce6063b9a",
+      "title": "相馬未来",
+      "body": "相馬未来",
+      "reading": "そうまみらい",
+      "category": "大室家"
+    },
+    {
+      "id": "w-1c88e07150ae4caa",
+      "title": "小川こころ",
+      "body": "小川こころ",
+      "reading": "おがわこころ",
+      "category": "大室家"
+    },
+    {
+      "id": "w-7a11f16766bbdd13",
+      "title": "高崎みさき",
+      "body": "高崎みさき",
+      "reading": "たかさきみさき",
+      "category": "大室家"
+    },
+    {
+      "id": "w-2ad8cd9cbbc2f2ec",
+      "title": "古谷向日葵",
+      "body": "古谷向日葵",
+      "reading": "ふるたにひまわり",
+      "category": "大室家"
+    }
+  ]
+}

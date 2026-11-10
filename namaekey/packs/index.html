@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>パック一覧 - 名前キー</title>
+<style>
+  :root { --bg:#fff6ee; --card:#fff; --text:#2b1a0d; --sub:#8a6a52; --accent:#e8590c; --line:#f6dcc6; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#1a120b; --card:#2a1d13; --text:#fff3e8; --sub:#cdaa8f; --accent:#ff8a3d; --line:#46301f; } }
+  * { box-sizing: border-box; }
+  body { margin:0; padding:32px 18px 64px; background:var(--bg); color:var(--text);
+         font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif; line-height:1.7; }
+  main { max-width:680px; margin:0 auto; }
+  h1 { font-size:1.4rem; margin:0 0 4px; color:var(--accent); }
+  .sub { color:var(--sub); font-size:.9rem; margin:4px 0; }
+  a { color:var(--accent); }
+  ul { list-style:none; padding:0; margin:20px 0; display:grid; gap:10px; }
+  li { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 14px;
+       display:flex; align-items:center; gap:12px; }
+  .info { flex:1; min-width:0; }
+  .name { font-weight:700; }
+  .desc { font-size:.88rem; color:var(--sub); }
+  .btn { flex:none; background:var(--accent); color:#fff; text-decoration:none; font-weight:700;
+         padding:8px 14px; border-radius:999px; font-size:.9rem; }
+  .steps { font-size:.9rem; color:var(--sub); }
+</style>
+</head>
+<body>
+<main>
+  <h1>パック一覧</h1>
+  <p class="sub">名前キー — キャラクターの名前を一発変換</p>
+  <p class="steps">「ダウンロード」を押したあと、ファイルを開いて「名前キー」を選ぶと、取り込めます。</p>
+  <ul id="list"></ul>
+  <p id="empty" class="sub" hidden>準備中です。</p>
+  <p class="sub"><a href="../maker/">ブラウザでパックを作る</a> ・ <a href="../support/">サポート</a></p>
+</main>
+<script>
+fetch("packs.json", { cache: "no-cache" }).then(r => r.json()).then(items => {
+  const ul = document.getElementById("list");
+  if (!items.length) { document.getElementById("empty").hidden = false; return; }
+  for (const p of items) {
+    const li = document.createElement("li");
+    const info = document.createElement("div"); info.className = "info";
+    const n = document.createElement("div"); n.className = "name"; n.textContent = p.name;
+    const d = document.createElement("div"); d.className = "desc";
+    d.textContent = p.count + "件" + (p.description ? " ・ " + p.description : "");
+    info.append(n, d);
+    const a = document.createElement("a"); a.className = "btn"; a.textContent = "ダウンロード";
+    a.href = "files/" + encodeURIComponent(p.file); a.setAttribute("download", p.file);
+    li.append(info, a); ul.append(li);
+  }
+}).catch(() => { document.getElementById("empty").hidden = false; });
+</script>
+</body>
+</html>

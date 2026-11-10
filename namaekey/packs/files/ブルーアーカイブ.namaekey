@@ -1,0 +1,1017 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "dbcb93faad9f1570",
+  "name": "ブルーアーカイブ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-b80cd2c6262edf9f",
+      "title": "七神リン",
+      "body": "七神リン",
+      "reading": "なながみりん",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-8c96f04abe8fdb3f",
+      "title": "由良木モモカ",
+      "body": "由良木モモカ",
+      "reading": "ゆらぎももか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-6db212984d3396fe",
+      "title": "不知火カヤ",
+      "body": "不知火カヤ",
+      "reading": "しらぬいかや",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-96fdfdf84a9f6c2b",
+      "title": "扇喜アオイ",
+      "body": "扇喜アオイ",
+      "reading": "おきあおい",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a2c24d569ff3ca7a",
+      "title": "岩櫃アユム",
+      "body": "岩櫃アユム",
+      "reading": "いわびつあゆむ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-1243d41a38eaffbd",
+      "title": "川流シノン",
+      "body": "川流シノン",
+      "reading": "かわるしのん",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2cf35a0b77e5cb69",
+      "title": "砂狼シロコ",
+      "body": "砂狼シロコ",
+      "reading": "すなおおかみしろこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-59278222a55a466d",
+      "title": "小鳥遊ホシノ",
+      "body": "小鳥遊ホシノ",
+      "reading": "たかなしほしの",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b27e310393f9e208",
+      "title": "黒見セリカ",
+      "body": "黒見セリカ",
+      "reading": "くろみせりか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-da61ce85c6591d19",
+      "title": "十六夜ノノミ",
+      "body": "十六夜ノノミ",
+      "reading": "いざよいののみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-cdb564055820b09a",
+      "title": "奥空アヤネ",
+      "body": "奥空アヤネ",
+      "reading": "おくそらあやね",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-29f3c7c3182fd516",
+      "title": "梔子ユメ",
+      "body": "梔子ユメ",
+      "reading": "くちなしゆめ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-51ae25c2f01f4b0e",
+      "title": "空崎ヒナ",
+      "body": "空崎ヒナ",
+      "reading": "そらさきひな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-4e66521d8f9ef450",
+      "title": "天雨アコ",
+      "body": "天雨アコ",
+      "reading": "あまうあこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a6a4c2d22fbd3283",
+      "title": "銀鏡イオリ",
+      "body": "銀鏡イオリ",
+      "reading": "しろみいおり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b52aa6413e8ba204",
+      "title": "火宮チナツ",
+      "body": "火宮チナツ",
+      "reading": "ひのみやちなつ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-54e21a151c3801b",
+      "title": "羽沼マコト",
+      "body": "羽沼マコト",
+      "reading": "はぬままこと",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-23785ece4c94ea22",
+      "title": "棗イロハ",
+      "body": "棗イロハ",
+      "reading": "なつめいろは",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-c2146916ee6c47b0",
+      "title": "丹花イブキ",
+      "body": "丹花イブキ",
+      "reading": "たんがいぶき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-63fed5d7237dee7b",
+      "title": "京極サツキ",
+      "body": "京極サツキ",
+      "reading": "きょうごくさつき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e2c4be5b62c06ddb",
+      "title": "元宮チアキ",
+      "body": "元宮チアキ",
+      "reading": "もとみやちあき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-1b3c027a248462e3",
+      "title": "愛清フウカ",
+      "body": "愛清フウカ",
+      "reading": "あいきよふうか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-dee81712761f66b1",
+      "title": "牛牧ジュリ",
+      "body": "牛牧ジュリ",
+      "reading": "うしまきじゅり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-4b1df5a713f11d13",
+      "title": "黒舘ハルナ",
+      "body": "黒舘ハルナ",
+      "reading": "くろだてはるな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2e20e1567cb50e55",
+      "title": "赤司ジュンコ",
+      "body": "赤司ジュンコ",
+      "reading": "あかしじゅんこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-5dc276d96101ec7e",
+      "title": "獅子堂イズミ",
+      "body": "獅子堂イズミ",
+      "reading": "ししどういずみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2e43412dc1ea5200",
+      "title": "鰐渕アカリ",
+      "body": "鰐渕アカリ",
+      "reading": "わにぶちあかり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-ddb1472280e45c12",
+      "title": "陸八魔アル",
+      "body": "陸八魔アル",
+      "reading": "りくはちまある",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a8dfafc9e10c9aef",
+      "title": "浅黄ムツキ",
+      "body": "浅黄ムツキ",
+      "reading": "あさぎむつき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7b3ca58317d1263f",
+      "title": "伊草ハルカ",
+      "body": "伊草ハルカ",
+      "reading": "いぐさはるか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-50b32731a70af2b3",
+      "title": "鬼方カヨコ",
+      "body": "鬼方カヨコ",
+      "reading": "おにかたかよこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7b12031678707003",
+      "title": "氷室セナ",
+      "body": "氷室セナ",
+      "reading": "ひむろせな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a4e73f340505881c",
+      "title": "鬼怒川カスミ",
+      "body": "鬼怒川カスミ",
+      "reading": "きぬがわかすみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-335291d6e963e8fe",
+      "title": "下倉メグ",
+      "body": "下倉メグ",
+      "reading": "しもくらめぐ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-5df34a33c25f5f17",
+      "title": "夜桜キララ",
+      "body": "夜桜キララ",
+      "reading": "よざくらきらら",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-ec9f106118df802f",
+      "title": "旗見エリカ",
+      "body": "旗見エリカ",
+      "reading": "はたみえりか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-8e180233bf9b9bae",
+      "title": "桐藤ナギサ",
+      "body": "桐藤ナギサ",
+      "reading": "きりふじなぎさ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a0306c03da78956a",
+      "title": "聖園ミカ",
+      "body": "聖園ミカ",
+      "reading": "みそのみか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b30918affc9d6c21",
+      "title": "百合園セイア",
+      "body": "百合園セイア",
+      "reading": "ゆりぞのせいあ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-f388023e6c46880",
+      "title": "剣先ツルギ",
+      "body": "剣先ツルギ",
+      "reading": "けんざきつるぎ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-d6e6b353c998f442",
+      "title": "羽川ハスミ",
+      "body": "羽川ハスミ",
+      "reading": "はねかわはすみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7f851cb2fce5fbe2",
+      "title": "静山マシロ",
+      "body": "静山マシロ",
+      "reading": "しずやまましろ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b1b95431c3e4adc6",
+      "title": "仲正イチカ",
+      "body": "仲正イチカ",
+      "reading": "なかまさいちか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-8efe35046357406f",
+      "title": "歌住サクラコ",
+      "body": "歌住サクラコ",
+      "reading": "うたずみさくらこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-bb07cf82b939667a",
+      "title": "伊落マリー",
+      "body": "伊落マリー",
+      "reading": "いおちまりー",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2ea51ba03461f8ff",
+      "title": "若葉ヒナタ",
+      "body": "若葉ヒナタ",
+      "reading": "わかばひなた",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-c2a65696168114e8",
+      "title": "蒼森ミネ",
+      "body": "蒼森ミネ",
+      "reading": "あおもりみね",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-aea32ab52493eae4",
+      "title": "朝顔ハナエ",
+      "body": "朝顔ハナエ",
+      "reading": "あさがおはなえ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e10b2241e174996a",
+      "title": "鷲見セリナ",
+      "body": "鷲見セリナ",
+      "reading": "すみせりな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-c41c63103f1ba4b6",
+      "title": "古関ウイ",
+      "body": "古関ウイ",
+      "reading": "こぜきうい",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-649a299e3908618e",
+      "title": "円堂シミコ",
+      "body": "円堂シミコ",
+      "reading": "えんどうしみこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-d66f7b6a1f690b7c",
+      "title": "守月スズミ",
+      "body": "守月スズミ",
+      "reading": "もりづきすずみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b92c5e4da704ec52",
+      "title": "宇沢レイサ",
+      "body": "宇沢レイサ",
+      "reading": "うざわれいさ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-fd14a6dbffb125b7",
+      "title": "阿慈谷ヒフミ",
+      "body": "阿慈谷ヒフミ",
+      "reading": "あじたにひふみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-5ec49e59d1247f3a",
+      "title": "白洲アズサ",
+      "body": "白洲アズサ",
+      "reading": "しらすあずさ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-f364078ceed30d68",
+      "title": "浦和ハナコ",
+      "body": "浦和ハナコ",
+      "reading": "うらわはなこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-4a7ed90eccadb088",
+      "title": "下江コハル",
+      "body": "下江コハル",
+      "reading": "しもえこはる",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-def9f66893bbec4e",
+      "title": "伊原木ヨシミ",
+      "body": "伊原木ヨシミ",
+      "reading": "いばらぎよしみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a3b85887532c209c",
+      "title": "栗村アイリ",
+      "body": "栗村アイリ",
+      "reading": "くりむらあいり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-87927f563139dded",
+      "title": "柚鳥ナツ",
+      "body": "柚鳥ナツ",
+      "reading": "ゆとりなつ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-3d44727bdb2b1edb",
+      "title": "杏山カズサ",
+      "body": "杏山カズサ",
+      "reading": "きょうやまかずさ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b37f7a98a3cd797b",
+      "title": "調月リオ",
+      "body": "調月リオ",
+      "reading": "つかつきりお",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-bd1c79f8aa32f97",
+      "title": "早瀬ユウカ",
+      "body": "早瀬ユウカ",
+      "reading": "はやせゆうか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-6ecccd2627a87431",
+      "title": "生塩ノア",
+      "body": "生塩ノア",
+      "reading": "うしおのあ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a6c222edf2267e90",
+      "title": "黒崎コユキ",
+      "body": "黒崎コユキ",
+      "reading": "くろさきこゆき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7775805ff58e7bd",
+      "title": "各務チヒロ",
+      "body": "各務チヒロ",
+      "reading": "かがみちひろ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b7ae52e00904230d",
+      "title": "音瀬コタマ",
+      "body": "音瀬コタマ",
+      "reading": "おとせこたま",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-766630c097681ec9",
+      "title": "小鈎ハレ",
+      "body": "小鈎ハレ",
+      "reading": "おまがりはれ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-9a78fba68bc3b2f8",
+      "title": "小塗マキ",
+      "body": "小塗マキ",
+      "reading": "こぬりまき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2bb4fe86671752b9",
+      "title": "白石ウタハ",
+      "body": "白石ウタハ",
+      "reading": "しらいしうたは",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-9e7ec60448b2c00d",
+      "title": "豊見コトリ",
+      "body": "豊見コトリ",
+      "reading": "とよみことり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2fedb9bcd21b1de6",
+      "title": "猫塚ヒビキ",
+      "body": "猫塚ヒビキ",
+      "reading": "ねこづかひびき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-faf419c03b4f1c0b",
+      "title": "美甘ネル",
+      "body": "美甘ネル",
+      "reading": "みかもねる",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-87a9abe2cd655a43",
+      "title": "一之瀬アスナ",
+      "body": "一之瀬アスナ",
+      "reading": "いちのせあすな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-92cd900300546f99",
+      "title": "角楯カリン",
+      "body": "角楯カリン",
+      "reading": "かくだてかりん",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-22a6ac5387ecf27",
+      "title": "室笠アカネ",
+      "body": "室笠アカネ",
+      "reading": "むろかさあかね",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-5f9ed69994f8a07c",
+      "title": "飛鳥馬トキ",
+      "body": "飛鳥馬トキ",
+      "reading": "あすまとき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-fbec2d86564b0e5",
+      "title": "天童アリス",
+      "body": "天童アリス",
+      "reading": "てんどうありす",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-1c497f898ce00b88",
+      "title": "才羽モモイ",
+      "body": "才羽モモイ",
+      "reading": "さいばももい",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-9b0c293d7ebad49f",
+      "title": "才羽ミドリ",
+      "body": "才羽ミドリ",
+      "reading": "さいばみどり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-3700ea9edd43208d",
+      "title": "花岡ユズ",
+      "body": "花岡ユズ",
+      "reading": "はなおかゆず",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-9bd365155bba0caa",
+      "title": "明星ヒマリ",
+      "body": "明星ヒマリ",
+      "reading": "あけぼしひまり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b1af7adab4676310",
+      "title": "和泉元エイミ",
+      "body": "和泉元エイミ",
+      "reading": "いずみもとえいみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-9d4736f59e37f08b",
+      "title": "天童ケイ",
+      "body": "天童ケイ",
+      "reading": "てんどうけい",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-f79a2f3c6cc990c1",
+      "title": "乙花スミレ",
+      "body": "乙花スミレ",
+      "reading": "おとはなすみれ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e3ca65aeec0781cc",
+      "title": "野正レイ",
+      "body": "野正レイ",
+      "reading": "のまされい",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7fee9a43c32807e3",
+      "title": "竜華キサキ",
+      "body": "竜華キサキ",
+      "reading": "りゅうげきさき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-ee03f168ff557934",
+      "title": "近衛ミナ",
+      "body": "近衛ミナ",
+      "reading": "このえみな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-4eaf7f30010b6343",
+      "title": "宮内カナエ",
+      "body": "宮内カナエ",
+      "reading": "みやうちかなえ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-30d5f2f483a758b0",
+      "title": "春原シュン",
+      "body": "春原シュン",
+      "reading": "すのはらしゅん",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a21aa18efcd31fe2",
+      "title": "春原ココナ",
+      "body": "春原ココナ",
+      "reading": "すのはらここな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-407adcbcb23e03eb",
+      "title": "薬子サヤ",
+      "body": "薬子サヤ",
+      "reading": "やくしさや",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a20c03f8df9fe856",
+      "title": "朱城ルミ",
+      "body": "朱城ルミ",
+      "reading": "あけしろるみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-cabae8ed8491652a",
+      "title": "鹿山レイジョ",
+      "body": "鹿山レイジョ",
+      "reading": "かやまれいじょ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-130c3c96646a63b6",
+      "title": "漆原カグヤ",
+      "body": "漆原カグヤ",
+      "reading": "うるしばらかぐや",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7b94f348540491d1",
+      "title": "天地ニヤ",
+      "body": "天地ニヤ",
+      "reading": "あまちにや",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2d2e55dd4220902e",
+      "title": "桑上カホ",
+      "body": "桑上カホ",
+      "reading": "くわかみかほ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-acb380de5d06ef83",
+      "title": "和楽チセ",
+      "body": "和楽チセ",
+      "reading": "わらくちせ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e355d8004e34f79b",
+      "title": "御稜ナグサ",
+      "body": "御稜ナグサ",
+      "reading": "ごりょうなぐさ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-ad1e0b0dc535e953",
+      "title": "勘解由小路ユカリ",
+      "body": "勘解由小路ユカリ",
+      "reading": "かでのこうじゆかり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-1ceb2b84c685e299",
+      "title": "不破レンゲ",
+      "body": "不破レンゲ",
+      "reading": "ふわれんげ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7adeb858cae748ec",
+      "title": "桐生キキョウ",
+      "body": "桐生キキョウ",
+      "reading": "きりゅうききょう",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-522ad009143befe6",
+      "title": "河和シズコ",
+      "body": "河和シズコ",
+      "reading": "かわわしずこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-d9b2c2e7c5af1714",
+      "title": "朝比奈フィーナ",
+      "body": "朝比奈フィーナ",
+      "reading": "あさひなふぃーな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2bdc354a70710b0c",
+      "title": "里浜ウミカ",
+      "body": "里浜ウミカ",
+      "reading": "さとはまうみか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-8829e18d8b99e1ac",
+      "title": "春日ツバキ",
+      "body": "春日ツバキ",
+      "reading": "かすがつばき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-edc0324d74af3aee",
+      "title": "水羽ミモリ",
+      "body": "水羽ミモリ",
+      "reading": "みずはみもり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-5017a9117e27d41d",
+      "title": "勇美カエデ",
+      "body": "勇美カエデ",
+      "reading": "いさみかえで",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-dfefee6351814466",
+      "title": "千鳥ミチル",
+      "body": "千鳥ミチル",
+      "reading": "ちどりみちる",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-f7836b34f9f673c6",
+      "title": "久田イズナ",
+      "body": "久田イズナ",
+      "reading": "くだいずな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-dfc21688ba6e7f85",
+      "title": "大野ツクヨ",
+      "body": "大野ツクヨ",
+      "reading": "おおのつくよ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-289852723e0e9188",
+      "title": "狐坂ワカモ",
+      "body": "狐坂ワカモ",
+      "reading": "こさかわかも",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e096c009580eff97",
+      "title": "連河チェリノ",
+      "body": "連河チェリノ",
+      "reading": "れんかわちぇりの",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-10a0afa7d4494bc1",
+      "title": "佐城トモエ",
+      "body": "佐城トモエ",
+      "reading": "さしろともえ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-6772c622c01aea84",
+      "title": "池倉マリナ",
+      "body": "池倉マリナ",
+      "reading": "いけくらまりな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e75f1a5da0ea6d7b",
+      "title": "天見ノドカ",
+      "body": "天見ノドカ",
+      "reading": "あまみのどか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-b9d73f9ca021b738",
+      "title": "間宵シグレ",
+      "body": "間宵シグレ",
+      "reading": "まよいしぐれ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-93307274eb0f69b0",
+      "title": "姫木メル",
+      "body": "姫木メル",
+      "reading": "ひめきめる",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-40d9d7fa5109f000",
+      "title": "秋泉モミジ",
+      "body": "秋泉モミジ",
+      "reading": "あきいずみもみじ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e246598cca1f696d",
+      "title": "安守ミノリ",
+      "body": "安守ミノリ",
+      "reading": "やすもりみのり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-7cd91f430fbf2cbf",
+      "title": "尾刃カンナ",
+      "body": "尾刃カンナ",
+      "reading": "おがたかんな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-a5a4dae1fb5ad63a",
+      "title": "志真コノカ",
+      "body": "志真コノカ",
+      "reading": "しまこのか",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-f881965b9e776691",
+      "title": "中務キリノ",
+      "body": "中務キリノ",
+      "reading": "なかつかさきりの",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-191c60f6016742af",
+      "title": "合歓垣フブキ",
+      "body": "合歓垣フブキ",
+      "reading": "ねむがきふぶき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-4f84b6e2b36bfcd0",
+      "title": "月雪ミヤコ",
+      "body": "月雪ミヤコ",
+      "reading": "つきゆきみやこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-3908b059fea174d2",
+      "title": "空井サキ",
+      "body": "空井サキ",
+      "reading": "そらいさき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-c2b186f34e767539",
+      "title": "風倉モエ",
+      "body": "風倉モエ",
+      "reading": "かぜくらもえ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-3738e5e62afd0585",
+      "title": "霞沢ミユ",
+      "body": "霞沢ミユ",
+      "reading": "かすみざわみゆ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-d3793dcd78222134",
+      "title": "錠前サオリ",
+      "body": "錠前サオリ",
+      "reading": "じょうまえさおり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-129a087ee033909e",
+      "title": "槌永ヒヨリ",
+      "body": "槌永ヒヨリ",
+      "reading": "つちながひより",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-71afc8f325736c06",
+      "title": "戒野ミサキ",
+      "body": "戒野ミサキ",
+      "reading": "いましのみさき",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-2124c74e024bd2a6",
+      "title": "秤アツコ",
+      "body": "秤アツコ",
+      "reading": "はかりあつこ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-9cbd85a7e705f9ce",
+      "title": "橘ヒカリ",
+      "body": "橘ヒカリ",
+      "reading": "たちばなひかり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-46badfb82d6c454",
+      "title": "橘ノゾミ",
+      "body": "橘ノゾミ",
+      "reading": "たちばなのぞみ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-98e18b0c29428973",
+      "title": "内海アオバ",
+      "body": "内海アオバ",
+      "reading": "うつみあおば",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-653da752ef604b38",
+      "title": "白尾エリ",
+      "body": "白尾エリ",
+      "reading": "しらおえり",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-c4a786cb3e1ecc5a",
+      "title": "椎名ツムギ",
+      "body": "椎名ツムギ",
+      "reading": "しいなつむぎ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-e5edcdc43363af98",
+      "title": "板垣カノエ",
+      "body": "板垣カノエ",
+      "reading": "いたがきかのえ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-79138efbd1bd9967",
+      "title": "衣斐レナ",
+      "body": "衣斐レナ",
+      "reading": "きぬいれな",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-1cfa3e01b8c30d8a",
+      "title": "桜井ミヨ",
+      "body": "桜井ミヨ",
+      "reading": "さくらいみよ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-85755032d6c66293",
+      "title": "若狭フユ",
+      "body": "若狭フユ",
+      "reading": "わかさふゆ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-48623fd865c08803",
+      "title": "薄葉リツ",
+      "body": "薄葉リツ",
+      "reading": "うすばりつ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-bc94b9ef98ecbd2d",
+      "title": "渡海ココロ",
+      "body": "渡海ココロ",
+      "reading": "とうみこころ",
+      "category": "ブルーアーカイブ"
+    },
+    {
+      "id": "w-dd66de013cf45556",
+      "title": "淵上コトネ",
+      "body": "淵上コトネ",
+      "reading": "ふちがみことね",
+      "category": "ブルーアーカイブ"
+    }
+  ]
+}

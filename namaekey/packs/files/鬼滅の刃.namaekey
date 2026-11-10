@@ -1,0 +1,352 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "be59e5bdf3f57806",
+  "name": "鬼滅の刃",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-c1876f643897aecf",
+      "title": "竈門炭治郎",
+      "body": "竈門炭治郎",
+      "reading": "かまどたんじろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-9663f5ada1c2cc72",
+      "title": "竈門禰豆子",
+      "body": "竈門禰豆子",
+      "reading": "かまどねずこ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-6a234c11c0429db2",
+      "title": "我妻善逸",
+      "body": "我妻善逸",
+      "reading": "あがつまぜんいつ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-8ccdcc1196a57c59",
+      "title": "嘴平伊之助",
+      "body": "嘴平伊之助",
+      "reading": "はしびらいのすけ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-961dbae42957fc92",
+      "title": "栗花落カナヲ",
+      "body": "栗花落カナヲ",
+      "reading": "つゆりかなお",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-fa1ada230ab0bf70",
+      "title": "不死川玄弥",
+      "body": "不死川玄弥",
+      "reading": "しなずがわげんや",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-949e9f8d1aa631",
+      "title": "冨岡義勇",
+      "body": "冨岡義勇",
+      "reading": "とみおかぎゆう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-45189aa15cfd1563",
+      "title": "胡蝶しのぶ",
+      "body": "胡蝶しのぶ",
+      "reading": "こちょうしのぶ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-24ee76641c89a463",
+      "title": "煉獄杏寿郎",
+      "body": "煉獄杏寿郎",
+      "reading": "れんごくきょうじゅろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-a4b38f351de6acb6",
+      "title": "宇髄天元",
+      "body": "宇髄天元",
+      "reading": "うずいてんげん",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-5f8b5b5897273a9c",
+      "title": "時透無一郎",
+      "body": "時透無一郎",
+      "reading": "ときとうむいちろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-9ef2aa1443195c99",
+      "title": "甘露寺蜜璃",
+      "body": "甘露寺蜜璃",
+      "reading": "かんろじみつり",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-985aaca51d31f0c0",
+      "title": "伊黒小芭内",
+      "body": "伊黒小芭内",
+      "reading": "いぐろおばない",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-383dd5122d7da8a1",
+      "title": "不死川実弥",
+      "body": "不死川実弥",
+      "reading": "しなずがわさねみ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-70a8c6ec40e53f39",
+      "title": "悲鳴嶼行冥",
+      "body": "悲鳴嶼行冥",
+      "reading": "ひめじまぎょうめい",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-5a4b83cec28a257",
+      "title": "胡蝶カナエ",
+      "body": "胡蝶カナエ",
+      "reading": "こちょうかなえ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-d0f03535c49250ab",
+      "title": "産屋敷耀哉",
+      "body": "産屋敷耀哉",
+      "reading": "うぶやしきかがや",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-1b890a85315fdfc",
+      "title": "産屋敷輝利哉",
+      "body": "産屋敷輝利哉",
+      "reading": "うぶやしききりや",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-fd8485d8f0456937",
+      "title": "神崎アオイ",
+      "body": "神崎アオイ",
+      "reading": "かんざきあおい",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-fec17cdc33c5976d",
+      "title": "鱗滝左近次",
+      "body": "鱗滝左近次",
+      "reading": "うろこだきさこんじ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-e55794970aa3d2db",
+      "title": "桑島慈悟郎",
+      "body": "桑島慈悟郎",
+      "reading": "くわじまじごろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-b3bafff8adcd38e5",
+      "title": "煉獄槇寿郎",
+      "body": "煉獄槇寿郎",
+      "reading": "れんごくしんじゅろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-cb9c63fc6cbfcde9",
+      "title": "鋼鐵塚蛍",
+      "body": "鋼鐵塚蛍",
+      "reading": "はがねづかほたる",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-694cd7dfcefeab33",
+      "title": "継国縁壱",
+      "body": "継国縁壱",
+      "reading": "つぎくによりいち",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-13ad3224bbc5a051",
+      "title": "継国巌勝",
+      "body": "継国巌勝",
+      "reading": "つぎくにみちかつ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-5bf4473de92d163f",
+      "title": "竈門炭十郎",
+      "body": "竈門炭十郎",
+      "reading": "かまどたんじゅうろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-1d10dca9ff2b7222",
+      "title": "錆兎",
+      "body": "錆兎",
+      "reading": "さびと",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-586c9032fc1c169e",
+      "title": "真菰",
+      "body": "真菰",
+      "reading": "まこも",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-f42af2057106abc2",
+      "title": "鬼舞辻無惨",
+      "body": "鬼舞辻無惨",
+      "reading": "きぶつじむざん",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-235237a296c666ee",
+      "title": "黒死牟",
+      "body": "黒死牟",
+      "reading": "こくしぼう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-537d83ddea7c1838",
+      "title": "童磨",
+      "body": "童磨",
+      "reading": "どうま",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-6e040381aecc5937",
+      "title": "猗窩座",
+      "body": "猗窩座",
+      "reading": "あかざ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-1edccf79ab73d5f8",
+      "title": "半天狗",
+      "body": "半天狗",
+      "reading": "はんてんぐ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-31db09eb4c17295b",
+      "title": "玉壺",
+      "body": "玉壺",
+      "reading": "ぎょっこ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-de204ae6b57faa50",
+      "title": "堕姫",
+      "body": "堕姫",
+      "reading": "だき",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-5712164b2a665f52",
+      "title": "妓夫太郎",
+      "body": "妓夫太郎",
+      "reading": "ぎゅうたろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-425bd05af3addb02",
+      "title": "鳴女",
+      "body": "鳴女",
+      "reading": "なきめ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-f622d452206d9c8b",
+      "title": "獪岳",
+      "body": "獪岳",
+      "reading": "かいがく",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-27462c1b6caa6cdb",
+      "title": "累",
+      "body": "累",
+      "reading": "るい",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-10c1cee6c06494a6",
+      "title": "魘夢",
+      "body": "魘夢",
+      "reading": "えんむ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-783cd56bedea0a79",
+      "title": "轆轤",
+      "body": "轆轤",
+      "reading": "ろくろ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-8a7b1b0fb217f74c",
+      "title": "病葉",
+      "body": "病葉",
+      "reading": "わくらば",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-91d5089396bbf1ed",
+      "title": "零余子",
+      "body": "零余子",
+      "reading": "むかご",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-205d3a52bcdd153d",
+      "title": "釜鵺",
+      "body": "釜鵺",
+      "reading": "かまぬえ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-d689a93f4354b359",
+      "title": "珠世",
+      "body": "珠世",
+      "reading": "たまよ",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-4e547df84f0f2d81",
+      "title": "愈史郎",
+      "body": "愈史郎",
+      "reading": "ゆしろう",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-d6fcf05ef25920ea",
+      "title": "朱紗丸",
+      "body": "朱紗丸",
+      "reading": "すさまる",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-1064ac531d26baf6",
+      "title": "矢琶羽",
+      "body": "矢琶羽",
+      "reading": "やはば",
+      "category": "鬼滅の刃"
+    },
+    {
+      "id": "w-bab855ed1c7c117d",
+      "title": "響凱",
+      "body": "響凱",
+      "reading": "きょうがい",
+      "category": "鬼滅の刃"
+    }
+  ]
+}
