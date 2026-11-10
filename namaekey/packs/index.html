@@ -15,7 +15,8 @@
   h1 { font-size:1.4rem; margin:0 0 4px; color:var(--accent); }
   .sub { color:var(--sub); font-size:.9rem; margin:4px 0; }
   a { color:var(--accent); }
-  ul { list-style:none; padding:0; margin:20px 0; display:grid; gap:10px; }
+  h2 { font-size:1rem; margin:26px 0 0; padding-bottom:4px; border-bottom:1px solid var(--line); }
+  ul { list-style:none; padding:0; margin:10px 0 0; display:grid; gap:10px; }
   li { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 14px;
        display:flex; align-items:center; gap:12px; }
   .info { flex:1; min-width:0; }
@@ -31,15 +32,22 @@
   <h1>パック一覧</h1>
   <p class="sub">名前キー — キャラクターの名前を一発変換</p>
   <p class="steps">「ダウンロード」を押したあと、ファイルを開いて「名前キー」を選ぶと、取り込めます。</p>
-  <ul id="list"></ul>
+  <div id="list"></div>
   <p id="empty" class="sub" hidden>準備中です。</p>
   <p class="sub"><a href="../maker/">ブラウザでパックを作る</a> ・ <a href="../support/">サポート</a></p>
 </main>
 <script>
 fetch("packs.json", { cache: "no-cache" }).then(r => r.json()).then(items => {
-  const ul = document.getElementById("list");
+  const root = document.getElementById("list");
   if (!items.length) { document.getElementById("empty").hidden = false; return; }
+  let ul = null, last = null;
   for (const p of items) {
+    if (p.genre !== last) {
+      last = p.genre;
+      const h = document.createElement("h2"); h.textContent = p.genre;
+      ul = document.createElement("ul");
+      root.append(h, ul);
+    }
     const li = document.createElement("li");
     const info = document.createElement("div"); info.className = "info";
     const n = document.createElement("div"); n.className = "name"; n.textContent = p.name;
