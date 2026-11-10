@@ -55,7 +55,7 @@ fetch("packs.json", { cache: "no-cache" }).then(r => r.json()).then(items => {
     d.textContent = p.count + "件" + (p.description ? " ・ " + p.description : "");
     info.append(n, d);
     const a = document.createElement("a"); a.className = "btn"; a.textContent = "ダウンロード";
-    a.href = "files/" + encodeURIComponent(p.file); a.setAttribute("download", p.file);
+    a.href = p.file; a.setAttribute("download", p.filename);
     li.append(info, a); ul.append(li);
   }
 }).catch(() => { document.getElementById("empty").hidden = false; });
