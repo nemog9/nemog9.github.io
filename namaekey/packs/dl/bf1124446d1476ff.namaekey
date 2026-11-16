@@ -1,0 +1,58 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "bf1124446d1476ff",
+  "name": "薫る花は凛と咲く",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-7204a3421a1a3972",
+      "title": "紬凛太郎",
+      "body": "紬凛太郎",
+      "reading": "つむぎりんたろう",
+      "category": "薫る花は凛と咲く"
+    },
+    {
+      "id": "w-25e2f4dce3a293b2",
+      "title": "和栗薫子",
+      "body": "和栗薫子",
+      "reading": "わぐりかおるこ",
+      "category": "薫る花は凛と咲く"
+    },
+    {
+      "id": "w-cf43780123acab7c",
+      "title": "宇佐美翔平",
+      "body": "宇佐美翔平",
+      "reading": "うさみしょうへい",
+      "category": "薫る花は凛と咲く"
+    },
+    {
+      "id": "w-705d80dc234b7f29",
+      "title": "夏沢朔",
+      "body": "夏沢朔",
+      "reading": "なつさわさく",
+      "category": "薫る花は凛と咲く"
+    },
+    {
+      "id": "w-65cb60e502e3c8b8",
+      "title": "依田絢斗",
+      "body": "依田絢斗",
+      "reading": "よりたあやと",
+      "category": "薫る花は凛と咲く"
+    },
+    {
+      "id": "w-d6516a3bda84d1a6",
+      "title": "保科昴",
+      "body": "保科昴",
+      "reading": "ほしなすばる",
+      "category": "薫る花は凛と咲く"
+    },
+    {
+      "id": "w-ac8e650cea372f02",
+      "title": "紬杏子",
+      "body": "紬杏子",
+      "reading": "つむぎきょうこ",
+      "category": "薫る花は凛と咲く"
+    }
+  ]
+}

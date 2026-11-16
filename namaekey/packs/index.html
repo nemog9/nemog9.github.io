@@ -45,12 +45,7 @@ fetch("packs.json", { cache: "no-cache" }).then(r => r.json()).then(items => {
   document.getElementById("all").hidden = false;
   let ul = null, last = null;
   for (const p of items) {
-    if (p.genre !== last) {
-      last = p.genre;
-      const h = document.createElement("h2"); h.textContent = p.genre;
-      ul = document.createElement("ul");
-      root.append(h, ul);
-    }
+    if (!ul) { ul = document.createElement("ul"); root.append(ul); }
     const li = document.createElement("li");
     const info = document.createElement("div"); info.className = "info";
     const n = document.createElement("div"); n.className = "name"; n.textContent = p.name;

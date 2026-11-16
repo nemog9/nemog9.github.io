@@ -1,0 +1,163 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "5cadaec596c92b29",
+  "name": "ななしいんく",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-bc29507d90907992",
+      "title": "因幡はねる",
+      "body": "因幡はねる",
+      "reading": "いなばはねる",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-47ca9986d64e35e4",
+      "title": "宗谷いちか",
+      "body": "宗谷いちか",
+      "reading": "そうやいちか",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-6ab81c59c562598e",
+      "title": "日ノ隈らん",
+      "body": "日ノ隈らん",
+      "reading": "ひのくまらん",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-1db3c80481a8ee8",
+      "title": "柚原いづみ",
+      "body": "柚原いづみ",
+      "reading": "ゆはらいづみ",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-f84834297307ccec",
+      "title": "季咲あんこ",
+      "body": "季咲あんこ",
+      "reading": "きさきあんこ",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-9b5c5bd404eaa631",
+      "title": "堰代ミコ",
+      "body": "堰代ミコ",
+      "reading": "せきしろみこ",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-ab02ba38df4fd442",
+      "title": "飛良ひかり",
+      "body": "飛良ひかり",
+      "reading": "ひらひかり",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-feafac6f9c3cb4c4",
+      "title": "湖南みあ",
+      "body": "湖南みあ",
+      "reading": "こなんみあ",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-e03e7de59de02c76",
+      "title": "雪城眞尋",
+      "body": "雪城眞尋",
+      "reading": "ゆきしろまひろ",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-91472567d88900bc",
+      "title": "周防パトラ",
+      "body": "周防パトラ",
+      "reading": "すおうぱとら",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-7ac5b1f597829b91",
+      "title": "島村シャルロット",
+      "body": "島村シャルロット",
+      "reading": "しまむらしゃるろっと",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-632fd686da7007d7",
+      "title": "紫水キキ",
+      "body": "紫水キキ",
+      "reading": "しすいきき",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-8a239aa238400e44",
+      "title": "西園寺メアリ",
+      "body": "西園寺メアリ",
+      "reading": "さいおんじめあり",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-ae6a85ab41046ee0",
+      "title": "涼海ネモ",
+      "body": "涼海ネモ",
+      "reading": "すずみねも",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-b9120cf87db273af",
+      "title": "茜音カンナ",
+      "body": "茜音カンナ",
+      "reading": "あかねかんな",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-55a4add5498ace93",
+      "title": "緑青くれは",
+      "body": "緑青くれは",
+      "reading": "ろくしょうくれは",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-357dc6d90304557b",
+      "title": "風見くく",
+      "body": "風見くく",
+      "reading": "かざみくく",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-acaef525e2f4771f",
+      "title": "龍ヶ崎リン",
+      "body": "龍ヶ崎リン",
+      "reading": "りゅうがさきりん",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-d7185893d9ab2502",
+      "title": "大浦るかこ",
+      "body": "大浦るかこ",
+      "reading": "おおうらるかこ",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-dd29335baf591f70",
+      "title": "若魔藤あんず",
+      "body": "若魔藤あんず",
+      "reading": "わかまとうあんず",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-69f0a8b1992bdfee",
+      "title": "若魔白ソーダ",
+      "body": "若魔白ソーダ",
+      "reading": "わかましろそーだ",
+      "category": "ななしいんく"
+    },
+    {
+      "id": "w-248a0bfc0ce5fb0d",
+      "title": "若魔雲ふわり",
+      "body": "若魔雲ふわり",
+      "reading": "わかまくもふわり",
+      "category": "ななしいんく"
+    }
+  ]
+}

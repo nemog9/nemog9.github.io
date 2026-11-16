@@ -1,0 +1,240 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "91e7fa32cd66113f",
+  "name": "スラムダンク",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-d74bed61f843e01e",
+      "title": "桜木花道",
+      "body": "桜木花道",
+      "reading": "さくらぎはなみち",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-4770fe3b98adeb98",
+      "title": "流川楓",
+      "body": "流川楓",
+      "reading": "るかわかえで",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-9a02d30189e040cf",
+      "title": "赤木剛憲",
+      "body": "赤木剛憲",
+      "reading": "あかぎたけのり",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-8c61772518ca742d",
+      "title": "宮城リョータ",
+      "body": "宮城リョータ",
+      "reading": "みやぎりょーた",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-6543dda49376656e",
+      "title": "三井寿",
+      "body": "三井寿",
+      "reading": "みついひさし",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-bfc561e1dad4fef0",
+      "title": "仙道彰",
+      "body": "仙道彰",
+      "reading": "せんどうあきら",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-97e689f6a987d492",
+      "title": "牧紳一",
+      "body": "牧紳一",
+      "reading": "まきしんいち",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-1cd1a97f9785feef",
+      "title": "藤真健司",
+      "body": "藤真健司",
+      "reading": "ふじまけんじ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-28249aaefd4b2020",
+      "title": "花形透",
+      "body": "花形透",
+      "reading": "はながたとおる",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-45f4d20fca785f66",
+      "title": "魚住純",
+      "body": "魚住純",
+      "reading": "うおずみじゅん",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-d798c67142e4cd8a",
+      "title": "福田吉兆",
+      "body": "福田吉兆",
+      "reading": "ふくだきっちょう",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-1e58194900d08f81",
+      "title": "木暮公延",
+      "body": "木暮公延",
+      "reading": "こぐれきみのぶ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-30ab1d4bd0738518",
+      "title": "安西光義",
+      "body": "安西光義",
+      "reading": "あんざいみつよし",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-3bed9632b2d0c500",
+      "title": "彩子",
+      "body": "彩子",
+      "reading": "あやこ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-9e92c3f0c8e38af",
+      "title": "赤木晴子",
+      "body": "赤木晴子",
+      "reading": "あかぎはるこ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-364bce3793f47443",
+      "title": "水戸洋平",
+      "body": "水戸洋平",
+      "reading": "みとようへい",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-83ff2a1a99b5d3c9",
+      "title": "高宮望",
+      "body": "高宮望",
+      "reading": "たかみやのぞみ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-76a21f8161bb26de",
+      "title": "大楠雄二",
+      "body": "大楠雄二",
+      "reading": "おおくすゆうじ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-2d19a83ffac6725f",
+      "title": "野間忠一郎",
+      "body": "野間忠一郎",
+      "reading": "のまちゅういちろう",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-697b41032ba2298a",
+      "title": "相田彦一",
+      "body": "相田彦一",
+      "reading": "あいだひこいち",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-343e8e8dfcc9914e",
+      "title": "田岡茂一",
+      "body": "田岡茂一",
+      "reading": "たおかもいち",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-d5df50e992f64a5b",
+      "title": "高頭力",
+      "body": "高頭力",
+      "reading": "たかとうりき",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-ccaaf98aeb1dd664",
+      "title": "清田信長",
+      "body": "清田信長",
+      "reading": "きよたのぶなが",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-27627e329195035",
+      "title": "神宗一郎",
+      "body": "神宗一郎",
+      "reading": "じんそういちろう",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-75faef47db251f81",
+      "title": "武藤正",
+      "body": "武藤正",
+      "reading": "むとうただし",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-7b97c0a493b05f4e",
+      "title": "南烈",
+      "body": "南烈",
+      "reading": "みなみれつ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-2fa0500c5d4fa6eb",
+      "title": "岸本実理",
+      "body": "岸本実理",
+      "reading": "きしもとみのり",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-c93b637210c70bee",
+      "title": "沢北栄治",
+      "body": "沢北栄治",
+      "reading": "さわきたえいじ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-b23f192e93f4327c",
+      "title": "深津一成",
+      "body": "深津一成",
+      "reading": "ふかつかずなり",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-6a3029b1a4a3974c",
+      "title": "河田雅史",
+      "body": "河田雅史",
+      "reading": "かわたまさし",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-13f6b79244d5e4a4",
+      "title": "野辺将広",
+      "body": "野辺将広",
+      "reading": "のべまさひろ",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-25346fb75c33d311",
+      "title": "松本稔",
+      "body": "松本稔",
+      "reading": "まつもとみのる",
+      "category": "スラムダンク"
+    },
+    {
+      "id": "w-2d65d91e4e0672d3",
+      "title": "一之倉聡",
+      "body": "一之倉聡",
+      "reading": "いちのくらさとし",
+      "category": "スラムダンク"
+    }
+  ]
+}

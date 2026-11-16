@@ -1,0 +1,107 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "a516fa196e3303fb",
+  "name": "ホリミヤ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-b5742259e5567060",
+      "title": "堀京子",
+      "body": "堀京子",
+      "reading": "ほりきょうこ",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-7b48a3c4d29bfdea",
+      "title": "宮村伊澄",
+      "body": "宮村伊澄",
+      "reading": "みやむらいずみ",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-b5f067a5a1106913",
+      "title": "石川透",
+      "body": "石川透",
+      "reading": "いしかわとおる",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-dad2d8a0b75873f5",
+      "title": "吉川由紀",
+      "body": "吉川由紀",
+      "reading": "よしかわゆき",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-c25d3cd3945e32c8",
+      "title": "仙石翔",
+      "body": "仙石翔",
+      "reading": "せんごくかける",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-d880b1196b59a52a",
+      "title": "綾崎レミ",
+      "body": "綾崎レミ",
+      "reading": "あやさきれみ",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-d0a9d3f7195226ef",
+      "title": "河野桜",
+      "body": "河野桜",
+      "reading": "こうのさくら",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-59ee5acb8da8c3f7",
+      "title": "井浦秀",
+      "body": "井浦秀",
+      "reading": "いうらしゅう",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-9d37a4cc53683f02",
+      "title": "柳明音",
+      "body": "柳明音",
+      "reading": "やなぎあかね",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-c4dd522174b154e7",
+      "title": "進藤晃一",
+      "body": "進藤晃一",
+      "reading": "しんどうこういち",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-2a322ba251c50e2f",
+      "title": "谷原マキオ",
+      "body": "谷原マキオ",
+      "reading": "たにはらまきお",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-d953e74ea484abdc",
+      "title": "沢田ほのか",
+      "body": "沢田ほのか",
+      "reading": "さわだほのか",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-fc66808f9f6fdc22",
+      "title": "堀創太",
+      "body": "堀創太",
+      "reading": "ほりそうた",
+      "category": "ホリミヤ"
+    },
+    {
+      "id": "w-aa833459de7fa8d8",
+      "title": "堀京介",
+      "body": "堀京介",
+      "reading": "ほりきょうすけ",
+      "category": "ホリミヤ"
+    }
+  ]
+}

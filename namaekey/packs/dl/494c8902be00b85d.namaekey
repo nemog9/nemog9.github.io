@@ -1,0 +1,37 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "494c8902be00b85d",
+  "name": "ピースアパート",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-fc4901a905265c47",
+      "title": "紺野和泉",
+      "body": "紺野和泉",
+      "reading": "こんのいずみ",
+      "category": "ピースアパート"
+    },
+    {
+      "id": "w-98fd6cb57d410278",
+      "title": "高生紳士",
+      "body": "高生紳士",
+      "reading": "たかおしんじ",
+      "category": "ピースアパート"
+    },
+    {
+      "id": "w-e9a7b9ed5b46a19e",
+      "title": "彩音れおん",
+      "body": "彩音れおん",
+      "reading": "あやねれおん",
+      "category": "ピースアパート"
+    },
+    {
+      "id": "w-f5e93ec645a99f36",
+      "title": "小日向りゅーじ",
+      "body": "小日向りゅーじ",
+      "reading": "こひなたりゅーじ",
+      "category": "ピースアパート"
+    }
+  ]
+}

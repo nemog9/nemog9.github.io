@@ -1,0 +1,79 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "b03305720e29ba86",
+  "name": "のりプロ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-8a1d0be4d945ceab",
+      "title": "犬山たまき",
+      "body": "犬山たまき",
+      "reading": "いぬやまたまき",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-7ec0e9a9728b4f15",
+      "title": "熊谷タクマ",
+      "body": "熊谷タクマ",
+      "reading": "くまがいたくま",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-33f1b2e9f0278e9d",
+      "title": "稲荷いろは",
+      "body": "稲荷いろは",
+      "reading": "いなりいろは",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-931fb11603a91ad2",
+      "title": "瀬兎一也",
+      "body": "瀬兎一也",
+      "reading": "せといちや",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-fbaa4340d35f9329",
+      "title": "斎木こまり",
+      "body": "斎木こまり",
+      "reading": "さいきこまり",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-6cf6242f3b65529c",
+      "title": "梟雄しろや",
+      "body": "梟雄しろや",
+      "reading": "きょうゆうしろや",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-b7b826b220a4bb39",
+      "title": "雪ノ精くもち",
+      "body": "雪ノ精くもち",
+      "reading": "ゆきのせいくもち",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-730a1b5ef370588a",
+      "title": "鷲羽アスカ",
+      "body": "鷲羽アスカ",
+      "reading": "わしゅうあすか",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-b96d6052fd6066a6",
+      "title": "鬼灯わらべ",
+      "body": "鬼灯わらべ",
+      "reading": "ほおずきわらべ",
+      "category": "のりプロ"
+    },
+    {
+      "id": "w-c0550a9028f58c56",
+      "title": "レグルシュ・ライオンハート",
+      "body": "レグルシュ・ライオンハート",
+      "reading": "れぐるしゅらいおんはーと",
+      "category": "のりプロ"
+    }
+  ]
+}

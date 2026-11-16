@@ -1,0 +1,79 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "d1e12319f55af7bb",
+  "name": "深層組",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-e683c695859f57a4",
+      "title": "DeepWebUnderground",
+      "body": "DeepWebUnderground",
+      "reading": "でぃーぷうぇぶあんだーぐらうんど",
+      "category": "深層組"
+    },
+    {
+      "id": "w-17b8b7aaba8115f8",
+      "title": "息根とめる",
+      "body": "息根とめる",
+      "reading": "いきのねとめる",
+      "category": "深層組"
+    },
+    {
+      "id": "w-923dcf13801338a5",
+      "title": "数打あたる",
+      "body": "数打あたる",
+      "reading": "かずうちあたる",
+      "category": "深層組"
+    },
+    {
+      "id": "w-20a9ae5417d2d7b7",
+      "title": "甘神すう",
+      "body": "甘神すう",
+      "reading": "あまがみすう",
+      "category": "深層組"
+    },
+    {
+      "id": "w-a4cbb7db537a9a81",
+      "title": "飛出ぴょこら",
+      "body": "飛出ぴょこら",
+      "reading": "とびでぴょこら",
+      "category": "深層組"
+    },
+    {
+      "id": "w-7073795fbe7a3dba",
+      "title": "社不寶アスティ",
+      "body": "社不寶アスティ",
+      "reading": "しゃふだからあすてぃ",
+      "category": "深層組"
+    },
+    {
+      "id": "w-66c3f2ec533627dd",
+      "title": "正義なぐる",
+      "body": "正義なぐる",
+      "reading": "せいぎなぐる",
+      "category": "深層組"
+    },
+    {
+      "id": "w-8bb78f59b9fc9864",
+      "title": "今宵まいる",
+      "body": "今宵まいる",
+      "reading": "こよいまいる",
+      "category": "深層組"
+    },
+    {
+      "id": "w-520bee2ab1752a0b",
+      "title": "刺杉あいす",
+      "body": "刺杉あいす",
+      "reading": "さしすぎあいす",
+      "category": "深層組"
+    },
+    {
+      "id": "w-da6db77e283d6a1e",
+      "title": "彼女なぉた",
+      "body": "彼女なぉた",
+      "reading": "かのめなおた",
+      "category": "深層組"
+    }
+  ]
+}

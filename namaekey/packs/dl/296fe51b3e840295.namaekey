@@ -1,0 +1,128 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "296fe51b3e840295",
+  "name": "薬屋のひとりごと",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-5cd6a68df42b9975",
+      "title": "猫猫",
+      "body": "猫猫",
+      "reading": "まおまお",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-8c86c184d7b0568a",
+      "title": "壬氏",
+      "body": "壬氏",
+      "reading": "じんし",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-5fed23eb66f7678b",
+      "title": "玉葉",
+      "body": "玉葉",
+      "reading": "ぎょくよう",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-7e96c56caedd15a8",
+      "title": "梨花",
+      "body": "梨花",
+      "reading": "りか",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-e40b0ad5b9e54b60",
+      "title": "里樹",
+      "body": "里樹",
+      "reading": "りーしゅ",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-a2828cdf99971a40",
+      "title": "高順",
+      "body": "高順",
+      "reading": "がおしゅん",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-9e478e9ffcb6281d",
+      "title": "羅漢",
+      "body": "羅漢",
+      "reading": "らかん",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-de62fa03ba6802c",
+      "title": "羅門",
+      "body": "羅門",
+      "reading": "らもん",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-45eefafebcbaacb9",
+      "title": "李白",
+      "body": "李白",
+      "reading": "りはく",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-3db02bab3d14996c",
+      "title": "陸孫",
+      "body": "陸孫",
+      "reading": "りくそん",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-6400a494b2f7c16e",
+      "title": "馬閃",
+      "body": "馬閃",
+      "reading": "ばせん",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-241507d835beb2c1",
+      "title": "子翠",
+      "body": "子翠",
+      "reading": "しすい",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-cf2ebdf29cfbe2c9",
+      "title": "翠苓",
+      "body": "翠苓",
+      "reading": "すいれい",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-db8420373a3fa24f",
+      "title": "楼蘭",
+      "body": "楼蘭",
+      "reading": "ろうらん",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-c6370a7108a80867",
+      "title": "白鈴",
+      "body": "白鈴",
+      "reading": "ぱいりん",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-6cd630371fd3e7c3",
+      "title": "梅梅",
+      "body": "梅梅",
+      "reading": "めいめい",
+      "category": "薬屋のひとりごと"
+    },
+    {
+      "id": "w-376101cc7a8d29ba",
+      "title": "女華",
+      "body": "女華",
+      "reading": "じょか",
+      "category": "薬屋のひとりごと"
+    }
+  ]
+}

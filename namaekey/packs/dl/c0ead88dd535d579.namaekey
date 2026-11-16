@@ -1,0 +1,317 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "c0ead88dd535d579",
+  "name": "個人VTuber",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-75a0b4bb1a686699",
+      "title": "神楽めあ",
+      "body": "神楽めあ",
+      "reading": "かぐらめあ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-faae6396db095550",
+      "title": "名取さな",
+      "body": "名取さな",
+      "reading": "なとりさな",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-a7d0d6c47cb9eeaf",
+      "title": "天開司",
+      "body": "天開司",
+      "reading": "てんかいつかさ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-167dfe2bd106a062",
+      "title": "歌衣メイカ",
+      "body": "歌衣メイカ",
+      "reading": "うたいめいか",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-8a1d0be4d945ceab",
+      "title": "犬山たまき",
+      "body": "犬山たまき",
+      "reading": "いぬやまたまき",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-4b6c13e15fcb9bb4",
+      "title": "甲賀流忍者ぽんぽこ",
+      "body": "甲賀流忍者ぽんぽこ",
+      "reading": "こうがりゅうにんじゃぽんぽこ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-5b22f148ec24b16b",
+      "title": "兎鞠まり",
+      "body": "兎鞠まり",
+      "reading": "とまりまり",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-923e4cabbed193d4",
+      "title": "朝ノ瑠璃",
+      "body": "朝ノ瑠璃",
+      "reading": "あさのるり",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-4357eb901a204172",
+      "title": "朝ノ茜",
+      "body": "朝ノ茜",
+      "reading": "あさのあかね",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-2148324a19f6ec26",
+      "title": "届木ウカ",
+      "body": "届木ウカ",
+      "reading": "とどきうか",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-3c458b3c039003c5",
+      "title": "魔王マグロナ",
+      "body": "魔王マグロナ",
+      "reading": "まおうまぐろな",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-5604e0e1fa25eb88",
+      "title": "懲役太郎",
+      "body": "懲役太郎",
+      "reading": "ちょうえきたろう",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-29a014af33fc6b14",
+      "title": "白雪みしろ",
+      "body": "白雪みしろ",
+      "reading": "しらゆきみしろ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-bbfae94a572f9852",
+      "title": "姫咲ゆずる",
+      "body": "姫咲ゆずる",
+      "reading": "ひめさきゆずる",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-be3c1d9f973b44bc",
+      "title": "伊東ライフ",
+      "body": "伊東ライフ",
+      "reading": "いとうらいふ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-7d65b6c97c0f5cfb",
+      "title": "愛宮みるく",
+      "body": "愛宮みるく",
+      "reading": "えのみやみるく",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-2e9bbaa4969d11b0",
+      "title": "天羽しろっぷ",
+      "body": "天羽しろっぷ",
+      "reading": "あまうしろっぷ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-53a7e16ea017c6b",
+      "title": "ガッチマンV",
+      "body": "ガッチマンV",
+      "reading": "がっちまんぶい",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-57f03e6ee7d2710b",
+      "title": "猫宮ひなた",
+      "body": "猫宮ひなた",
+      "reading": "ねこみやひなた",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-e5aab89606a69642",
+      "title": "猫麦とろろ",
+      "body": "猫麦とろろ",
+      "reading": "ねこむぎとろろ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-a5801a7965e28b48",
+      "title": "隠神こかげ",
+      "body": "隠神こかげ",
+      "reading": "いぬがみこかげ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-4c8eeaefd922e4eb",
+      "title": "八尋けい",
+      "body": "八尋けい",
+      "reading": "やひろけい",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-35e22d7a24f3aa89",
+      "title": "九石たま",
+      "body": "九石たま",
+      "reading": "さざらしたま",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-649b6731055a96c",
+      "title": "鳩羽つぐ",
+      "body": "鳩羽つぐ",
+      "reading": "はとばつぐ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-36b0948c526dce60",
+      "title": "蒼月エリ",
+      "body": "蒼月エリ",
+      "reading": "あおつきえり",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-a938daafdf21d942",
+      "title": "碧依さくら",
+      "body": "碧依さくら",
+      "reading": "あおいさくら",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-4ca825f1f8e8d69a",
+      "title": "千羽黒乃",
+      "body": "千羽黒乃",
+      "reading": "せんばくろの",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-64bd79ff38ad1e87",
+      "title": "猫元パト",
+      "body": "猫元パト",
+      "reading": "ねこもとぱと",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-dadb90c8155b0f61",
+      "title": "甘城なつき",
+      "body": "甘城なつき",
+      "reading": "あましろなつき",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-fc84be3ca07545c2",
+      "title": "なちょ猫",
+      "body": "なちょ猫",
+      "reading": "なちょねこ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-773338ea4dd2f524",
+      "title": "馬車道はげみ",
+      "body": "馬車道はげみ",
+      "reading": "ばしゃみちはげみ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-3b36e2ac3560a4fb",
+      "title": "日向まる",
+      "body": "日向まる",
+      "reading": "ひなたまる",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-4dc59964b95e926c",
+      "title": "恋沼ミヤ",
+      "body": "恋沼ミヤ",
+      "reading": "こいぬまみや",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-186f3ff568a0de9d",
+      "title": "犬養",
+      "body": "犬養",
+      "reading": "いぬかい",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-8fb9d3a45b370303",
+      "title": "風見涼",
+      "body": "風見涼",
+      "reading": "かざみりょう",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-d35e6da857b91021",
+      "title": "樫風",
+      "body": "樫風",
+      "reading": "かしかぜ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-b17dfcdaf73c93e7",
+      "title": "somunia",
+      "body": "somunia",
+      "reading": "そむにあ",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-e683c695859f57a4",
+      "title": "DeepWebUnderground",
+      "body": "DeepWebUnderground",
+      "reading": "でぃーぷうぇぶあんだーぐらうんど",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-bfd102f4efef1e61",
+      "title": "猫瀬乃しん",
+      "body": "猫瀬乃しん",
+      "reading": "ねこせのしん",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-17b8b7aaba8115f8",
+      "title": "息根とめる",
+      "body": "息根とめる",
+      "reading": "いきのねとめる",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-a29c8975cf6124af",
+      "title": "限界",
+      "body": "限界",
+      "reading": "げんかい",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-54f5b183d69e9232",
+      "title": "小城夜みるく",
+      "body": "小城夜みるく",
+      "reading": "おぎやみるく",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-e991d10e4c852335",
+      "title": "従井ノラ",
+      "body": "従井ノラ",
+      "reading": "したがいのら",
+      "category": "個人VTuber"
+    },
+    {
+      "id": "w-bff20402d4c1663c",
+      "title": "寧々丸",
+      "body": "寧々丸",
+      "reading": "ねねまる",
+      "category": "個人VTuber"
+    }
+  ]
+}

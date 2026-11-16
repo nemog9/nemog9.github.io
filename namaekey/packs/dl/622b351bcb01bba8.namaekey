@@ -1,0 +1,149 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "622b351bcb01bba8",
+  "name": "推しの子",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-df4a42bfa60d5a4e",
+      "title": "星野アイ",
+      "body": "星野アイ",
+      "reading": "ほしのあい",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-5f0fcef411dd79ec",
+      "title": "星野アクア",
+      "body": "星野アクア",
+      "reading": "ほしのあくあ",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-56fd989da3011ab2",
+      "title": "星野ルビー",
+      "body": "星野ルビー",
+      "reading": "ほしのるびー",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-778b0d1ab53d39a6",
+      "title": "有馬かな",
+      "body": "有馬かな",
+      "reading": "ありまかな",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-e6c8884fbf6ca172",
+      "title": "黒川あかね",
+      "body": "黒川あかね",
+      "reading": "くろかわあかね",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-1a6ec9a7e0915669",
+      "title": "MEMちょ",
+      "body": "MEMちょ",
+      "reading": "めむちょ",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-c1282ed149f8693a",
+      "title": "斉藤壱護",
+      "body": "斉藤壱護",
+      "reading": "さいとういちご",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-c55aad4e63737ace",
+      "title": "斉藤ミヤコ",
+      "body": "斉藤ミヤコ",
+      "reading": "さいとうみやこ",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-586ab2073891a6f",
+      "title": "五反田泰志",
+      "body": "五反田泰志",
+      "reading": "ごたんだたいし",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-7b888b4a5395afc7",
+      "title": "鏑木勝也",
+      "body": "鏑木勝也",
+      "reading": "かぶらぎかつや",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-270751eced26d54",
+      "title": "姫川大輝",
+      "body": "姫川大輝",
+      "reading": "ひめかわたいき",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-e4e59e82d97625f8",
+      "title": "不知火フリル",
+      "body": "不知火フリル",
+      "reading": "しらぬいふりる",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-af2b0c59affcbcb0",
+      "title": "寿みなみ",
+      "body": "寿みなみ",
+      "reading": "ことぶきみなみ",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-9236db48b100c309",
+      "title": "鳴嶋メルト",
+      "body": "鳴嶋メルト",
+      "reading": "なるしまめると",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-361c44ae191ac4a3",
+      "title": "雨宮吾郎",
+      "body": "雨宮吾郎",
+      "reading": "あまみやごろう",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-30d750d29fce4844",
+      "title": "天童寺さりな",
+      "body": "天童寺さりな",
+      "reading": "てんどうじさりな",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-fa0783c35287aaff",
+      "title": "鮫島アビ子",
+      "body": "鮫島アビ子",
+      "reading": "さめじまあびこ",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-647f2a74daf6ca17",
+      "title": "吉祥寺頼子",
+      "body": "吉祥寺頼子",
+      "reading": "きっしょうじよりこ",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-ddbe3fc59f052f91",
+      "title": "雷田澄彰",
+      "body": "雷田澄彰",
+      "reading": "らいだすみあき",
+      "category": "推しの子"
+    },
+    {
+      "id": "w-ea9352199818bd3e",
+      "title": "GOA",
+      "body": "GOA",
+      "reading": "ごあ",
+      "category": "推しの子"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "11eaf9961e0f77b",
+  "name": "ウィッチウォッチ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-cf12135605cfaac2",
+      "title": "乙木守仁",
+      "body": "乙木守仁",
+      "reading": "おとぎもりひと",
+      "category": "ウィッチウォッチ"
+    },
+    {
+      "id": "w-e28d417c2da51cec",
+      "title": "若月ニコ",
+      "body": "若月ニコ",
+      "reading": "わかつきにこ",
+      "category": "ウィッチウォッチ"
+    },
+    {
+      "id": "w-8bcf419d3206991",
+      "title": "風祭監志",
+      "body": "風祭監志",
+      "reading": "かざまつりかんし",
+      "category": "ウィッチウォッチ"
+    },
+    {
+      "id": "w-9ba5b6dc9261b4ef",
+      "title": "真神圭護",
+      "body": "真神圭護",
+      "reading": "まがみけいご",
+      "category": "ウィッチウォッチ"
+    },
+    {
+      "id": "w-85a32bef0b978bf9",
+      "title": "霧生見晴",
+      "body": "霧生見晴",
+      "reading": "きりゅうみはる",
+      "category": "ウィッチウォッチ"
+    },
+    {
+      "id": "w-e06bb4110d02d477",
+      "title": "宮尾音夢",
+      "body": "宮尾音夢",
+      "reading": "みやおねむ",
+      "category": "ウィッチウォッチ"
+    },
+    {
+      "id": "w-baef35617cb724c9",
+      "title": "清宮天流",
+      "body": "清宮天流",
+      "reading": "きよみやてんる",
+      "category": "ウィッチウォッチ"
+    }
+  ]
+}

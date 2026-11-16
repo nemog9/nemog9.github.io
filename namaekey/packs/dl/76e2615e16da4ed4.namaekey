@@ -1,0 +1,51 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "76e2615e16da4ed4",
+  "name": "ワンパンマン",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-b6697e91a7aaa26d",
+      "title": "アトミック侍",
+      "body": "アトミック侍",
+      "reading": "あとみっくさむらい",
+      "category": "ワンパンマン"
+    },
+    {
+      "id": "w-89d34c49863bd04c",
+      "title": "超合金クロビカリ",
+      "body": "超合金クロビカリ",
+      "reading": "ちょうごうきんくろびかり",
+      "category": "ワンパンマン"
+    },
+    {
+      "id": "w-2aa32d641482fcce",
+      "title": "無免ライダー",
+      "body": "無免ライダー",
+      "reading": "むめんらいだー",
+      "category": "ワンパンマン"
+    },
+    {
+      "id": "w-24f3167756363f18",
+      "title": "戦慄のタツマキ",
+      "body": "戦慄のタツマキ",
+      "reading": "せんりつのたつまき",
+      "category": "ワンパンマン"
+    },
+    {
+      "id": "w-e1774db3aae5b28b",
+      "title": "地獄のフブキ",
+      "body": "地獄のフブキ",
+      "reading": "じごくのふぶき",
+      "category": "ワンパンマン"
+    },
+    {
+      "id": "w-9629f62cb1400eec",
+      "title": "閃光のフラッシュ",
+      "body": "閃光のフラッシュ",
+      "reading": "せんこうのふらっしゅ",
+      "category": "ワンパンマン"
+    }
+  ]
+}

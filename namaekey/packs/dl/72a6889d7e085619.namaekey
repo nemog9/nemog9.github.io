@@ -1,0 +1,170 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "72a6889d7e085619",
+  "name": "黒子のバスケ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-4879cf118cd5465f",
+      "title": "黒子テツヤ",
+      "body": "黒子テツヤ",
+      "reading": "くろこてつや",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-9a9c57a77003e23f",
+      "title": "火神大我",
+      "body": "火神大我",
+      "reading": "かがみたいが",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-578de5fff32b8de1",
+      "title": "黄瀬涼太",
+      "body": "黄瀬涼太",
+      "reading": "きせりょうた",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-2895c5ed65165e9c",
+      "title": "青峰大輝",
+      "body": "青峰大輝",
+      "reading": "あおみねだいき",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-abb8a1ebd301d35f",
+      "title": "緑間真太郎",
+      "body": "緑間真太郎",
+      "reading": "みどりましんたろう",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-6dc25d660058c406",
+      "title": "紫原敦",
+      "body": "紫原敦",
+      "reading": "むらさきばらあつし",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-b555f88e6d8ce94d",
+      "title": "赤司征十郎",
+      "body": "赤司征十郎",
+      "reading": "あかしせいじゅうろう",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-5b1516d846038a79",
+      "title": "高尾和成",
+      "body": "高尾和成",
+      "reading": "たかおかずなり",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-611041e44fdfe1f1",
+      "title": "笠松幸男",
+      "body": "笠松幸男",
+      "reading": "かさまつゆきお",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-ab44d2bde7647de3",
+      "title": "桜井良",
+      "body": "桜井良",
+      "reading": "さくらいりょう",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-9af28a705d583094",
+      "title": "今吉翔一",
+      "body": "今吉翔一",
+      "reading": "いまよししょういち",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-e843c57f3ae84c93",
+      "title": "氷室辰也",
+      "body": "氷室辰也",
+      "reading": "ひむろたつや",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-a0bd3913cf2f46be",
+      "title": "木吉鉄平",
+      "body": "木吉鉄平",
+      "reading": "きよしてっぺい",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-93656165451bc64c",
+      "title": "相田リコ",
+      "body": "相田リコ",
+      "reading": "あいだりこ",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-fca0ef3bee0a07ce",
+      "title": "桃井さつき",
+      "body": "桃井さつき",
+      "reading": "ももいさつき",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-e6834ca1d66af176",
+      "title": "根武谷永吉",
+      "body": "根武谷永吉",
+      "reading": "ねぶやえいきち",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-e900aae205e746d",
+      "title": "葉山小太郎",
+      "body": "葉山小太郎",
+      "reading": "はやまこたろう",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-548a657676b00916",
+      "title": "実渕玲央",
+      "body": "実渕玲央",
+      "reading": "みぶちれお",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-e928ed1b8ab23acd",
+      "title": "黛千尋",
+      "body": "黛千尋",
+      "reading": "まゆずみちひろ",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-5e4a826f6f9a2da3",
+      "title": "虹村修造",
+      "body": "虹村修造",
+      "reading": "にじむらしゅうぞう",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-3de11d3013bc935c",
+      "title": "灰崎祥吾",
+      "body": "灰崎祥吾",
+      "reading": "はいざきしょうご",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-f63149ff0ea4ef5b",
+      "title": "花宮真",
+      "body": "花宮真",
+      "reading": "はなみやまこと",
+      "category": "黒子のバスケ"
+    },
+    {
+      "id": "w-fef6be1223626cab",
+      "title": "若松孝輔",
+      "body": "若松孝輔",
+      "reading": "わかまつこうすけ",
+      "category": "黒子のバスケ"
+    }
+  ]
+}

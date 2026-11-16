@@ -1,0 +1,30 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "c8302f089a53e4da",
+  "name": "VOMS",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-4805a79546f8cd90",
+      "title": "天野ピカミィ",
+      "body": "天野ピカミィ",
+      "reading": "あまのぴかみぃ",
+      "category": "VOMS"
+    },
+    {
+      "id": "w-ee927b6ec2d3e83f",
+      "title": "緋笠トモシカ",
+      "body": "緋笠トモシカ",
+      "reading": "ひがさともしか",
+      "category": "VOMS"
+    },
+    {
+      "id": "w-76540f7846206151",
+      "title": "磁富モノエ",
+      "body": "磁富モノエ",
+      "reading": "じとみものえ",
+      "category": "VOMS"
+    }
+  ]
+}

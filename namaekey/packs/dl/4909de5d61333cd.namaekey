@@ -1,0 +1,380 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "4909de5d61333cd",
+  "name": "テニスの王子様",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-22b5511e53bf8cc9",
+      "title": "越前リョーマ",
+      "body": "越前リョーマ",
+      "reading": "えちぜんりょーま",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-5154bc6e39fc741f",
+      "title": "手塚国光",
+      "body": "手塚国光",
+      "reading": "てづかくにみつ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-f88d1426c8855152",
+      "title": "不二周助",
+      "body": "不二周助",
+      "reading": "ふじしゅうすけ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-4cb920b0d40c2264",
+      "title": "大石秀一郎",
+      "body": "大石秀一郎",
+      "reading": "おおいししゅういちろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-641aa571a6683748",
+      "title": "菊丸英二",
+      "body": "菊丸英二",
+      "reading": "きくまるえいじ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-fc5e6f92cb5ba601",
+      "title": "乾貞治",
+      "body": "乾貞治",
+      "reading": "いぬいさだはる",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-88d3cdbbaaa518f5",
+      "title": "河村隆",
+      "body": "河村隆",
+      "reading": "かわむらたかし",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-1782b16fc24b131e",
+      "title": "桃城武",
+      "body": "桃城武",
+      "reading": "ももしろたけし",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-fc0f447f0eb0dd61",
+      "title": "海堂薫",
+      "body": "海堂薫",
+      "reading": "かいどうかおる",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-802ee142bb9add1a",
+      "title": "跡部景吾",
+      "body": "跡部景吾",
+      "reading": "あとべけいご",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-1e89158bd0b0fb75",
+      "title": "忍足侑士",
+      "body": "忍足侑士",
+      "reading": "おしたりゆうし",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-beb85ed7bea5c65b",
+      "title": "向日岳人",
+      "body": "向日岳人",
+      "reading": "むかひがくと",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-159a65928b00d136",
+      "title": "芥川慈郎",
+      "body": "芥川慈郎",
+      "reading": "あくたがわじろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-8d18681e33261003",
+      "title": "樺地崇弘",
+      "body": "樺地崇弘",
+      "reading": "かばじむねひろ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-8347fab9ecef88dc",
+      "title": "鳳長太郎",
+      "body": "鳳長太郎",
+      "reading": "おおとりちょうたろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-ef5a1965c598b083",
+      "title": "宍戸亮",
+      "body": "宍戸亮",
+      "reading": "ししどりょう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-e4c7bfb8a67d2c21",
+      "title": "日吉若",
+      "body": "日吉若",
+      "reading": "ひよしわか",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-72215b93bde8d7fb",
+      "title": "真田弦一郎",
+      "body": "真田弦一郎",
+      "reading": "さなだげんいちろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-8320563008f79c01",
+      "title": "幸村精市",
+      "body": "幸村精市",
+      "reading": "ゆきむらせいいち",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-533c7cf777b36de2",
+      "title": "柳蓮二",
+      "body": "柳蓮二",
+      "reading": "やなぎれんじ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-47b6411e3878c5fc",
+      "title": "切原赤也",
+      "body": "切原赤也",
+      "reading": "きりはらあかや",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-b33ae2a946cb312c",
+      "title": "丸井ブン太",
+      "body": "丸井ブン太",
+      "reading": "まるいぶんた",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-3cab7aca922bc3df",
+      "title": "ジャッカル桑原",
+      "body": "ジャッカル桑原",
+      "reading": "じゃっかるくわはら",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-2bd7c4ae117b384b",
+      "title": "仁王雅治",
+      "body": "仁王雅治",
+      "reading": "におうまさはる",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-f1e0edb5609f3e33",
+      "title": "柳生比呂士",
+      "body": "柳生比呂士",
+      "reading": "やぎゅうひろし",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-26079484ea24c4c0",
+      "title": "白石蔵ノ介",
+      "body": "白石蔵ノ介",
+      "reading": "しらいしくらのすけ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-2b3dee7b04fdf4af",
+      "title": "千歳千里",
+      "body": "千歳千里",
+      "reading": "ちとせせんり",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-5c638d45e7dbb564",
+      "title": "財前光",
+      "body": "財前光",
+      "reading": "ざいぜんひかる",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-d3fb117aade04668",
+      "title": "遠山金太郎",
+      "body": "遠山金太郎",
+      "reading": "とおやまきんたろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-99fdf10f08d50efa",
+      "title": "忍足謙也",
+      "body": "忍足謙也",
+      "reading": "おしたりけんや",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-db6de1d9adfd8132",
+      "title": "石田銀",
+      "body": "石田銀",
+      "reading": "いしだぎん",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-c7eb38ddb6346e53",
+      "title": "観月はじめ",
+      "body": "観月はじめ",
+      "reading": "みづきはじめ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-f646faaad0608d23",
+      "title": "不二裕太",
+      "body": "不二裕太",
+      "reading": "ふじゆうた",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-2b42399362d34cd9",
+      "title": "木更津淳",
+      "body": "木更津淳",
+      "reading": "きさらづあつし",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-560d031ac8c9ae0d",
+      "title": "千石清純",
+      "body": "千石清純",
+      "reading": "せんごくきよすみ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-37a77125300b709e",
+      "title": "亜久津仁",
+      "body": "亜久津仁",
+      "reading": "あくつじん",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-9b2221b0a7f6ed10",
+      "title": "南健太郎",
+      "body": "南健太郎",
+      "reading": "みなみけんたろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-fe6ba76e42a5f6ce",
+      "title": "東方雅美",
+      "body": "東方雅美",
+      "reading": "とうほうまさみ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-cab6fb23ad1c83f5",
+      "title": "壇太一",
+      "body": "壇太一",
+      "reading": "だんたいち",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-57eb95c56f722ef5",
+      "title": "葵剣太郎",
+      "body": "葵剣太郎",
+      "reading": "あおいけんたろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-56ab1f03ee2915cd",
+      "title": "黒羽春風",
+      "body": "黒羽春風",
+      "reading": "くろばねはるかぜ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-4360384120371a71",
+      "title": "天根ヒカル",
+      "body": "天根ヒカル",
+      "reading": "あまねひかる",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-ff6775d73077f7b3",
+      "title": "佐伯虎次郎",
+      "body": "佐伯虎次郎",
+      "reading": "さえきこじろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-d90ada4a56dbc6f4",
+      "title": "伊武深司",
+      "body": "伊武深司",
+      "reading": "いぶしんじ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-f43fcc6f7609f09a",
+      "title": "神尾アキラ",
+      "body": "神尾アキラ",
+      "reading": "かみおあきら",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-3f460b30f508faa2",
+      "title": "橘桔平",
+      "body": "橘桔平",
+      "reading": "たちばなきっぺい",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-22b2011e53bccf02",
+      "title": "越前リョーガ",
+      "body": "越前リョーガ",
+      "reading": "えちぜんりょーが",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-819d5e02ee804a7a",
+      "title": "平等院鳳凰",
+      "body": "平等院鳳凰",
+      "reading": "びょうどういんほうおう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-ab08cfc1b350ddb5",
+      "title": "徳川カズヤ",
+      "body": "徳川カズヤ",
+      "reading": "とくがわかずや",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-d3b6534d7154f33c",
+      "title": "鬼十次郎",
+      "body": "鬼十次郎",
+      "reading": "おにじゅうじろう",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-7218c1931a965e1c",
+      "title": "入江奏多",
+      "body": "入江奏多",
+      "reading": "いりえかなた",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-9b2f966b06d922db",
+      "title": "種ヶ島修二",
+      "body": "種ヶ島修二",
+      "reading": "たねがしましゅうじ",
+      "category": "テニスの王子様"
+    },
+    {
+      "id": "w-f83e0bd2024dc0fd",
+      "title": "デューク渡邊",
+      "body": "デューク渡邊",
+      "reading": "でゅーくわたなべ",
+      "category": "テニスの王子様"
+    }
+  ]
+}

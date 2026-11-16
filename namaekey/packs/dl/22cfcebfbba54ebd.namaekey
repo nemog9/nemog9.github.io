@@ -1,0 +1,79 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "22cfcebfbba54ebd",
+  "name": "怪獣8号",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-eeae4806eb888e9b",
+      "title": "日比野カフカ",
+      "body": "日比野カフカ",
+      "reading": "ひびのかふか",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-af6135ca4677e237",
+      "title": "市川レノ",
+      "body": "市川レノ",
+      "reading": "いちかわれの",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-3273ad4c1bc511ea",
+      "title": "四ノ宮キコル",
+      "body": "四ノ宮キコル",
+      "reading": "しのみやきこる",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-560c4523dcb8ae5",
+      "title": "保科宗四郎",
+      "body": "保科宗四郎",
+      "reading": "ほしなそうしろう",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-996919b74be6fd69",
+      "title": "亜白ミナ",
+      "body": "亜白ミナ",
+      "reading": "あしろみな",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-62db5b72404ad65c",
+      "title": "鳴海弦",
+      "body": "鳴海弦",
+      "reading": "なるみげん",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-c1ae1983d26f0c7",
+      "title": "四ノ宮功",
+      "body": "四ノ宮功",
+      "reading": "しのみやいさお",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-cc081cf67e544130",
+      "title": "古橋伊春",
+      "body": "古橋伊春",
+      "reading": "ふるはしいはる",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-4cc63c34b16ef947",
+      "title": "神楽木葵",
+      "body": "神楽木葵",
+      "reading": "かぐらぎあおい",
+      "category": "怪獣8号"
+    },
+    {
+      "id": "w-a3e54e6f289a6627",
+      "title": "出雲ハルイチ",
+      "body": "出雲ハルイチ",
+      "reading": "いずもはるいち",
+      "category": "怪獣8号"
+    }
+  ]
+}

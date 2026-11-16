@@ -1,0 +1,72 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "9834a4f5017bb762",
+  "name": "わたしの幸せな結婚",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-b6f8a0d35102cd21",
+      "title": "斎森美世",
+      "body": "斎森美世",
+      "reading": "さいもりみよ",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-b1220cefe57ca7f0",
+      "title": "久堂清霞",
+      "body": "久堂清霞",
+      "reading": "くどうきよか",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-fab54fc12e6ce348",
+      "title": "斎森香耶",
+      "body": "斎森香耶",
+      "reading": "さいもりかや",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-1d3608cd1c5e7b5b",
+      "title": "辰石幸次",
+      "body": "辰石幸次",
+      "reading": "たついしこうじ",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-7e83a2114299afcb",
+      "title": "薄刃新",
+      "body": "薄刃新",
+      "reading": "うすばあらた",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-3b9c374f11d663a5",
+      "title": "五道佳斗",
+      "body": "五道佳斗",
+      "reading": "ごどうよしと",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-66cb56b18b429b7c",
+      "title": "斎森真一",
+      "body": "斎森真一",
+      "reading": "さいもりしんいち",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-c84540053d8573b7",
+      "title": "ゆり江",
+      "body": "ゆり江",
+      "reading": "ゆりえ",
+      "category": "わたしの幸せな結婚"
+    },
+    {
+      "id": "w-a757dfa63f7a868b",
+      "title": "堯人",
+      "body": "堯人",
+      "reading": "たかひと",
+      "category": "わたしの幸せな結婚"
+    }
+  ]
+}

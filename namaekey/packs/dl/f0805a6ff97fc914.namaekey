@@ -1,0 +1,58 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "f0805a6ff97fc914",
+  "name": "その着せ替え人形は恋をする",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-1f598954ef3100dc",
+      "title": "五条新菜",
+      "body": "五条新菜",
+      "reading": "ごじょうわかな",
+      "category": "その着せ替え人形は恋をする"
+    },
+    {
+      "id": "w-9fe5a367177eb31",
+      "title": "喜多川海夢",
+      "body": "喜多川海夢",
+      "reading": "きたがわまりん",
+      "category": "その着せ替え人形は恋をする"
+    },
+    {
+      "id": "w-7716c74d0a598f5",
+      "title": "乾紗寿叶",
+      "body": "乾紗寿叶",
+      "reading": "いぬいさじゅな",
+      "category": "その着せ替え人形は恋をする"
+    },
+    {
+      "id": "w-f0092388c494f7da",
+      "title": "乾心寿",
+      "body": "乾心寿",
+      "reading": "いぬいしんじゅ",
+      "category": "その着せ替え人形は恋をする"
+    },
+    {
+      "id": "w-41cc95bee9c4ead3",
+      "title": "天野ちとせ",
+      "body": "天野ちとせ",
+      "reading": "あまのちとせ",
+      "category": "その着せ替え人形は恋をする"
+    },
+    {
+      "id": "w-be2437774a8f4196",
+      "title": "五条薫",
+      "body": "五条薫",
+      "reading": "ごじょうかおる",
+      "category": "その着せ替え人形は恋をする"
+    },
+    {
+      "id": "w-3d817112a01a1398",
+      "title": "菅谷乃羽",
+      "body": "菅谷乃羽",
+      "reading": "すがやのわ",
+      "category": "その着せ替え人形は恋をする"
+    }
+  ]
+}

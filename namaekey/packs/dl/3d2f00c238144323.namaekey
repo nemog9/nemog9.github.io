@@ -1,0 +1,44 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "3d2f00c238144323",
+  "name": "ダンダダン",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-e1f20625c161c25e",
+      "title": "高倉健",
+      "body": "高倉健",
+      "reading": "たかくらけん",
+      "category": "ダンダダン"
+    },
+    {
+      "id": "w-8f5926ccb58e92a3",
+      "title": "綾瀬桃",
+      "body": "綾瀬桃",
+      "reading": "あやせもも",
+      "category": "ダンダダン"
+    },
+    {
+      "id": "w-e044f8d84cec7ef4",
+      "title": "綾瀬星子",
+      "body": "綾瀬星子",
+      "reading": "あやせせいこ",
+      "category": "ダンダダン"
+    },
+    {
+      "id": "w-b078b3c898e9178a",
+      "title": "白鳥愛羅",
+      "body": "白鳥愛羅",
+      "reading": "しらとりあいら",
+      "category": "ダンダダン"
+    },
+    {
+      "id": "w-bdae2320916c0044",
+      "title": "円城寺仁",
+      "body": "円城寺仁",
+      "reading": "えんじょうじじん",
+      "category": "ダンダダン"
+    }
+  ]
+}

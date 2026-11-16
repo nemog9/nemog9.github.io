@@ -1,0 +1,37 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "25248d46eeec0737",
+  "name": "ウマ娘プリティーダービー",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-88664be7edde1e39",
+      "title": "駿川たづな",
+      "body": "駿川たづな",
+      "reading": "はやかわたづな",
+      "category": "ウマ娘プリティーダービー"
+    },
+    {
+      "id": "w-f15637f4f5d3adfb",
+      "title": "秋川やよい",
+      "body": "秋川やよい",
+      "reading": "あきかわやよい",
+      "category": "ウマ娘プリティーダービー"
+    },
+    {
+      "id": "w-5b655495b1ac95df",
+      "title": "乙名史悦子",
+      "body": "乙名史悦子",
+      "reading": "おとなしえつこ",
+      "category": "ウマ娘プリティーダービー"
+    },
+    {
+      "id": "w-26024f45d34832c",
+      "title": "東条ハナ",
+      "body": "東条ハナ",
+      "reading": "とうじょうはな",
+      "category": "ウマ娘プリティーダービー"
+    }
+  ]
+}

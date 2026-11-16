@@ -1,0 +1,121 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "97a34259cfa3bca3",
+  "name": "モブサイコ100",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-84de1a5ee07639eb",
+      "title": "影山茂夫",
+      "body": "影山茂夫",
+      "reading": "かげやましげお",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-a33b8d1c90ba6909",
+      "title": "影山律",
+      "body": "影山律",
+      "reading": "かげやまりつ",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-4c95c83756339fa6",
+      "title": "霊幻新隆",
+      "body": "霊幻新隆",
+      "reading": "れいげんあらたか",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-47fbba74ed8d70f6",
+      "title": "花沢輝気",
+      "body": "花沢輝気",
+      "reading": "はなざわてるき",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-2ca6ba5163524261",
+      "title": "高嶺ツボミ",
+      "body": "高嶺ツボミ",
+      "reading": "たかねつぼみ",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-e0d42ab723d55127",
+      "title": "鈴木将",
+      "body": "鈴木将",
+      "reading": "すずきしょう",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-deeae1843f188a9f",
+      "title": "鈴木統一郎",
+      "body": "鈴木統一郎",
+      "reading": "すずきとういちろう",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-e249d8ca0f1d6665",
+      "title": "芹沢克也",
+      "body": "芹沢克也",
+      "reading": "せりざわかつや",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-ec596dc545114a0",
+      "title": "暗田トメ",
+      "body": "暗田トメ",
+      "reading": "くらたとめ",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-1118a4f55094b416",
+      "title": "島崎亮",
+      "body": "島崎亮",
+      "reading": "しまざきりょう",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-5a174116486a18f2",
+      "title": "峯岸松夫",
+      "body": "峯岸松夫",
+      "reading": "みねぎしまつお",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-7f7711ed62fe8d42",
+      "title": "羽鳥",
+      "body": "羽鳥",
+      "reading": "はとり",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-1275493d56937803",
+      "title": "柴田",
+      "body": "柴田",
+      "reading": "しばた",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-75fb4bb6e42b51be",
+      "title": "米里イチ",
+      "body": "米里イチ",
+      "reading": "よねざといち",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-995b73e91808822a",
+      "title": "神室真司",
+      "body": "神室真司",
+      "reading": "かむろしんじ",
+      "category": "モブサイコ100"
+    },
+    {
+      "id": "w-ca5042b599c12b0f",
+      "title": "徳川光",
+      "body": "徳川光",
+      "reading": "とくがわひかる",
+      "category": "モブサイコ100"
+    }
+  ]
+}

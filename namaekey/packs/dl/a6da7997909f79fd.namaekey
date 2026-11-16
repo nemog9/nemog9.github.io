@@ -1,0 +1,93 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "a6da7997909f79fd",
+  "name": "ネオポルテ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-e9300ef3eabfebdb",
+      "title": "渋谷ハル",
+      "body": "渋谷ハル",
+      "reading": "しぶやはる",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-db5c7a21507a95fc",
+      "title": "或世イヌ",
+      "body": "或世イヌ",
+      "reading": "あるせいぬ",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-cfba624e622f4fcd",
+      "title": "緋月ゆい",
+      "body": "緋月ゆい",
+      "reading": "ひづきゆい",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-6af37bf42f7f7a4e",
+      "title": "夜絆ニウ",
+      "body": "夜絆ニウ",
+      "reading": "よづなにう",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-2e87f347c25a3ed0",
+      "title": "瀬尾カザリ",
+      "body": "瀬尾カザリ",
+      "reading": "せおかざり",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-731707e925566b87",
+      "title": "天帝フォルテ",
+      "body": "天帝フォルテ",
+      "reading": "てんていふぉるて",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-6e5ec8081703f39b",
+      "title": "心白てと",
+      "body": "心白てと",
+      "reading": "こはくてと",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-19dc9da9f844075d",
+      "title": "久我レオ",
+      "body": "久我レオ",
+      "reading": "くがれお",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-f6f9323f1e0d279e",
+      "title": "青桐エイト",
+      "body": "青桐エイト",
+      "reading": "あおぎりえいと",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-81073e3e88fdfd2e",
+      "title": "八神ツクモ",
+      "body": "八神ツクモ",
+      "reading": "やがみつくも",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-7187c55a0d54a9ff",
+      "title": "麻倉シノ",
+      "body": "麻倉シノ",
+      "reading": "あさくらしの",
+      "category": "ネオポルテ"
+    },
+    {
+      "id": "w-fbdaedae419b3b12",
+      "title": "水無瀬",
+      "body": "水無瀬",
+      "reading": "みなせ",
+      "category": "ネオポルテ"
+    }
+  ]
+}

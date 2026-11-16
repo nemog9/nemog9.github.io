@@ -1,0 +1,30 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "cc18c6a46c4f371",
+  "name": "ますかれーど",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-23fd218b1fdf61bb",
+      "title": "天翔院ひいな",
+      "body": "天翔院ひいな",
+      "reading": "てんしょういんひいな",
+      "category": "ますかれーど"
+    },
+    {
+      "id": "w-69e3be1d8f09fafc",
+      "title": "玉城えりな",
+      "body": "玉城えりな",
+      "reading": "たまきえりな",
+      "category": "ますかれーど"
+    },
+    {
+      "id": "w-a6c89f6d19827e6d",
+      "title": "天使なの",
+      "body": "天使なの",
+      "reading": "あまつかなの",
+      "category": "ますかれーど"
+    }
+  ]
+}

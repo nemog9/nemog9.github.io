@@ -1,0 +1,51 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "2ed76d5f40534e73",
+  "name": "甘神さんちの縁結び",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-84559acfd2de65ff",
+      "title": "上終瓜生",
+      "body": "上終瓜生",
+      "reading": "かみはてうりゅう",
+      "category": "甘神さんちの縁結び"
+    },
+    {
+      "id": "w-838e192b2b51ab7e",
+      "title": "甘神夕奈",
+      "body": "甘神夕奈",
+      "reading": "あまがみゆな",
+      "category": "甘神さんちの縁結び"
+    },
+    {
+      "id": "w-ef4cadf0b20b4fb6",
+      "title": "甘神夜重",
+      "body": "甘神夜重",
+      "reading": "あまがみやえ",
+      "category": "甘神さんちの縁結び"
+    },
+    {
+      "id": "w-b0c43b2ea53c64c2",
+      "title": "甘神朝姫",
+      "body": "甘神朝姫",
+      "reading": "あまがみあさひ",
+      "category": "甘神さんちの縁結び"
+    },
+    {
+      "id": "w-a339630f468c53da",
+      "title": "甘神千鳥",
+      "body": "甘神千鳥",
+      "reading": "あまがみちどり",
+      "category": "甘神さんちの縁結び"
+    },
+    {
+      "id": "w-c3344e11cc8a7f2c",
+      "title": "姉小路舞昼",
+      "body": "姉小路舞昼",
+      "reading": "あねこうじまひる",
+      "category": "甘神さんちの縁結び"
+    }
+  ]
+}

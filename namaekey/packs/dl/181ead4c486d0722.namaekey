@@ -1,0 +1,632 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "181ead4c486d0722",
+  "name": "Fateシリーズ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-d49d20bf2fdfbc17",
+      "title": "衛宮士郎",
+      "body": "衛宮士郎",
+      "reading": "えみやしろう",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-1644ee77a0a2fbb8",
+      "title": "遠坂凛",
+      "body": "遠坂凛",
+      "reading": "とおさかりん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-72806094175fbfc9",
+      "title": "間桐桜",
+      "body": "間桐桜",
+      "reading": "まとうさくら",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-7926d566fc5e6ddf",
+      "title": "間桐慎二",
+      "body": "間桐慎二",
+      "reading": "まとうしんじ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-45d3ecb3b201683b",
+      "title": "言峰綺礼",
+      "body": "言峰綺礼",
+      "reading": "ことみねきれい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-4fef5f6a9dbf9a77",
+      "title": "葛木宗一郎",
+      "body": "葛木宗一郎",
+      "reading": "くずきそういちろう",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-67d729eeb137c805",
+      "title": "衛宮切嗣",
+      "body": "衛宮切嗣",
+      "reading": "えみやきりつぐ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-758bc6392c9f075e",
+      "title": "遠坂時臣",
+      "body": "遠坂時臣",
+      "reading": "とおさかときおみ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-7764f2f0e8776685",
+      "title": "遠坂永人",
+      "body": "遠坂永人",
+      "reading": "とおさかながと",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-d5c3ab2cb40e8b49",
+      "title": "間桐臓硯",
+      "body": "間桐臓硯",
+      "reading": "まとうぞうけん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-6eec938e29412f13",
+      "title": "藤村大河",
+      "body": "藤村大河",
+      "reading": "ふじむらたいが",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-52147acddc0e3b78",
+      "title": "美綴綾子",
+      "body": "美綴綾子",
+      "reading": "みつづりあやこ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-e84ab988fc6d5647",
+      "title": "柳洞一成",
+      "body": "柳洞一成",
+      "reading": "りゅうどういっせい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-bda0b3046569be58",
+      "title": "氷室鐘",
+      "body": "氷室鐘",
+      "reading": "ひむろかね",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-fe33d86a19213a81",
+      "title": "蒔寺楓",
+      "body": "蒔寺楓",
+      "reading": "まきでらかえで",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-742002f2d96d07da",
+      "title": "三枝由紀香",
+      "body": "三枝由紀香",
+      "reading": "さえぐさゆきか",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-efcd7bdc5a651178",
+      "title": "後藤劾以",
+      "body": "後藤劾以",
+      "reading": "ごとうがい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-6843afb50c7ecf08",
+      "title": "蛍塚音子",
+      "body": "蛍塚音子",
+      "reading": "ほたるづかおとこ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-d0e5061f2708efdf",
+      "title": "藤村雷画",
+      "body": "藤村雷画",
+      "reading": "ふじむららいが",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-3b32978b065c48ce",
+      "title": "イリヤスフィール・フォン・アインツベルン",
+      "body": "イリヤスフィール・フォン・アインツベルン",
+      "reading": "いりやすふぃーるふぉんあいんつべるん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-3cda3239914c17b",
+      "title": "ユスティーツァ・リズライヒ・フォン・アイ",
+      "body": "ユスティーツァ・リズライヒ・フォン・アインツベルン",
+      "reading": "ゆすてぃーつぁりずらいひふぉんあいんつべるん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-5576d8bc99694ef8",
+      "title": "キシュア・ゼルレッチ・シュバインオーグ",
+      "body": "キシュア・ゼルレッチ・シュバインオーグ",
+      "reading": "きしゅあぜるれっちしゅばいんおーぐ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-da2478dfaa219f4c",
+      "title": "アトラム・ガリアスタ",
+      "body": "アトラム・ガリアスタ",
+      "reading": "あとらむがりあすた",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-c411f9817befe05a",
+      "title": "バゼット・フラガ・マクレミッツ",
+      "body": "バゼット・フラガ・マクレミッツ",
+      "reading": "ばぜっとふらがまくれみっつ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-1b136af8440e1453",
+      "title": "カレン・オルテンシア",
+      "body": "カレン・オルテンシア",
+      "reading": "かれんおるてんしあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-a6766109cf6b9974",
+      "title": "アルトリア・ペンドラゴン",
+      "body": "アルトリア・ペンドラゴン",
+      "reading": "あるとりあぺんどらごん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-75d538a323b619e2",
+      "title": "クー・フーリン",
+      "body": "クー・フーリン",
+      "reading": "くーふーりん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-cd051076daa4f871",
+      "title": "佐々木小次郎",
+      "body": "佐々木小次郎",
+      "reading": "ささきこじろう",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-fd65675f06d8837c",
+      "title": "ハサン・サッバーハ",
+      "body": "ハサン・サッバーハ",
+      "reading": "はさんさっばーは",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-55f4bbf399c9e355",
+      "title": "アイリスフィール・フォン・アインツベルン",
+      "body": "アイリスフィール・フォン・アインツベルン",
+      "reading": "あいりすふぃーるふぉんあいんつべるん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-68a56ae340d0ccd9",
+      "title": "久宇舞弥",
+      "body": "久宇舞弥",
+      "reading": "ひさうまいや",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-736ef36d2653aefd",
+      "title": "言峰璃正",
+      "body": "言峰璃正",
+      "reading": "ことみねりせい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-86b75d77e04836e3",
+      "title": "遠坂葵",
+      "body": "遠坂葵",
+      "reading": "とおさかあおい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-828c5cc69f281740",
+      "title": "間桐雁夜",
+      "body": "間桐雁夜",
+      "reading": "まとうかりや",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-757d9d02a1aa62d7",
+      "title": "間桐鶴野",
+      "body": "間桐鶴野",
+      "reading": "まとうびゃくや",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-17ec06cb9e7bd447",
+      "title": "雨生龍之介",
+      "body": "雨生龍之介",
+      "reading": "うりゅうりゅうのすけ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-ed9c80a263cd8470",
+      "title": "ウェイバー・ベルベット",
+      "body": "ウェイバー・ベルベット",
+      "reading": "うぇいばーべるべっと",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-94420bc967e2e125",
+      "title": "ケイネス・エルメロイ・アーチボルト",
+      "body": "ケイネス・エルメロイ・アーチボルト",
+      "reading": "けいねすえるめろいあーちぼると",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-1cd0ace3206ad760",
+      "title": "ソラウ・ヌァザレ・ソフィアリ",
+      "body": "ソラウ・ヌァザレ・ソフィアリ",
+      "reading": "そらうぬぁざれそふぃあり",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-d99970bd95256b2d",
+      "title": "ユーブスタクハイト・フォン・アインツベル",
+      "body": "ユーブスタクハイト・フォン・アインツベルン",
+      "reading": "ゆーぶすたくはいとふぉんあいんつべるん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-856072f3400d354a",
+      "title": "ディルムッド・オディナ",
+      "body": "ディルムッド・オディナ",
+      "reading": "でぃるむっどおでぃな",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-2bde732bae2f83d2",
+      "title": "ジル・ド・レェ",
+      "body": "ジル・ド・レェ",
+      "reading": "じるどれぇ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-e5b0a885c209eac7",
+      "title": "マキリ・ゾォルケン",
+      "body": "マキリ・ゾォルケン",
+      "reading": "まきりぞぉるけん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-c6c06c81ea43a758",
+      "title": "ジャンヌ・ダルク",
+      "body": "ジャンヌ・ダルク",
+      "reading": "じゃんぬだるく",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-d7df0b308447a2c9",
+      "title": "天草四郎時貞",
+      "body": "天草四郎時貞",
+      "reading": "あまくさしろうときさだ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-34eb7c357ec2cbd8",
+      "title": "ダーニック・プレストーン・ユグドミレニア",
+      "body": "ダーニック・プレストーン・ユグドミレニア",
+      "reading": "だーにっくぷれすとーんゆぐどみれにあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-87b4e039e694711a",
+      "title": "フィオレ・フォルヴェッジ・ユグドミレニア",
+      "body": "フィオレ・フォルヴェッジ・ユグドミレニア",
+      "reading": "ふぃおれふぉるゔぇっじゆぐどみれにあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-86df222cd96c4d9b",
+      "title": "カウレス・フォルヴェッジ・ユグドミレニア",
+      "body": "カウレス・フォルヴェッジ・ユグドミレニア",
+      "reading": "かうれすふぉるゔぇっじゆぐどみれにあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-ee9164c71c764bec",
+      "title": "ゴルド・ムジーク・ユグドミレニア",
+      "body": "ゴルド・ムジーク・ユグドミレニア",
+      "reading": "ごるどむじーくゆぐどみれにあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-37ba5d3559b94f32",
+      "title": "セレニケ・アイスコル・ユグドミレニア",
+      "body": "セレニケ・アイスコル・ユグドミレニア",
+      "reading": "せれにけあいすこるゆぐどみれにあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-4ba52029faaff940",
+      "title": "ロシェ・フレイン・ユグドミレニア",
+      "body": "ロシェ・フレイン・ユグドミレニア",
+      "reading": "ろしぇふれいんゆぐどみれにあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-583c59de65ad5fa0",
+      "title": "ロッコ・ベルフェバン",
+      "body": "ロッコ・ベルフェバン",
+      "reading": "ろっこべるふぇばん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-720273fa49649641",
+      "title": "六導玲霞",
+      "body": "六導玲霞",
+      "reading": "りくどうれいか",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-f2a8d1b5de8e7ea8",
+      "title": "相良豹馬",
+      "body": "相良豹馬",
+      "reading": "さがらひょうま",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-91353c9f279e86c",
+      "title": "獅子劫界離",
+      "body": "獅子劫界離",
+      "reading": "ししごうかいり",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-d98e3f049f43d744",
+      "title": "ヴラド三世",
+      "body": "ヴラド三世",
+      "reading": "ゔらどさんせい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-349cbbed3a96dfd5",
+      "title": "ジャック・ザ・リッパー",
+      "body": "ジャック・ザ・リッパー",
+      "reading": "じゃっくざりっぱー",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-4078a0f0eb06813a",
+      "title": "ウィリアム・シェイクスピア",
+      "body": "ウィリアム・シェイクスピア",
+      "reading": "うぃりあむしぇいくすぴあ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-eba9221ef9dc3172",
+      "title": "美遊・エーデルフェルト",
+      "body": "美遊・エーデルフェルト",
+      "reading": "みゆえーでるふぇると",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-b492ac9687effeda",
+      "title": "朔月美遊",
+      "body": "朔月美遊",
+      "reading": "さかつきみゆ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-6b1ce4bbeb7072a5",
+      "title": "クロエ・フォン・アインツベルン",
+      "body": "クロエ・フォン・アインツベルン",
+      "reading": "くろえふぉんあいんつべるん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-cf791fbcf194fb2d",
+      "title": "ルヴィアゼリッタ・エーデルフェルト",
+      "body": "ルヴィアゼリッタ・エーデルフェルト",
+      "reading": "るゔぃあぜりったえーでるふぇると",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-15377bda7d2e00e3",
+      "title": "嶽間沢龍子",
+      "body": "嶽間沢龍子",
+      "reading": "がくまざわたつこ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-14ab63393544891",
+      "title": "ジュリアン・エインズワース",
+      "body": "ジュリアン・エインズワース",
+      "reading": "じゅりあんえいんずわーす",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-8dae363840d2f5aa",
+      "title": "アンジェリカ・エインズワース",
+      "body": "アンジェリカ・エインズワース",
+      "reading": "あんじぇりかえいんずわーす",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-95ee5807100a96e",
+      "title": "アヤカ・サジョウ",
+      "body": "アヤカ・サジョウ",
+      "reading": "あやかさじょう",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-5128d05c04bfeaa5",
+      "title": "ティーネ・チェルク",
+      "body": "ティーネ・チェルク",
+      "reading": "てぃーねちぇるく",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-ecf824d04bdb0dc8",
+      "title": "フラット・エスカルドス",
+      "body": "フラット・エスカルドス",
+      "reading": "ふらっとえすかるどす",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-88bb2063abfc73e0",
+      "title": "ティア・エスカルドス",
+      "body": "ティア・エスカルドス",
+      "reading": "てぃあえすかるどす",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-60596ff3817e84ce",
+      "title": "ジェスター・カルトゥーレ",
+      "body": "ジェスター・カルトゥーレ",
+      "reading": "じぇすたーかるとぅーれ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-739cb37c3c76f184",
+      "title": "オーランド・リーヴ",
+      "body": "オーランド・リーヴ",
+      "reading": "おーらんどりーゔ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-90c8ebb949d69694",
+      "title": "繰丘椿",
+      "body": "繰丘椿",
+      "reading": "くるおかつばき",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-350cc6f424899280",
+      "title": "繰丘夕鶴",
+      "body": "繰丘夕鶴",
+      "reading": "くるおかゆうかく",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-9af85176cfafc300",
+      "title": "繰丘連理",
+      "body": "繰丘連理",
+      "reading": "くるおかれんり",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-30899a4428eb57cf",
+      "title": "ファルデウス・ディオランド",
+      "body": "ファルデウス・ディオランド",
+      "reading": "ふぁるでうすでぃおらんど",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-cceb5d34b1b5a2ed",
+      "title": "バズディロット・コーデリオン",
+      "body": "バズディロット・コーデリオン",
+      "reading": "ばずでぃろっとこーでりおん",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-f4d03c6484f63f4b",
+      "title": "ガルヴァロッソ・スクラディオ",
+      "body": "ガルヴァロッソ・スクラディオ",
+      "reading": "がるゔぁろっそすくらでぃお",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-eab5b1620f32d7a",
+      "title": "ハルリ・ボルザーク",
+      "body": "ハルリ・ボルザーク",
+      "reading": "はるりぼるざーく",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-c39d43f90dd6db08",
+      "title": "フランチェスカ・プレラーティ",
+      "body": "フランチェスカ・プレラーティ",
+      "reading": "ふらんちぇすかぷれらーてぃ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-7268f6a3067438f3",
+      "title": "ハンザ・セルバンテス",
+      "body": "ハンザ・セルバンテス",
+      "reading": "はんざせるばんてす",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-8ad9fa427582ffda",
+      "title": "デルミオ・セルバンテス",
+      "body": "デルミオ・セルバンテス",
+      "reading": "でるみおせるばんてす",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-5b831b780cd9044f",
+      "title": "ドリス・ルセンドラ",
+      "body": "ドリス・ルセンドラ",
+      "reading": "どりするせんどら",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-18a43408615e90d",
+      "title": "ロード・エルメロイII世",
+      "body": "ロード・エルメロイII世",
+      "reading": "ろーどえるめろいにせい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-59a9579d4decb8bd",
+      "title": "スヴィン・グラシュエート",
+      "body": "スヴィン・グラシュエート",
+      "reading": "すゔぃんぐらしゅえーと",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-b5195492eff8ab93",
+      "title": "リチャード1世",
+      "body": "リチャード1世",
+      "reading": "りちゃーどいっせい",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-e7ca92c3c4f21530",
+      "title": "アレクサンドル・デュマ",
+      "body": "アレクサンドル・デュマ",
+      "reading": "あれくさんどるでゅま",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-20d137b1f557cf44",
+      "title": "フランソワ・プレラーティ",
+      "body": "フランソワ・プレラーティ",
+      "reading": "ふらんそわぷれらーてぃ",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-98914cf378090b71",
+      "title": "ジョン・ウィンガード",
+      "body": "ジョン・ウィンガード",
+      "reading": "じょんうぃんがーど",
+      "category": "Fateシリーズ"
+    },
+    {
+      "id": "w-db4fd292a165413c",
+      "title": "ピエール・バジル",
+      "body": "ピエール・バジル",
+      "reading": "ぴえーるばじる",
+      "category": "Fateシリーズ"
+    }
+  ]
+}

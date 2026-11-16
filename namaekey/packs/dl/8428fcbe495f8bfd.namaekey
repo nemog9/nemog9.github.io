@@ -1,0 +1,184 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "8428fcbe495f8bfd",
+  "name": "ONE PIECE",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-7a681edd13782e0a",
+      "title": "モンキー・D・ルフィ",
+      "body": "モンキー・D・ルフィ",
+      "reading": "もんきーでぃーるふぃ",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-85b4733ed21f43d3",
+      "title": "ロロノア・ゾロ",
+      "body": "ロロノア・ゾロ",
+      "reading": "ろろのあぞろ",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-2ed4338b2f21c318",
+      "title": "トニートニー・チョッパー",
+      "body": "トニートニー・チョッパー",
+      "reading": "とにーとにーちょっぱー",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-836919fd2cb4ed24",
+      "title": "ニコ・ロビン",
+      "body": "ニコ・ロビン",
+      "reading": "にころびん",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-39fccac3bab38b36",
+      "title": "ポートガス・D・エース",
+      "body": "ポートガス・D・エース",
+      "reading": "ぽーとがすでぃーえーす",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-9659e67bb51a1563",
+      "title": "トラファルガー・ロー",
+      "body": "トラファルガー・ロー",
+      "reading": "とらふぁるがーろー",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-784d89cb22433986",
+      "title": "ユースタス・キッド",
+      "body": "ユースタス・キッド",
+      "reading": "ゆーすたすきっど",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-5ce3f35ef2b9760f",
+      "title": "ジュラキュール・ミホーク",
+      "body": "ジュラキュール・ミホーク",
+      "reading": "じゅらきゅーるみほーく",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-f2bba8ebbbd044ff",
+      "title": "ドンキホーテ・ドフラミンゴ",
+      "body": "ドンキホーテ・ドフラミンゴ",
+      "reading": "どんきほーてどふらみんご",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-f719e32241fb0cc4",
+      "title": "ボア・ハンコック",
+      "body": "ボア・ハンコック",
+      "reading": "ぼあはんこっく",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-abff723401f40058",
+      "title": "ロブ・ルッチ",
+      "body": "ロブ・ルッチ",
+      "reading": "ろぶるっち",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-34e3e2b27a3ab37e",
+      "title": "モンキー・D・ガープ",
+      "body": "モンキー・D・ガープ",
+      "reading": "もんきーでぃーがーぷ",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-8b57385492a76907",
+      "title": "ビッグ・マム",
+      "body": "ビッグ・マム",
+      "reading": "びっぐまむ",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-586dd11dec9217a0",
+      "title": "白ひげ",
+      "body": "白ひげ",
+      "reading": "しろひげ",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-77578e0fdbf2cd7d",
+      "title": "黒ひげ",
+      "body": "黒ひげ",
+      "reading": "くろひげ",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-7c1d52be59bca1a3",
+      "title": "光月おでん",
+      "body": "光月おでん",
+      "reading": "こうづきおでん",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-b2a346e7529672f4",
+      "title": "光月モモの助",
+      "body": "光月モモの助",
+      "reading": "こうづきもものすけ",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-1fed6930e0d444a7",
+      "title": "光月日和",
+      "body": "光月日和",
+      "reading": "こうづきひより",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-99362f40f493ce4f",
+      "title": "錦えもん",
+      "body": "錦えもん",
+      "reading": "きんえもん",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-c3a6ebb29da0bb1d",
+      "title": "カン十郎",
+      "body": "カン十郎",
+      "reading": "かんじゅうろう",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-8d0415d1bcd5b7ae",
+      "title": "雷ぞう",
+      "body": "雷ぞう",
+      "reading": "らいぞう",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-5fd79510bedab40a",
+      "title": "お菊",
+      "body": "お菊",
+      "reading": "おきく",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-d03ec910fe75836f",
+      "title": "お玉",
+      "body": "お玉",
+      "reading": "おたま",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-b6ecc27e1941766f",
+      "title": "傳ジロー",
+      "body": "傳ジロー",
+      "reading": "でんじろう",
+      "category": "ONE PIECE"
+    },
+    {
+      "id": "w-347191617d00567b",
+      "title": "河松",
+      "body": "河松",
+      "reading": "かわまつ",
+      "category": "ONE PIECE"
+    }
+  ]
+}

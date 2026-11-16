@@ -1,0 +1,58 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "aaf9fd421e8b257b",
+  "name": "あおぎり高校",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-9cb00629b75feecb",
+      "title": "栗駒こまる",
+      "body": "栗駒こまる",
+      "reading": "くりこまこまる",
+      "category": "あおぎり高校"
+    },
+    {
+      "id": "w-49be5b622fe77e99",
+      "title": "我部りえる",
+      "body": "我部りえる",
+      "reading": "がべりえる",
+      "category": "あおぎり高校"
+    },
+    {
+      "id": "w-2ef65ca63d1e98fb",
+      "title": "千代浦蝶美",
+      "body": "千代浦蝶美",
+      "reading": "ちようらちょうみ",
+      "category": "あおぎり高校"
+    },
+    {
+      "id": "w-7094a6edef993aa7",
+      "title": "水菜月夏希",
+      "body": "水菜月夏希",
+      "reading": "みなづきなつき",
+      "category": "あおぎり高校"
+    },
+    {
+      "id": "w-fa060c5e56b9a8b9",
+      "title": "春雨麗女",
+      "body": "春雨麗女",
+      "reading": "はるさめうらら",
+      "category": "あおぎり高校"
+    },
+    {
+      "id": "w-d0ca6c670dab1ab7",
+      "title": "石狩あかり",
+      "body": "石狩あかり",
+      "reading": "いしかりあかり",
+      "category": "あおぎり高校"
+    },
+    {
+      "id": "w-fc63469daf6eb7de",
+      "title": "大代真白",
+      "body": "大代真白",
+      "reading": "おおしろましろ",
+      "category": "あおぎり高校"
+    }
+  ]
+}

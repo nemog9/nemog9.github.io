@@ -1,0 +1,1143 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "25ec1894994c8b5a",
+  "name": "BLEACH",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-3d7a63237df6b9f6",
+      "title": "黒崎一護",
+      "body": "黒崎一護",
+      "reading": "くろさきいちご",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-b56641cf9c7f3bd2",
+      "title": "朽木ルキア",
+      "body": "朽木ルキア",
+      "reading": "くちきるきあ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-921b1a2ec159200d",
+      "title": "井上織姫",
+      "body": "井上織姫",
+      "reading": "いのうえおりひめ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-b6ffa0a3e24be50b",
+      "title": "石田雨竜",
+      "body": "石田雨竜",
+      "reading": "いしだうりゅう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d4d11fcd8575de9a",
+      "title": "茶渡泰虎",
+      "body": "茶渡泰虎",
+      "reading": "さどやすとら",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-da958c2344ed1ee3",
+      "title": "黒崎一心",
+      "body": "黒崎一心",
+      "reading": "くろさきいっしん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-bc407b2fb76c7648",
+      "title": "志波一心",
+      "body": "志波一心",
+      "reading": "しばいっしん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-cc02112a7701e538",
+      "title": "黒崎夏梨",
+      "body": "黒崎夏梨",
+      "reading": "くろさきかりん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-679b8ade4ca12998",
+      "title": "黒崎遊子",
+      "body": "黒崎遊子",
+      "reading": "くろさきゆず",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-520f4a79e4842911",
+      "title": "黒崎真咲",
+      "body": "黒崎真咲",
+      "reading": "くろさきまさき",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-da51902344b358e3",
+      "title": "黒崎一勇",
+      "body": "黒崎一勇",
+      "reading": "くろさきかずい",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-5ab90843d2d8dba6",
+      "title": "石田竜弦",
+      "body": "石田竜弦",
+      "reading": "いしだりゅうけん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-48844bcd721f9cf4",
+      "title": "石田宗弦",
+      "body": "石田宗弦",
+      "reading": "いしだそうけん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-5a176e0a75dca68c",
+      "title": "片桐叶絵",
+      "body": "片桐叶絵",
+      "reading": "かたぎりかなえ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-60b0b6557fc28bcb",
+      "title": "浦原喜助",
+      "body": "浦原喜助",
+      "reading": "うらはらきすけ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d4e11566dd3c889",
+      "title": "四楓院夜一",
+      "body": "四楓院夜一",
+      "reading": "しほういんよるいち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-4afd44b895acefc0",
+      "title": "四楓院夕四郎咲宗",
+      "body": "四楓院夕四郎咲宗",
+      "reading": "しほういんゆうしろうさきむね",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-f2a606f6df34af99",
+      "title": "握菱鉄裁",
+      "body": "握菱鉄裁",
+      "reading": "つかびしてっさい",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-bcda8c7d083aa9f3",
+      "title": "紬屋雨",
+      "body": "紬屋雨",
+      "reading": "つむぎやうるる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2d062a53f4275d04",
+      "title": "花刈ジン太",
+      "body": "花刈ジン太",
+      "reading": "はなかりじんた",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-9656f21f1dcfe188",
+      "title": "有沢竜貴",
+      "body": "有沢竜貴",
+      "reading": "ありさわたつき",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2c1ea1c5b12b86ff",
+      "title": "浅野啓吾",
+      "body": "浅野啓吾",
+      "reading": "あさのけいご",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7bd9821e10d0cd70",
+      "title": "小島水色",
+      "body": "小島水色",
+      "reading": "こじまみずいろ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-52e37accef768a90",
+      "title": "井上昊",
+      "body": "井上昊",
+      "reading": "いのうえそら",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-69df032cebf53746",
+      "title": "山本元柳斎重國",
+      "body": "山本元柳斎重國",
+      "reading": "やまもとげんりゅうさいしげくに",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-e2359b928529886e",
+      "title": "京楽春水",
+      "body": "京楽春水",
+      "reading": "きょうらくしゅんすい",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2d4cc77443614889",
+      "title": "砕蜂",
+      "body": "砕蜂",
+      "reading": "そいふぉん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-28fb327e0fa9a992",
+      "title": "鳳橋楼十郎",
+      "body": "鳳橋楼十郎",
+      "reading": "おおとりばしろうじゅうろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-900214ccd82a478e",
+      "title": "市丸ギン",
+      "body": "市丸ギン",
+      "reading": "いちまるぎん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-ecc875e8f3f6730d",
+      "title": "卯ノ花烈",
+      "body": "卯ノ花烈",
+      "reading": "うのはなれつ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-fe6da8fd96381fa5",
+      "title": "卯ノ花八千流",
+      "body": "卯ノ花八千流",
+      "reading": "うのはなやちる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d731d5c15c565a2",
+      "title": "藍染惣右介",
+      "body": "藍染惣右介",
+      "reading": "あいぜんそうすけ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-9478f8228a9ba900",
+      "title": "平子真子",
+      "body": "平子真子",
+      "reading": "ひらこしんじ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-1eaffb02ea15aee2",
+      "title": "朽木白哉",
+      "body": "朽木白哉",
+      "reading": "くちきびゃくや",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-4f1362aeb1f019",
+      "title": "狛村左陣",
+      "body": "狛村左陣",
+      "reading": "こまむらさじん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-36f8a22a7e7ffbce",
+      "title": "東仙要",
+      "body": "東仙要",
+      "reading": "とうせんかなめ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-3ad7aca616ce407b",
+      "title": "六車拳西",
+      "body": "六車拳西",
+      "reading": "むぐるまけんせい",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-5a694a7e76354414",
+      "title": "日番谷冬獅郎",
+      "body": "日番谷冬獅郎",
+      "reading": "ひつがやとうしろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-aff7c742af1f7906",
+      "title": "更木剣八",
+      "body": "更木剣八",
+      "reading": "ざらきけんぱち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-a4500f199f4870ec",
+      "title": "涅マユリ",
+      "body": "涅マユリ",
+      "reading": "くろつちまゆり",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-3548002dd0ec1d6d",
+      "title": "浮竹十四郎",
+      "body": "浮竹十四郎",
+      "reading": "うきたけじゅうしろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-baaf660b0bdfb5a2",
+      "title": "矢胴丸リサ",
+      "body": "矢胴丸リサ",
+      "reading": "やどうまるりさ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-a5bec3eca0660d92",
+      "title": "愛川羅武",
+      "body": "愛川羅武",
+      "reading": "あいかわらぶ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-fb491b2866bdc4bb",
+      "title": "雀部長次郎忠息",
+      "body": "雀部長次郎忠息",
+      "reading": "ささきべちょうじろうただおき",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-84d26d9442a82156",
+      "title": "伊勢七緒",
+      "body": "伊勢七緒",
+      "reading": "いせななお",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-a6305f6ff95f38a5",
+      "title": "沖牙源志郎",
+      "body": "沖牙源志郎",
+      "reading": "おききばげんしろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-ca404f2f579a50d5",
+      "title": "大前田希千代",
+      "body": "大前田希千代",
+      "reading": "おおまえだまれちよ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-4f03c2fe888397f3",
+      "title": "大前田希ノ進",
+      "body": "大前田希ノ進",
+      "reading": "おおまえだまれのしん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-9d7bb06b355b0dc8",
+      "title": "吉良イヅル",
+      "body": "吉良イヅル",
+      "reading": "きらいづる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-63dd951d71657904",
+      "title": "虎徹勇音",
+      "body": "虎徹勇音",
+      "reading": "こてついさね",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-5f90ac6575e6968",
+      "title": "虎徹清音",
+      "body": "虎徹清音",
+      "reading": "こてつきよね",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-428541ab475a4b95",
+      "title": "雛森桃",
+      "body": "雛森桃",
+      "reading": "ひなもりもも",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-49bec59618037039",
+      "title": "阿散井恋次",
+      "body": "阿散井恋次",
+      "reading": "あばらいれんじ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-9f5ae4b647a48b5a",
+      "title": "射場鉄左衛門",
+      "body": "射場鉄左衛門",
+      "reading": "いばてつざえもん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-80d89a46cfd173d0",
+      "title": "射場千鉄",
+      "body": "射場千鉄",
+      "reading": "いばちかね",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-8bf9ddd0744594df",
+      "title": "久南白",
+      "body": "久南白",
+      "reading": "くなましろ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-8564ce48372a3dbb",
+      "title": "松本乱菊",
+      "body": "松本乱菊",
+      "reading": "まつもとらんぎく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-ed6e3d4bc9c0c5a8",
+      "title": "草鹿やちる",
+      "body": "草鹿やちる",
+      "reading": "くさじしやちる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-ebc19429fd000a39",
+      "title": "斑目一角",
+      "body": "斑目一角",
+      "reading": "まだらめいっかく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-a1374cf6f9e87fcc",
+      "title": "綾瀬川弓親",
+      "body": "綾瀬川弓親",
+      "reading": "あやせがわゆみちか",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-733aa755bed0f98d",
+      "title": "涅ネム",
+      "body": "涅ネム",
+      "reading": "くろつちねむ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-52855e7052c7b847",
+      "title": "阿近",
+      "body": "阿近",
+      "reading": "あこん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-cd9dd0fe8d9c8c19",
+      "title": "小椿仙太郎",
+      "body": "小椿仙太郎",
+      "reading": "こつばきせんたろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-ee0c204b72c4d59a",
+      "title": "小椿刃右衛門",
+      "body": "小椿刃右衛門",
+      "reading": "こつばきじんえもん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-f24b11878ccd2d79",
+      "title": "山田花太郎",
+      "body": "山田花太郎",
+      "reading": "やまだはなたろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-1914fb3d941ce35a",
+      "title": "山田清之介",
+      "body": "山田清之介",
+      "reading": "やまだせいのすけ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-30c97934b50206b7",
+      "title": "伊江村八十千和",
+      "body": "伊江村八十千和",
+      "reading": "いえむらやそちか",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-24ef199712b3cffb",
+      "title": "荻堂春信",
+      "body": "荻堂春信",
+      "reading": "おぎどうはるのぶ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-4346eb78798fea20",
+      "title": "一貫坂慈楼坊",
+      "body": "一貫坂慈楼坊",
+      "reading": "いっかんざかじろうぼう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-bc1b4bd7dfd14803",
+      "title": "円乗寺辰房",
+      "body": "円乗寺辰房",
+      "reading": "えんじょうじたつふさ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-42be0baccfc76d3c",
+      "title": "行木竜之介",
+      "body": "行木竜之介",
+      "reading": "ゆきりゅうのすけ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-dc851268163631af",
+      "title": "斑目志乃",
+      "body": "斑目志乃",
+      "reading": "まだらめしの",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-ac2b36a12fae7092",
+      "title": "車谷善之助",
+      "body": "車谷善之助",
+      "reading": "くるまだにぜんのすけ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-66b64e715a4618",
+      "title": "阿散井苺花",
+      "body": "阿散井苺花",
+      "reading": "あばらいいちか",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-be7b53612f94a6ba",
+      "title": "志波海燕",
+      "body": "志波海燕",
+      "reading": "しばかいえん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-55697a51cb726dec",
+      "title": "志波都",
+      "body": "志波都",
+      "reading": "しばみやこ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-be491e211520e212",
+      "title": "志波空鶴",
+      "body": "志波空鶴",
+      "reading": "しばくうかく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-8ab2e56ac133834d",
+      "title": "志波岩鷲",
+      "body": "志波岩鷲",
+      "reading": "しばがんじゅ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-8fab2ff982019a78",
+      "title": "朽木銀嶺",
+      "body": "朽木銀嶺",
+      "reading": "くちきぎんれい",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-c830eacb7e67d2d7",
+      "title": "朽木蒼純",
+      "body": "朽木蒼純",
+      "reading": "くちきそうじゅん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2b590cb4a2b07060",
+      "title": "鬼厳城剣八",
+      "body": "鬼厳城剣八",
+      "reading": "きがんじょうけんぱち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-8c2cefaea327a5e4",
+      "title": "痣城剣八",
+      "body": "痣城剣八",
+      "reading": "あざしろけんぱち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-384f7e6a927203a4",
+      "title": "刳屋敷剣八",
+      "body": "刳屋敷剣八",
+      "reading": "くるやしきけんぱち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-31f63a36ac5acd35",
+      "title": "曳舟桐生",
+      "body": "曳舟桐生",
+      "reading": "ひきふねきりお",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-e23134a996daa0e4",
+      "title": "猿柿ひよ里",
+      "body": "猿柿ひよ里",
+      "reading": "さるがきひより",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d92d5abd60ece7a3",
+      "title": "有昭田鉢玄",
+      "body": "有昭田鉢玄",
+      "reading": "うしょうだはちげん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-1fb333d466936780",
+      "title": "兵主部一兵衛",
+      "body": "兵主部一兵衛",
+      "reading": "ひょうすべいちべえ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d21674fd3092cb78",
+      "title": "二枚屋王悦",
+      "body": "二枚屋王悦",
+      "reading": "にまいやおうえつ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-37fb85191059fed1",
+      "title": "麒麟寺天示郎",
+      "body": "麒麟寺天示郎",
+      "reading": "きりんじてんじろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-e7cf56ccdc75448a",
+      "title": "修多羅千手丸",
+      "body": "修多羅千手丸",
+      "reading": "しゅたらせんじゅまる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-814e3a32342abe63",
+      "title": "四楓院千日",
+      "body": "四楓院千日",
+      "reading": "しほういんちか",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-ba71a2e02c6a3156",
+      "title": "厳原金勒",
+      "body": "厳原金勒",
+      "reading": "いづはらきんろく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-36b732b59948eb11",
+      "title": "志島知霧",
+      "body": "志島知霧",
+      "reading": "しじまちぎり",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-c3e7913d5299c4d8",
+      "title": "尾花弾児郎",
+      "body": "尾花弾児郎",
+      "reading": "おばなだんじろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7376185850a3f186",
+      "title": "齋藤不老不死",
+      "body": "齋藤不老不死",
+      "reading": "さいとうふろうふし",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-5268a4abba7b3826",
+      "title": "執行乃武綱",
+      "body": "執行乃武綱",
+      "reading": "しぎょうのぶつな",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-de332eac0faa5dea",
+      "title": "鹿取抜雲斎",
+      "body": "鹿取抜雲斎",
+      "reading": "かとりばつうんさい",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-bd720d52d7167bb7",
+      "title": "久面井煙鉄",
+      "body": "久面井煙鉄",
+      "reading": "くもいえんてつ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-24a557e01eb84260",
+      "title": "王途川雨緒紀",
+      "body": "王途川雨緒紀",
+      "reading": "おうとがわふるおき",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-572cc361146eabe7",
+      "title": "善定寺有嬪",
+      "body": "善定寺有嬪",
+      "reading": "ぜんじょうじうひん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-26f7a0f5620920e8",
+      "title": "逆骨才蔵",
+      "body": "逆骨才蔵",
+      "reading": "さかぼねさいぞう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7a219dcd7a0b94cf",
+      "title": "銀城空吾",
+      "body": "銀城空吾",
+      "reading": "ぎんじょうくうご",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-a1c6d9d7b597bae9",
+      "title": "月島秀九郎",
+      "body": "月島秀九郎",
+      "reading": "つきしましゅうくろう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-38854fe5110f2ad3",
+      "title": "獅子河原萌笑",
+      "body": "獅子河原萌笑",
+      "reading": "ししがわらもえ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-25c3cf22702062b3",
+      "title": "毒ヶ峰リルカ",
+      "body": "毒ヶ峰リルカ",
+      "reading": "どくがみねりるか",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-92990b7bb3c6d422",
+      "title": "ジャッキー・トリスタン",
+      "body": "ジャッキー・トリスタン",
+      "reading": "じゃっきーとりすたん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-8e96fc095f291035",
+      "title": "ウルキオラ・シファー",
+      "body": "ウルキオラ・シファー",
+      "reading": "うるきおらしふぁー",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-6f0587b6eb358075",
+      "title": "グリムジョー・ジャガージャック",
+      "body": "グリムジョー・ジャガージャック",
+      "reading": "ぐりむじょーじゃがーじゃっく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-3495b0aec78194da",
+      "title": "ティア・ハリベル",
+      "body": "ティア・ハリベル",
+      "reading": "てぃあはりべる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-1e1a13952e209c92",
+      "title": "バラガン・ルイゼンバーン",
+      "body": "バラガン・ルイゼンバーン",
+      "reading": "ばらがんるいぜんばーん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-1fb4a040d6112350",
+      "title": "コヨーテ・スターク",
+      "body": "コヨーテ・スターク",
+      "reading": "こよーてすたーく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2539a96c41e42c07",
+      "title": "リリネット・ジンジャーバック",
+      "body": "リリネット・ジンジャーバック",
+      "reading": "りりねっとじんじゃーばっく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2f56781becc50ca1",
+      "title": "ノイトラ・ジルガ",
+      "body": "ノイトラ・ジルガ",
+      "reading": "のいとらじるが",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-4c0aea4fed3952e1",
+      "title": "ザエルアポロ・グランツ",
+      "body": "ザエルアポロ・グランツ",
+      "reading": "ざえるあぽろぐらんつ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-69157d161f6482ac",
+      "title": "アーロニーロ・アルルエリ",
+      "body": "アーロニーロ・アルルエリ",
+      "reading": "あーろにーろあるるえり",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-e51da4d6de78e031",
+      "title": "ヤミー・リヤルゴ",
+      "body": "ヤミー・リヤルゴ",
+      "reading": "やみーりやるご",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-b56640a0613681b9",
+      "title": "ネリエル・トゥ・オーデルシュヴァンク",
+      "body": "ネリエル・トゥ・オーデルシュヴァンク",
+      "reading": "ねりえるとぅおーでるしゅゔぁんく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-efa6a7128eb6185c",
+      "title": "ルピ・アンテノール",
+      "body": "ルピ・アンテノール",
+      "reading": "るぴあんてのーる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-aa7880c09c6ed627",
+      "title": "ワンダーワイス・マルジェラ",
+      "body": "ワンダーワイス・マルジェラ",
+      "reading": "わんだーわいすまるじぇら",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7576e9a9fada828c",
+      "title": "ペッシェ・ガティーシェ",
+      "body": "ペッシェ・ガティーシェ",
+      "reading": "ぺっしぇがてぃーしぇ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-5718ae124375037",
+      "title": "ドンドチャッカ・ビルスタン",
+      "body": "ドンドチャッカ・ビルスタン",
+      "reading": "どんどちゃっかびるすたん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-308fae204eefdcb0",
+      "title": "テスラ・リンドクルツ",
+      "body": "テスラ・リンドクルツ",
+      "reading": "てすらりんどくるつ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-99bc93c6d75942f2",
+      "title": "シャウロン・クーファン",
+      "body": "シャウロン・クーファン",
+      "reading": "しゃうろんくーふぁん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d3ce916ff5edfc64",
+      "title": "エドラド・リオーネス",
+      "body": "エドラド・リオーネス",
+      "reading": "えどらどりおーねす",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-326d2bdd80722ba5",
+      "title": "ナキーム・グリンディーナ",
+      "body": "ナキーム・グリンディーナ",
+      "reading": "なきーむぐりんでぃーな",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7ae2d8265f2cd5c5",
+      "title": "イルフォルト・グランツ",
+      "body": "イルフォルト・グランツ",
+      "reading": "いるふぉるとぐらんつ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7533ad51d79b866b",
+      "title": "ニルゲ・パルドゥック",
+      "body": "ニルゲ・パルドゥック",
+      "reading": "にるげぱるどぅっく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-5b64ad77a0c92c3c",
+      "title": "チーノン・ポウ",
+      "body": "チーノン・ポウ",
+      "reading": "ちーのんぽう",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d5cef740db8d4bdb",
+      "title": "シャルロッテ・クールホーン",
+      "body": "シャルロッテ・クールホーン",
+      "reading": "しゃるろってくーるほーん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-422a44465cda3d7c",
+      "title": "アビラマ・レッダー",
+      "body": "アビラマ・レッダー",
+      "reading": "あびらまれっだー",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-bede8adbf280ce6a",
+      "title": "フィンドール・キャリアス",
+      "body": "フィンドール・キャリアス",
+      "reading": "ふぃんどーるきゃりあす",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-3fddc3c9781e0de5",
+      "title": "エミルー・アパッチ",
+      "body": "エミルー・アパッチ",
+      "reading": "えみるーあぱっち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-15f139b31bafadd2",
+      "title": "フランセスカ・ミラ・ローズ",
+      "body": "フランセスカ・ミラ・ローズ",
+      "reading": "ふらんせすかみらろーず",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-35078f34d6cbc89c",
+      "title": "シアン・スンスン",
+      "body": "シアン・スンスン",
+      "reading": "しあんすんすん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-c9176357823b245e",
+      "title": "ロリ・アイヴァーン",
+      "body": "ロリ・アイヴァーン",
+      "reading": "ろりあいゔぁーん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d898ccb82b535262",
+      "title": "メノリ・マリア",
+      "body": "メノリ・マリア",
+      "reading": "めのりまりあ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-249257bae0d1f009",
+      "title": "ガンテンバイン・モスケーダ",
+      "body": "ガンテンバイン・モスケーダ",
+      "reading": "がんてんばいんもすけーだ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-6bd62f182acc5432",
+      "title": "チルッチ・サンダーウィッチ",
+      "body": "チルッチ・サンダーウィッチ",
+      "reading": "ちるっちさんだーうぃっち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-87f736d939e011ea",
+      "title": "ドルドーニ・アレッサンドロ・デル・ソカッ",
+      "body": "ドルドーニ・アレッサンドロ・デル・ソカッチオ",
+      "reading": "どるどーにあれっさんどろでるそかっちお",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-67e143a74f849093",
+      "title": "ゾマリ・ルルー",
+      "body": "ゾマリ・ルルー",
+      "reading": "ぞまりるるー",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-96f9ada0a7d58cfe",
+      "title": "ユーグラム・ハッシュヴァルト",
+      "body": "ユーグラム・ハッシュヴァルト",
+      "reading": "ゆーぐらむはっしゅゔぁると",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-aeb0cf4cd404730b",
+      "title": "ペルニダ・パルンカジャス",
+      "body": "ペルニダ・パルンカジャス",
+      "reading": "ぺるにだぱるんかじゃす",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-e7af479a41c9e559",
+      "title": "アスキン・ナックルヴァール",
+      "body": "アスキン・ナックルヴァール",
+      "reading": "あすきんなっくるゔぁーる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-214d9499ea5ec313",
+      "title": "ジェラルド・ヴァルキリー",
+      "body": "ジェラルド・ヴァルキリー",
+      "reading": "じぇらるどゔぁるきりー",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2110c0ca2914a314",
+      "title": "リジェ・バロ",
+      "body": "リジェ・バロ",
+      "reading": "りじぇばろ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-b2c6ae86039226cc",
+      "title": "グレミィ・トゥミュー",
+      "body": "グレミィ・トゥミュー",
+      "reading": "ぐれみぃとぅみゅー",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-da54ab2313707efa",
+      "title": "バンビエッタ・バスターバイン",
+      "body": "バンビエッタ・バスターバイン",
+      "reading": "ばんびえったばすたーばいん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-77434145270b1382",
+      "title": "バザード・ブラック",
+      "body": "バザード・ブラック",
+      "reading": "ばざーどぶらっく",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-240d1609bb0c0697",
+      "title": "ジゼル・ジュエル",
+      "body": "ジゼル・ジュエル",
+      "reading": "じぜるじゅえる",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-750d917af4e61d94",
+      "title": "リルトット・ランパード",
+      "body": "リルトット・ランパード",
+      "reading": "りるとっとらんぱーど",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7f5b89e8702c7eaa",
+      "title": "キャンディス・キャットニップ",
+      "body": "キャンディス・キャットニップ",
+      "reading": "きゃんでぃすきゃっとにっぷ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-4618cb9f10b1d876",
+      "title": "メニーナス・マカロン",
+      "body": "メニーナス・マカロン",
+      "reading": "めにーなすまかろん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-a6127c19759dbc71",
+      "title": "ロバート・アキュトロン",
+      "body": "ロバート・アキュトロン",
+      "reading": "ろばーとあきゅとろん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-e390effa887380f1",
+      "title": "ドリスコール・ベルチ",
+      "body": "ドリスコール・ベルチ",
+      "reading": "どりすこーるべるち",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-704766613b22d1ea",
+      "title": "マスク・ド・マスキュリン",
+      "body": "マスク・ド・マスキュリン",
+      "reading": "ますくどますきゅりん",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-7bb23cdd54fc67f9",
+      "title": "ナナナ・ナジャークープ",
+      "body": "ナナナ・ナジャークープ",
+      "reading": "ななななじゃーくーぷ",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-9848530820d85acc",
+      "title": "グエナエル・リー",
+      "body": "グエナエル・リー",
+      "reading": "ぐえなえるりー",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-35f3294e43b7d8e",
+      "title": "ベレニケ・ガブリエリ",
+      "body": "ベレニケ・ガブリエリ",
+      "reading": "べれにけがぶりえり",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-d28657f7bb2bd349",
+      "title": "ジェローム・ギズバット",
+      "body": "ジェローム・ギズバット",
+      "reading": "じぇろーむぎずばっと",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-2a383941bbe976ae",
+      "title": "ロイド・ロイド",
+      "body": "ロイド・ロイド",
+      "reading": "ろいどろいど",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-e7fa7caecf871468",
+      "title": "シャズ・ドミノ",
+      "body": "シャズ・ドミノ",
+      "reading": "しゃずどみの",
+      "category": "BLEACH"
+    },
+    {
+      "id": "w-19a4d2a186cefe31",
+      "title": "ペペ・ワキャブラーダ",
+      "body": "ペペ・ワキャブラーダ",
+      "reading": "ぺぺわきゃぶらーだ",
+      "category": "BLEACH"
+    }
+  ]
+}

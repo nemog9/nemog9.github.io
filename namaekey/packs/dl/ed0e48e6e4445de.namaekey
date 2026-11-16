@@ -1,0 +1,72 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "ed0e48e6e4445de",
+  "name": "カグラバチ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-c9d733041cc8532d",
+      "title": "六平千鉱",
+      "body": "六平千鉱",
+      "reading": "ろくひらちひろ",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-c4f0fb876c4270ab",
+      "title": "六平国重",
+      "body": "六平国重",
+      "reading": "ろくひらくにしげ",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-b2d4e590f30690c0",
+      "title": "柴登吾",
+      "body": "柴登吾",
+      "reading": "しばとうご",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-e61cf60085965633",
+      "title": "香刈緋雪",
+      "body": "香刈緋雪",
+      "reading": "かがりひゆき",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-e815e957ad163aab",
+      "title": "昼彦",
+      "body": "昼彦",
+      "reading": "ひるひこ",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-ef874131fc1fab7",
+      "title": "座村清市",
+      "body": "座村清市",
+      "reading": "さむらせいいち",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-62090dd1f5e58e6d",
+      "title": "卯月清彦",
+      "body": "卯月清彦",
+      "reading": "うづききよひこ",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-a93bc293b31e0ebd",
+      "title": "伯理",
+      "body": "伯理",
+      "reading": "はくり",
+      "category": "カグラバチ"
+    },
+    {
+      "id": "w-89ed8c1ba57f8f9b",
+      "title": "薊",
+      "body": "薊",
+      "reading": "あざみ",
+      "category": "カグラバチ"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "d1efb986047af78b",
+  "name": "けいおん!",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-3a55360eb6094870",
+      "title": "平沢唯",
+      "body": "平沢唯",
+      "reading": "ひらさわゆい",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-8c11a4a122febf9",
+      "title": "秋山澪",
+      "body": "秋山澪",
+      "reading": "あきやまみお",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-3b8d931059905b66",
+      "title": "田井中律",
+      "body": "田井中律",
+      "reading": "たいなかりつ",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-ef180e770c647507",
+      "title": "琴吹紬",
+      "body": "琴吹紬",
+      "reading": "ことぶきつむぎ",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-f43ce44fc1d6d4d3",
+      "title": "中野梓",
+      "body": "中野梓",
+      "reading": "なかのあずさ",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-f2d19a38571bd10c",
+      "title": "山中さわ子",
+      "body": "山中さわ子",
+      "reading": "やまなかさわこ",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-1aa0c1faf43bf5c7",
+      "title": "真鍋和",
+      "body": "真鍋和",
+      "reading": "まなべのどか",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-23fb1e0eaa6707c8",
+      "title": "平沢憂",
+      "body": "平沢憂",
+      "reading": "ひらさわうい",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-d06836b71ac98553",
+      "title": "鈴木純",
+      "body": "鈴木純",
+      "reading": "すずきじゅん",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-ee656d6907a050be",
+      "title": "曽我部恵",
+      "body": "曽我部恵",
+      "reading": "そかべめぐみ",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-d76ee9cf26a1f88f",
+      "title": "斉藤菫",
+      "body": "斉藤菫",
+      "reading": "さいとうすみれ",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-cbb89f80eeeaae6f",
+      "title": "奥田直",
+      "body": "奥田直",
+      "reading": "おくだなお",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-cb4f3c101a18559c",
+      "title": "田井中聡",
+      "body": "田井中聡",
+      "reading": "たいなかさとし",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-11f2bd648292215",
+      "title": "河口紀美",
+      "body": "河口紀美",
+      "reading": "かわぐちのりみ",
+      "category": "けいおん!"
+    },
+    {
+      "id": "w-732216a2d994e09a",
+      "title": "一文字とみ",
+      "body": "一文字とみ",
+      "reading": "いちもんじとみ",
+      "category": "けいおん!"
+    }
+  ]
+}

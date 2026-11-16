@@ -1,17 +1,148 @@
 [
   {
-    "name": "ぼっち・ざ・ろっく!",
-    "count": 8,
+    "name": "765プロダクション",
+    "count": 15,
     "description": "",
-    "genre": "アニメ・マンガ",
+    "file": "dl/73ec952a45bb84a9.namaekey",
+    "filename": "765プロダクション.namaekey"
+  },
+  {
+    "name": "BLEACH",
+    "count": 162,
+    "description": "",
+    "file": "dl/25ec1894994c8b5a.namaekey",
+    "filename": "BLEACH.namaekey"
+  },
+  {
+    "name": "Dr.STONE",
+    "count": 16,
+    "description": "",
+    "file": "dl/afb4bedd0a7d3e6c.namaekey",
+    "filename": "Dr.STONE.namaekey"
+  },
+  {
+    "name": "FateGrandOrder",
+    "count": 226,
+    "description": "",
+    "file": "dl/6c2ff64ae85b489d.namaekey",
+    "filename": "FateGrandOrder.namaekey"
+  },
+  {
+    "name": "Fateシリーズ",
+    "count": 89,
+    "description": "",
+    "file": "dl/181ead4c486d0722.namaekey",
+    "filename": "Fateシリーズ.namaekey"
+  },
+  {
+    "name": "NARUTO -ナルト-",
+    "count": 51,
+    "description": "",
+    "file": "dl/293f3c760b90878d.namaekey",
+    "filename": "NARUTO -ナルト-.namaekey"
+  },
+  {
+    "name": "ONE PIECE",
+    "count": 25,
+    "description": "",
+    "file": "dl/8428fcbe495f8bfd.namaekey",
+    "filename": "ONE PIECE.namaekey"
+  },
+  {
+    "name": "Re：AcT",
+    "count": 5,
+    "description": "",
+    "file": "dl/761514c32d0f5cd9.namaekey",
+    "filename": "Re：AcT.namaekey"
+  },
+  {
+    "name": "Re：ゼロから始める異世界生活",
+    "count": 33,
+    "description": "",
+    "file": "dl/67580bba72656744.namaekey",
+    "filename": "Re：ゼロから始める異世界生活.namaekey"
+  },
+  {
+    "name": "SPY×FAMILY",
+    "count": 33,
+    "description": "",
+    "file": "dl/890b04458992edcf.namaekey",
+    "filename": "SPY×FAMILY.namaekey"
+  },
+  {
+    "name": "VOMS",
+    "count": 3,
+    "description": "",
+    "file": "dl/c8302f089a53e4da.namaekey",
+    "filename": "VOMS.namaekey"
+  },
+  {
+    "name": "あおぎり高校",
+    "count": 7,
+    "description": "",
+    "file": "dl/aaf9fd421e8b257b.namaekey",
+    "filename": "あおぎり高校.namaekey"
+  },
+  {
+    "name": "けいおん!",
+    "count": 15,
+    "description": "",
+    "file": "dl/d1efb986047af78b.namaekey",
+    "filename": "けいおん!.namaekey"
+  },
+  {
+    "name": "その着せ替え人形は恋をする",
+    "count": 7,
+    "description": "",
+    "file": "dl/f0805a6ff97fc914.namaekey",
+    "filename": "その着せ替え人形は恋をする.namaekey"
+  },
+  {
+    "name": "ななしいんく",
+    "count": 22,
+    "description": "",
+    "file": "dl/5cadaec596c92b29.namaekey",
+    "filename": "ななしいんく.namaekey"
+  },
+  {
+    "name": "にじさんじ",
+    "count": 157,
+    "description": "",
+    "file": "dl/a2655f944f3d2d27.namaekey",
+    "filename": "にじさんじ.namaekey"
+  },
+  {
+    "name": "のりプロ",
+    "count": 10,
+    "description": "",
+    "file": "dl/b03305720e29ba86.namaekey",
+    "filename": "のりプロ.namaekey"
+  },
+  {
+    "name": "ぶいすぽっ!",
+    "count": 31,
+    "description": "",
+    "file": "dl/8c4b581dab7173e9.namaekey",
+    "filename": "ぶいすぽっ!.namaekey"
+  },
+  {
+    "name": "ぼっち・ざ・ろっく!",
+    "count": 31,
+    "description": "",
     "file": "dl/f131413e33102f6a.namaekey",
     "filename": "ぼっち・ざ・ろっく!.namaekey"
+  },
+  {
+    "name": "ますかれーど",
+    "count": 3,
+    "description": "",
+    "file": "dl/cc18c6a46c4f371.namaekey",
+    "filename": "ますかれーど.namaekey"
   },
   {
     "name": "やがて君になる",
     "count": 17,
     "description": "",
-    "genre": "アニメ・マンガ",
     "file": "dl/f1da18ed926c6ea5.namaekey",
     "filename": "やがて君になる.namaekey"
   },
@@ -19,7 +150,6 @@
     "name": "ゆゆ式",
     "count": 7,
     "description": "",
-    "genre": "アニメ・マンガ",
     "file": "dl/e1a0d8e288938ffb.namaekey",
     "filename": "ゆゆ式.namaekey"
   },
@@ -27,127 +157,153 @@
     "name": "ゆるゆり",
     "count": 23,
     "description": "",
-    "genre": "アニメ・マンガ",
     "file": "dl/b4b6362ac0e6d616.namaekey",
     "filename": "ゆるゆり.namaekey"
+  },
+  {
+    "name": "わたしの幸せな結婚",
+    "count": 9,
+    "description": "",
+    "file": "dl/9834a4f5017bb762.namaekey",
+    "filename": "わたしの幸せな結婚.namaekey"
+  },
+  {
+    "name": "アイドルマスター ミリオンライブ!",
+    "count": 38,
+    "description": "",
+    "file": "dl/618dbedd8f719331.namaekey",
+    "filename": "アイドルマスター ミリオンライブ!.namaekey"
+  },
+  {
+    "name": "アイドルマスターシャイニーカラーズ",
+    "count": 30,
+    "description": "",
+    "file": "dl/492c1f261bb7bee0.namaekey",
+    "filename": "アイドルマスターシャイニーカラーズ.namaekey"
+  },
+  {
+    "name": "アイドルマスターシンデレラガールズ",
+    "count": 189,
+    "description": "",
+    "file": "dl/c6608928a6325073.namaekey",
+    "filename": "アイドルマスターシンデレラガールズ.namaekey"
+  },
+  {
+    "name": "ウィッチウォッチ",
+    "count": 7,
+    "description": "",
+    "file": "dl/11eaf9961e0f77b.namaekey",
+    "filename": "ウィッチウォッチ.namaekey"
+  },
+  {
+    "name": "ウマ娘プリティーダービー",
+    "count": 4,
+    "description": "",
+    "file": "dl/25248d46eeec0737.namaekey",
+    "filename": "ウマ娘プリティーダービー.namaekey"
+  },
+  {
+    "name": "カグラバチ",
+    "count": 9,
+    "description": "",
+    "file": "dl/ed0e48e6e4445de.namaekey",
+    "filename": "カグラバチ.namaekey"
+  },
+  {
+    "name": "サカモトデイズ",
+    "count": 15,
+    "description": "",
+    "file": "dl/362bca96f6d02c44.namaekey",
+    "filename": "サカモトデイズ.namaekey"
+  },
+  {
+    "name": "ジョジョの奇妙な冒険",
+    "count": 107,
+    "description": "",
+    "file": "dl/2a2048eaefb54de5.namaekey",
+    "filename": "ジョジョの奇妙な冒険.namaekey"
+  },
+  {
+    "name": "スキップとローファー",
+    "count": 8,
+    "description": "",
+    "file": "dl/7684d50c1411e80f.namaekey",
+    "filename": "スキップとローファー.namaekey"
+  },
+  {
+    "name": "スラムダンク",
+    "count": 33,
+    "description": "",
+    "file": "dl/91e7fa32cd66113f.namaekey",
+    "filename": "スラムダンク.namaekey"
+  },
+  {
+    "name": "ソードアート・オンライン",
+    "count": 27,
+    "description": "",
+    "file": "dl/9c5145ccffa58667.namaekey",
+    "filename": "ソードアート・オンライン.namaekey"
+  },
+  {
+    "name": "ダンダダン",
+    "count": 5,
+    "description": "",
+    "file": "dl/3d2f00c238144323.namaekey",
+    "filename": "ダンダダン.namaekey"
+  },
+  {
+    "name": "タコピーの原罪",
+    "count": 3,
+    "description": "",
+    "file": "dl/990471c18b2d17cb.namaekey",
+    "filename": "タコピーの原罪.namaekey"
   },
   {
     "name": "チェンソーマン",
     "count": 21,
     "description": "",
-    "genre": "アニメ・マンガ",
     "file": "dl/fe4d28d3bbb6e872.namaekey",
     "filename": "チェンソーマン.namaekey"
+  },
+  {
+    "name": "テニスの王子様",
+    "count": 53,
+    "description": "",
+    "file": "dl/4909de5d61333cd.namaekey",
+    "filename": "テニスの王子様.namaekey"
+  },
+  {
+    "name": "ドラゴンボール",
+    "count": 14,
+    "description": "",
+    "file": "dl/105f69df552d1444.namaekey",
+    "filename": "ドラゴンボール.namaekey"
+  },
+  {
+    "name": "ネオポルテ",
+    "count": 12,
+    "description": "",
+    "file": "dl/a6da7997909f79fd.namaekey",
+    "filename": "ネオポルテ.namaekey"
   },
   {
     "name": "ハイキュー!!",
     "count": 43,
     "description": "",
-    "genre": "アニメ・マンガ",
     "file": "dl/4b44fa55c814dab6.namaekey",
     "filename": "ハイキュー!!.namaekey"
   },
   {
-    "name": "ラブライブ!",
-    "count": 39,
+    "name": "ピースアパート",
+    "count": 4,
     "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/564fdca358690209.namaekey",
-    "filename": "ラブライブ!.namaekey"
-  },
-  {
-    "name": "僕のヒーローアカデミア",
-    "count": 81,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/2ce00facdd5182a7.namaekey",
-    "filename": "僕のヒーローアカデミア.namaekey"
-  },
-  {
-    "name": "名探偵コナン",
-    "count": 112,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/4609c9d3a27ecec9.namaekey",
-    "filename": "名探偵コナン.namaekey"
-  },
-  {
-    "name": "呪術廻戦",
-    "count": 42,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/3962aa25af0a00e6.namaekey",
-    "filename": "呪術廻戦.namaekey"
-  },
-  {
-    "name": "大室家",
-    "count": 10,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/2b1717eb66c167e9.namaekey",
-    "filename": "大室家.namaekey"
-  },
-  {
-    "name": "文豪ストレイドッグス",
-    "count": 42,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/d10b91ef0245327.namaekey",
-    "filename": "文豪ストレイドッグス.namaekey"
-  },
-  {
-    "name": "東京リベンジャーズ",
-    "count": 36,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/484eb67f3ae3c8fc.namaekey",
-    "filename": "東京リベンジャーズ.namaekey"
-  },
-  {
-    "name": "超かぐや姫!",
-    "count": 14,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/27dcdc71858d1284.namaekey",
-    "filename": "超かぐや姫!.namaekey"
-  },
-  {
-    "name": "銀魂",
-    "count": 127,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/3d7b5fc58860937e.namaekey",
-    "filename": "銀魂.namaekey"
-  },
-  {
-    "name": "響け!ユーフォニアム",
-    "count": 33,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/e28a71a2f4de1ca1.namaekey",
-    "filename": "響け!ユーフォニアム.namaekey"
-  },
-  {
-    "name": "鬼滅の刃",
-    "count": 49,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/be59e5bdf3f57806.namaekey",
-    "filename": "鬼滅の刃.namaekey"
-  },
-  {
-    "name": "魔法少女まどかマギカ",
-    "count": 12,
-    "description": "",
-    "genre": "アニメ・マンガ",
-    "file": "dl/cfa28dc845d0506d.namaekey",
-    "filename": "魔法少女まどかマギカ.namaekey"
+    "file": "dl/494c8902be00b85d.namaekey",
+    "filename": "ピースアパート.namaekey"
   },
   {
     "name": "ブルーアーカイブ",
     "count": 144,
     "description": "",
-    "genre": "ゲーム",
     "file": "dl/dbcb93faad9f1570.namaekey",
     "filename": "ブルーアーカイブ.namaekey"
   },
@@ -155,7 +311,6 @@
     "name": "プロジェクトセカイ",
     "count": 26,
     "description": "",
-    "genre": "ゲーム",
     "file": "dl/7b2c6c5a5f0df04d.namaekey",
     "filename": "プロジェクトセカイ.namaekey"
   },
@@ -163,63 +318,20 @@
     "name": "ペルソナシリーズ",
     "count": 52,
     "description": "",
-    "genre": "ゲーム",
     "file": "dl/33d5ce7d4e82752f.namaekey",
     "filename": "ペルソナシリーズ.namaekey"
   },
   {
-    "name": "刀剣乱舞",
-    "count": 129,
+    "name": "ホリミヤ",
+    "count": 14,
     "description": "",
-    "genre": "ゲーム",
-    "file": "dl/2ce7fddb3cfd7073.namaekey",
-    "filename": "刀剣乱舞.namaekey"
-  },
-  {
-    "name": "原神",
-    "count": 39,
-    "description": "",
-    "genre": "ゲーム",
-    "file": "dl/7926e4eb79dc481b.namaekey",
-    "filename": "原神.namaekey"
-  },
-  {
-    "name": "学園アイドルマスター",
-    "count": 25,
-    "description": "",
-    "genre": "ゲーム",
-    "file": "dl/dedfe63b46ba514.namaekey",
-    "filename": "学園アイドルマスター.namaekey"
-  },
-  {
-    "name": "東方Project",
-    "count": 126,
-    "description": "",
-    "genre": "ゲーム",
-    "file": "dl/23dffc74299dfeb3.namaekey",
-    "filename": "東方Project.namaekey"
-  },
-  {
-    "name": "にじさんじ",
-    "count": 135,
-    "description": "",
-    "genre": "VTuber",
-    "file": "dl/a2655f944f3d2d27.namaekey",
-    "filename": "にじさんじ.namaekey"
-  },
-  {
-    "name": "ぶいすぽっ!",
-    "count": 31,
-    "description": "",
-    "genre": "VTuber",
-    "file": "dl/8c4b581dab7173e9.namaekey",
-    "filename": "ぶいすぽっ!.namaekey"
+    "file": "dl/a516fa196e3303fb.namaekey",
+    "filename": "ホリミヤ.namaekey"
   },
   {
     "name": "ホロライブ",
-    "count": 43,
+    "count": 45,
     "description": "",
-    "genre": "VTuber",
     "file": "dl/171af096dc6dd38f.namaekey",
     "filename": "ホロライブ.namaekey"
   },
@@ -227,24 +339,287 @@
     "name": "ホロライブEN",
     "count": 20,
     "description": "",
-    "genre": "VTuber",
     "file": "dl/b594b47a57f75e50.namaekey",
     "filename": "ホロライブEN.namaekey"
+  },
+  {
+    "name": "メダリスト",
+    "count": 10,
+    "description": "",
+    "file": "dl/52cb163dfd0e9b5a.namaekey",
+    "filename": "メダリスト.namaekey"
+  },
+  {
+    "name": "モブサイコ100",
+    "count": 16,
+    "description": "",
+    "file": "dl/97a34259cfa3bca3.namaekey",
+    "filename": "モブサイコ100.namaekey"
+  },
+  {
+    "name": "ラブライブ!",
+    "count": 42,
+    "description": "",
+    "file": "dl/564fdca358690209.namaekey",
+    "filename": "ラブライブ!.namaekey"
+  },
+  {
+    "name": "ロシデレ",
+    "count": 5,
+    "description": "",
+    "file": "dl/7a5038cd1e6befb.namaekey",
+    "filename": "ロシデレ.namaekey"
+  },
+  {
+    "name": "ワンパンマン",
+    "count": 6,
+    "description": "",
+    "file": "dl/76e2615e16da4ed4.namaekey",
+    "filename": "ワンパンマン.namaekey"
+  },
+  {
+    "name": "個人VTuber",
+    "count": 44,
+    "description": "",
+    "file": "dl/c0ead88dd535d579.namaekey",
+    "filename": "個人VTuber.namaekey"
+  },
+  {
+    "name": "僕のヒーローアカデミア",
+    "count": 81,
+    "description": "",
+    "file": "dl/2ce00facdd5182a7.namaekey",
+    "filename": "僕のヒーローアカデミア.namaekey"
+  },
+  {
+    "name": "光が死んだ夏",
+    "count": 5,
+    "description": "",
+    "file": "dl/2eb825dc8f33784c.namaekey",
+    "filename": "光が死んだ夏.namaekey"
+  },
+  {
+    "name": "刀剣乱舞",
+    "count": 129,
+    "description": "",
+    "file": "dl/2ce7fddb3cfd7073.namaekey",
+    "filename": "刀剣乱舞.namaekey"
+  },
+  {
+    "name": "原神",
+    "count": 39,
+    "description": "",
+    "file": "dl/7926e4eb79dc481b.namaekey",
+    "filename": "原神.namaekey"
+  },
+  {
+    "name": "名探偵コナン",
+    "count": 118,
+    "description": "",
+    "file": "dl/4609c9d3a27ecec9.namaekey",
+    "filename": "名探偵コナン.namaekey"
+  },
+  {
+    "name": "呪術廻戦",
+    "count": 42,
+    "description": "",
+    "file": "dl/3962aa25af0a00e6.namaekey",
+    "filename": "呪術廻戦.namaekey"
+  },
+  {
+    "name": "地獄楽",
+    "count": 12,
+    "description": "",
+    "file": "dl/7c4a6917536028.namaekey",
+    "filename": "地獄楽.namaekey"
+  },
+  {
+    "name": "大室家",
+    "count": 10,
+    "description": "",
+    "file": "dl/2b1717eb66c167e9.namaekey",
+    "filename": "大室家.namaekey"
   },
   {
     "name": "女性声優",
     "count": 131,
     "description": "",
-    "genre": "声優",
     "file": "dl/ae034b9cb3713082.namaekey",
     "filename": "女性声優.namaekey"
+  },
+  {
+    "name": "学園アイドルマスター",
+    "count": 25,
+    "description": "",
+    "file": "dl/dedfe63b46ba514.namaekey",
+    "filename": "学園アイドルマスター.namaekey"
+  },
+  {
+    "name": "怪獣8号",
+    "count": 10,
+    "description": "",
+    "file": "dl/22cfcebfbba54ebd.namaekey",
+    "filename": "怪獣8号.namaekey"
+  },
+  {
+    "name": "推しの子",
+    "count": 20,
+    "description": "",
+    "file": "dl/622b351bcb01bba8.namaekey",
+    "filename": "推しの子.namaekey"
+  },
+  {
+    "name": "文豪ストレイドッグス",
+    "count": 42,
+    "description": "",
+    "file": "dl/d10b91ef0245327.namaekey",
+    "filename": "文豪ストレイドッグス.namaekey"
+  },
+  {
+    "name": "東京リベンジャーズ",
+    "count": 36,
+    "description": "",
+    "file": "dl/484eb67f3ae3c8fc.namaekey",
+    "filename": "東京リベンジャーズ.namaekey"
+  },
+  {
+    "name": "東京喰種",
+    "count": 29,
+    "description": "",
+    "file": "dl/438895893d6ecb03.namaekey",
+    "filename": "東京喰種.namaekey"
+  },
+  {
+    "name": "東方Project",
+    "count": 142,
+    "description": "",
+    "file": "dl/23dffc74299dfeb3.namaekey",
+    "filename": "東方Project.namaekey"
+  },
+  {
+    "name": "桃源暗鬼",
+    "count": 8,
+    "description": "",
+    "file": "dl/22ec44a9d4d918e7.namaekey",
+    "filename": "桃源暗鬼.namaekey"
+  },
+  {
+    "name": "深層組",
+    "count": 10,
+    "description": "",
+    "file": "dl/d1e12319f55af7bb.namaekey",
+    "filename": "深層組.namaekey"
+  },
+  {
+    "name": "炎炎ノ消防隊",
+    "count": 16,
+    "description": "",
+    "file": "dl/3d101036d64a283.namaekey",
+    "filename": "炎炎ノ消防隊.namaekey"
+  },
+  {
+    "name": "甘神さんちの縁結び",
+    "count": 6,
+    "description": "",
+    "file": "dl/2ed76d5f40534e73.namaekey",
+    "filename": "甘神さんちの縁結び.namaekey"
   },
   {
     "name": "男性声優",
     "count": 100,
     "description": "",
-    "genre": "声優",
     "file": "dl/1675b5f544b2550b.namaekey",
     "filename": "男性声優.namaekey"
+  },
+  {
+    "name": "葬送のフリーレン",
+    "count": 1,
+    "description": "",
+    "file": "dl/a502a06c065ff86e.namaekey",
+    "filename": "葬送のフリーレン.namaekey"
+  },
+  {
+    "name": "薫る花は凛と咲く",
+    "count": 7,
+    "description": "",
+    "file": "dl/bf1124446d1476ff.namaekey",
+    "filename": "薫る花は凛と咲く.namaekey"
+  },
+  {
+    "name": "薬屋のひとりごと",
+    "count": 17,
+    "description": "",
+    "file": "dl/296fe51b3e840295.namaekey",
+    "filename": "薬屋のひとりごと.namaekey"
+  },
+  {
+    "name": "負けヒロインが多すぎる!",
+    "count": 11,
+    "description": "",
+    "file": "dl/4ba20dc8594ee530.namaekey",
+    "filename": "負けヒロインが多すぎる!.namaekey"
+  },
+  {
+    "name": "超かぐや姫!",
+    "count": 14,
+    "description": "",
+    "file": "dl/27dcdc71858d1284.namaekey",
+    "filename": "超かぐや姫!.namaekey"
+  },
+  {
+    "name": "進撃の巨人",
+    "count": 58,
+    "description": "",
+    "file": "dl/3573bba886f8926f.namaekey",
+    "filename": "進撃の巨人.namaekey"
+  },
+  {
+    "name": "銀魂",
+    "count": 127,
+    "description": "",
+    "file": "dl/3d7b5fc58860937e.namaekey",
+    "filename": "銀魂.namaekey"
+  },
+  {
+    "name": "鋼の錬金術師",
+    "count": 18,
+    "description": "",
+    "file": "dl/8c31ca7a8db0ce23.namaekey",
+    "filename": "鋼の錬金術師.namaekey"
+  },
+  {
+    "name": "青の箱",
+    "count": 7,
+    "description": "",
+    "file": "dl/a771aa01f99a9d49.namaekey",
+    "filename": "青の箱.namaekey"
+  },
+  {
+    "name": "響け!ユーフォニアム",
+    "count": 33,
+    "description": "",
+    "file": "dl/e28a71a2f4de1ca1.namaekey",
+    "filename": "響け!ユーフォニアム.namaekey"
+  },
+  {
+    "name": "鬼滅の刃",
+    "count": 49,
+    "description": "",
+    "file": "dl/be59e5bdf3f57806.namaekey",
+    "filename": "鬼滅の刃.namaekey"
+  },
+  {
+    "name": "魔法少女まどかマギカ",
+    "count": 12,
+    "description": "",
+    "file": "dl/cfa28dc845d0506d.namaekey",
+    "filename": "魔法少女まどかマギカ.namaekey"
+  },
+  {
+    "name": "黒子のバスケ",
+    "count": 23,
+    "description": "",
+    "file": "dl/72a6889d7e085619.namaekey",
+    "filename": "黒子のバスケ.namaekey"
   }
 ]

@@ -1,0 +1,44 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "761514c32d0f5cd9",
+  "name": "Re：AcT",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-d561a3b56c24cc7e",
+      "title": "姫熊りぼん",
+      "body": "姫熊りぼん",
+      "reading": "ひめくまりぼん",
+      "category": "Re：AcT"
+    },
+    {
+      "id": "w-aa2060685b804429",
+      "title": "獅子神レオナ",
+      "body": "獅子神レオナ",
+      "reading": "ししがみれおな",
+      "category": "Re：AcT"
+    },
+    {
+      "id": "w-64af908b32150363",
+      "title": "花鋏ネル",
+      "body": "花鋏ネル",
+      "reading": "はなばさみねる",
+      "category": "Re：AcT"
+    },
+    {
+      "id": "w-4d68bd693fb0ab14",
+      "title": "白玖ウタノ",
+      "body": "白玖ウタノ",
+      "reading": "しろくうたの",
+      "category": "Re：AcT"
+    },
+    {
+      "id": "w-a601ebd2f5d66b33",
+      "title": "水瓶ミア",
+      "body": "水瓶ミア",
+      "reading": "みずがめみあ",
+      "category": "Re：AcT"
+    }
+  ]
+}

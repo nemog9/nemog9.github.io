@@ -1,0 +1,212 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "438895893d6ecb03",
+  "name": "東京喰種",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-c9721920fa1f941f",
+      "title": "金木研",
+      "body": "金木研",
+      "reading": "かねきけん",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-b7ed3a6b88c490a1",
+      "title": "霧嶋董香",
+      "body": "霧嶋董香",
+      "reading": "きりしまとうか",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-3c10605229e6814b",
+      "title": "永近英良",
+      "body": "永近英良",
+      "reading": "ながちかひでよし",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-6abdee15a263382",
+      "title": "月山習",
+      "body": "月山習",
+      "reading": "つきやましゅう",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-9d14d32ebcc91b89",
+      "title": "西尾錦",
+      "body": "西尾錦",
+      "reading": "にしおにしき",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-a18fdd28e74e8084",
+      "title": "有馬貴将",
+      "body": "有馬貴将",
+      "reading": "ありまきしょう",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-6dc5fae22d3d9bee",
+      "title": "亜門鋼太朗",
+      "body": "亜門鋼太朗",
+      "reading": "あもんこうたろう",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-ed1dd98fb4dd1873",
+      "title": "真戸曉",
+      "body": "真戸曉",
+      "reading": "まどあきら",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-6ccc27826c9e4668",
+      "title": "真戸呉緒",
+      "body": "真戸呉緒",
+      "reading": "まどくれお",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-5bcbdf4b87f50ed8",
+      "title": "篠原幸紀",
+      "body": "篠原幸紀",
+      "reading": "しのはらゆきのり",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-22caa5377ec4c0ad",
+      "title": "鈴屋什造",
+      "body": "鈴屋什造",
+      "reading": "すずやじゅうぞう",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-9c76d1509f583589",
+      "title": "四方蓮示",
+      "body": "四方蓮示",
+      "reading": "よもれんじ",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-38e4f4c2d627c371",
+      "title": "入見カヤ",
+      "body": "入見カヤ",
+      "reading": "いりみかや",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-843f962199e84ab2",
+      "title": "笛口リョウコ",
+      "body": "笛口リョウコ",
+      "reading": "ふえぐちりょうこ",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-44006710ecff9e1b",
+      "title": "笛口雛実",
+      "body": "笛口雛実",
+      "reading": "ふえぐちひなみ",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-7f5d2854506b5601",
+      "title": "西野貴未",
+      "body": "西野貴未",
+      "reading": "にしのきみ",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-358f9a36948c708e",
+      "title": "六月透",
+      "body": "六月透",
+      "reading": "むつきとおる",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-5a740c26f75f1dd",
+      "title": "米林才子",
+      "body": "米林才子",
+      "reading": "よねばやしさいこ",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-2890c1292d200cee",
+      "title": "不知吟士",
+      "body": "不知吟士",
+      "reading": "しらずぎんし",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-61049fcd412533db",
+      "title": "瓜江久生",
+      "body": "瓜江久生",
+      "reading": "うりえくき",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-f5a14b6f3387d6e9",
+      "title": "佐々木琲世",
+      "body": "佐々木琲世",
+      "reading": "ささきはいせ",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-47faaf985ef5ec36",
+      "title": "霧嶋絢都",
+      "body": "霧嶋絢都",
+      "reading": "きりしまあやと",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-998c089434e808a5",
+      "title": "滝澤政道",
+      "body": "滝澤政道",
+      "reading": "たきざわせいどう",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-d28fac6a319aadb5",
+      "title": "芳村功善",
+      "body": "芳村功善",
+      "reading": "よしむらこうぜん",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-8f505b4027efc4ad",
+      "title": "高槻泉",
+      "body": "高槻泉",
+      "reading": "たかつきせん",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-9d7dd34535f44f77",
+      "title": "神代利世",
+      "body": "神代利世",
+      "reading": "かみしろりぜ",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-d1b5a1163e75dde6",
+      "title": "神代叉栄",
+      "body": "神代叉栄",
+      "reading": "かみしろまたさか",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-496bd12b91280400",
+      "title": "旧多二福",
+      "body": "旧多二福",
+      "reading": "ふるたにむら",
+      "category": "東京喰種"
+    },
+    {
+      "id": "w-d8ef9385bb32fb32",
+      "title": "和修吉時",
+      "body": "和修吉時",
+      "reading": "わしゅうよしとき",
+      "category": "東京喰種"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "7c4a6917536028",
+  "name": "地獄楽",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-ce094b87b2b12701",
+      "title": "画眉丸",
+      "body": "画眉丸",
+      "reading": "がびまる",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-7a5a966f3dfc27df",
+      "title": "山田浅ェ門佐切",
+      "body": "山田浅ェ門佐切",
+      "reading": "やまだあさえもんさぎり",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-d3edf805cb8a136b",
+      "title": "亜左弔兵衛",
+      "body": "亜左弔兵衛",
+      "reading": "あざちょうべえ",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-443713ccb53b3176",
+      "title": "山田浅ェ門桐馬",
+      "body": "山田浅ェ門桐馬",
+      "reading": "やまだあさえもんとうま",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-33533e1b74745f44",
+      "title": "杠",
+      "body": "杠",
+      "reading": "ゆずりは",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-96f717190c8964e1",
+      "title": "民谷巌鉄斎",
+      "body": "民谷巌鉄斎",
+      "reading": "たみやがんてつさい",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-840f7aafc6892686",
+      "title": "山田浅ェ門付知",
+      "body": "山田浅ェ門付知",
+      "reading": "やまだあさえもんふち",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-1ad2580485ba6047",
+      "title": "山田浅ェ門士遠",
+      "body": "山田浅ェ門士遠",
+      "reading": "やまだあさえもんしおん",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-f11c99c2982e3d02",
+      "title": "山田浅ェ門典坐",
+      "body": "山田浅ェ門典坐",
+      "reading": "やまだあさえもんてんざ",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-2c1afea4c300e8f1",
+      "title": "山田浅ェ門仙汰",
+      "body": "山田浅ェ門仙汰",
+      "reading": "やまだあさえもんせんた",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-4c9ff4a4a1e9a5e3",
+      "title": "山田浅ェ門源嗣",
+      "body": "山田浅ェ門源嗣",
+      "reading": "やまだあさえもんげんじ",
+      "category": "地獄楽"
+    },
+    {
+      "id": "w-c2ffb6c1155c2c2f",
+      "title": "山田浅ェ門衛善",
+      "body": "山田浅ェ門衛善",
+      "reading": "やまだあさえもんえいぜん",
+      "category": "地獄楽"
+    }
+  ]
+}

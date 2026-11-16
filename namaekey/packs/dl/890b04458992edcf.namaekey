@@ -1,0 +1,240 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "890b04458992edcf",
+  "name": "SPY×FAMILY",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-a2b5c4027abec900",
+      "title": "ロイド・フォージャー",
+      "body": "ロイド・フォージャー",
+      "reading": "ろいどふぉーじゃー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-4ba710018c4d2764",
+      "title": "アーニャ・フォージャー",
+      "body": "アーニャ・フォージャー",
+      "reading": "あーにゃふぉーじゃー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-7bfd7680880b9102",
+      "title": "ヨル・フォージャー",
+      "body": "ヨル・フォージャー",
+      "reading": "よるふぉーじゃー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-8cfc47cfaa4098d2",
+      "title": "ヨル・ブライア",
+      "body": "ヨル・ブライア",
+      "reading": "よるぶらいあ",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-90e1edf01e2315d1",
+      "title": "ボンド・フォージャー",
+      "body": "ボンド・フォージャー",
+      "reading": "ぼんどふぉーじゃー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-622b4ba9b2763131",
+      "title": "ユーリ・ブライア",
+      "body": "ユーリ・ブライア",
+      "reading": "ゆーりぶらいあ",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-4aeaa845eb96678b",
+      "title": "ヘンリー・ヘンダーソン",
+      "body": "ヘンリー・ヘンダーソン",
+      "reading": "へんりーへんだーそん",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-2e939b31fb52537a",
+      "title": "ウォルター・エバンス",
+      "body": "ウォルター・エバンス",
+      "reading": "うぉるたーえばんす",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-763caaca69354f04",
+      "title": "マードック・スワン",
+      "body": "マードック・スワン",
+      "reading": "まーどっくすわん",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-abea4c962c3d4363",
+      "title": "ドナ・シュラーク",
+      "body": "ドナ・シュラーク",
+      "reading": "どなしゅらーく",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-53b8c01c0819ec69",
+      "title": "ダミアン・デズモンド",
+      "body": "ダミアン・デズモンド",
+      "reading": "だみあんでずもんど",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-2a6a80e2516e95ce",
+      "title": "ドノバン・デズモンド",
+      "body": "ドノバン・デズモンド",
+      "reading": "どのばんでずもんど",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-30a97dbeec9611d4",
+      "title": "メリンダ・デズモンド",
+      "body": "メリンダ・デズモンド",
+      "reading": "めりんだでずもんど",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-56f560f4ea2faa43",
+      "title": "デミトリアス・デズモンド",
+      "body": "デミトリアス・デズモンド",
+      "reading": "でみとりあすでずもんど",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-61b22b115e69315c",
+      "title": "ベッキー・ブラックベル",
+      "body": "ベッキー・ブラックベル",
+      "reading": "べっきーぶらっくべる",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-c49b9aa83a6a4add",
+      "title": "バイロン・ブラックベル",
+      "body": "バイロン・ブラックベル",
+      "reading": "ばいろんぶらっくべる",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-5f97af0bfdca4460",
+      "title": "エミール・エルマン",
+      "body": "エミール・エルマン",
+      "reading": "えみーるえるまん",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-2af096af5ad10c",
+      "title": "ユーイン・エッジバーグ",
+      "body": "ユーイン・エッジバーグ",
+      "reading": "ゆーいんえっじばーぐ",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-8cfc559f32c1e938",
+      "title": "ジョージ・グルーマン",
+      "body": "ジョージ・グルーマン",
+      "reading": "じょーじぐるーまん",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-60ee80bed1725bb2",
+      "title": "ビル・ワトキンス",
+      "body": "ビル・ワトキンス",
+      "reading": "びるわときんす",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-fced030107161d06",
+      "title": "マーサ・マリオット",
+      "body": "マーサ・マリオット",
+      "reading": "まーさまりおっと",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-a83667449f656653",
+      "title": "ミリー・マイヤーズ",
+      "body": "ミリー・マイヤーズ",
+      "reading": "みりーまいやーず",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-f9d53fa8d121194c",
+      "title": "オルカ・グレッチャー",
+      "body": "オルカ・グレッチャー",
+      "reading": "おるかぐれっちゃー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-3c1ff83fa160171f",
+      "title": "チャドウィック・カーティス",
+      "body": "チャドウィック・カーティス",
+      "reading": "ちゃどうぃっくかーてぃす",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-5f010d1667075025",
+      "title": "フランキー・フランクリン",
+      "body": "フランキー・フランクリン",
+      "reading": "ふらんきーふらんくりん",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-3bb7ce3ec2b2f76e",
+      "title": "キース・ケプラー",
+      "body": "キース・ケプラー",
+      "reading": "きーすけぷらー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-df625c1a48d7b10f",
+      "title": "ジェラルド・ゴーリー",
+      "body": "ジェラルド・ゴーリー",
+      "reading": "じぇらるどごーりー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-d2efbaa95e3540c9",
+      "title": "ウィンストン・ウィーラー",
+      "body": "ウィンストン・ウィーラー",
+      "reading": "うぃんすとんうぃーらー",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-d92fe9514199a906",
+      "title": "シルヴィア・シャーウッド",
+      "body": "シルヴィア・シャーウッド",
+      "reading": "しるゔぃあしゃーうっど",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-e3eed66444d18fa",
+      "title": "フィオナ・フロスト",
+      "body": "フィオナ・フロスト",
+      "reading": "ふぃおなふろすと",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-71e0903f9c9b81cb",
+      "title": "マシュー・マクマホン",
+      "body": "マシュー・マクマホン",
+      "reading": "ましゅーまくまほん",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-4c7fa01a44e28a92",
+      "title": "ビリー・スクワイア",
+      "body": "ビリー・スクワイア",
+      "reading": "びりーすくわいあ",
+      "category": "SPY×FAMILY"
+    },
+    {
+      "id": "w-8e7b2df2350c4723",
+      "title": "東雲",
+      "body": "東雲",
+      "reading": "しののめ",
+      "category": "SPY×FAMILY"
+    }
+  ]
+}

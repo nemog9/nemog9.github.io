@@ -1,0 +1,114 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "362bca96f6d02c44",
+  "name": "サカモトデイズ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-e29fc858ef0cdac2",
+      "title": "坂本太郎",
+      "body": "坂本太郎",
+      "reading": "さかもとたろう",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-5a02e84fcc346407",
+      "title": "朝倉シン",
+      "body": "朝倉シン",
+      "reading": "あさくらしん",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-ef1246a6f5297e99",
+      "title": "陸少糖",
+      "body": "陸少糖",
+      "reading": "ルーシャオタン",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-727a4422f65bf288",
+      "title": "眞霜平助",
+      "body": "眞霜平助",
+      "reading": "ましもへいすけ",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-d74520799fb0c821",
+      "title": "南雲与市",
+      "body": "南雲与市",
+      "reading": "なぐもよいち",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-c612c05a0b6fd7a2",
+      "title": "神々廻",
+      "body": "神々廻",
+      "reading": "ししば",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-71473b1c46ac8317",
+      "title": "大佛",
+      "body": "大佛",
+      "reading": "おさらぎ",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-2eae2db0301536b8",
+      "title": "有月憬",
+      "body": "有月憬",
+      "reading": "うづきけい",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-a82a6b2723a2f637",
+      "title": "坂本葵",
+      "body": "坂本葵",
+      "reading": "さかもとあおい",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-a84fe72723c2e528",
+      "title": "坂本花",
+      "body": "坂本花",
+      "reading": "さかもとはな",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-b9c2f04f76410bf9",
+      "title": "勢羽夏生",
+      "body": "勢羽夏生",
+      "reading": "せばなつき",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-2728721b6c91e63e",
+      "title": "篁",
+      "body": "篁",
+      "reading": "たかむら",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-e90fe38f9cd884ae",
+      "title": "鹿島",
+      "body": "鹿島",
+      "reading": "かしま",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-5465a20c6359aef0",
+      "title": "熊埜御",
+      "body": "熊埜御",
+      "reading": "くまのみ",
+      "category": "サカモトデイズ"
+    },
+    {
+      "id": "w-5930b85a74b669ea",
+      "title": "馬地稔",
+      "body": "馬地稔",
+      "reading": "ばちみのる",
+      "category": "サカモトデイズ"
+    }
+  ]
+}

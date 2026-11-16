@@ -1,0 +1,44 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "7a5038cd1e6befb",
+  "name": "ロシデレ",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-6dd331ed51d1778",
+      "title": "久世政近",
+      "body": "久世政近",
+      "reading": "くぜまさちか",
+      "category": "ロシデレ"
+    },
+    {
+      "id": "w-1e04bc7440be7c62",
+      "title": "周防有希",
+      "body": "周防有希",
+      "reading": "すおうゆき",
+      "category": "ロシデレ"
+    },
+    {
+      "id": "w-d7bffe7c4e6a4117",
+      "title": "宮前乃々亜",
+      "body": "宮前乃々亜",
+      "reading": "みやまえののあ",
+      "category": "ロシデレ"
+    },
+    {
+      "id": "w-78ebf69d5d8e9640",
+      "title": "君嶋綾乃",
+      "body": "君嶋綾乃",
+      "reading": "きみしまあやの",
+      "category": "ロシデレ"
+    },
+    {
+      "id": "w-75e86e68770e5355",
+      "title": "更科茅咲",
+      "body": "更科茅咲",
+      "reading": "さらしなちさき",
+      "category": "ロシデレ"
+    }
+  ]
+}

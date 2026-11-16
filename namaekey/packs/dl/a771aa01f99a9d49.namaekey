@@ -1,0 +1,58 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "a771aa01f99a9d49",
+  "name": "青の箱",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-d780d41a2c743a22",
+      "title": "猪股大喜",
+      "body": "猪股大喜",
+      "reading": "いのまたたいき",
+      "category": "青の箱"
+    },
+    {
+      "id": "w-d8806500f595d0d1",
+      "title": "鹿野千夏",
+      "body": "鹿野千夏",
+      "reading": "かのちなつ",
+      "category": "青の箱"
+    },
+    {
+      "id": "w-c1c3a74b8500b84b",
+      "title": "蝶野雛",
+      "body": "蝶野雛",
+      "reading": "ちょうのひな",
+      "category": "青の箱"
+    },
+    {
+      "id": "w-c3f3e959a338bdce",
+      "title": "笠原匡",
+      "body": "笠原匡",
+      "reading": "かさはらきょう",
+      "category": "青の箱"
+    },
+    {
+      "id": "w-678313347f1371d2",
+      "title": "針生健吾",
+      "body": "針生健吾",
+      "reading": "はりゅうけんご",
+      "category": "青の箱"
+    },
+    {
+      "id": "w-d1676c46a71495e5",
+      "title": "西田諒介",
+      "body": "西田諒介",
+      "reading": "にしだりょうすけ",
+      "category": "青の箱"
+    },
+    {
+      "id": "w-cd8717607f4009ed",
+      "title": "松岡一馬",
+      "body": "松岡一馬",
+      "reading": "まつおかかずま",
+      "category": "青の箱"
+    }
+  ]
+}

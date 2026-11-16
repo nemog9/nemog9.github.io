@@ -1,0 +1,121 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "afb4bedd0a7d3e6c",
+  "name": "Dr.STONE",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-665a032fbdf2c171",
+      "title": "石神千空",
+      "body": "石神千空",
+      "reading": "いしがみせんくう",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-163c24a1ed3d234",
+      "title": "七海龍水",
+      "body": "七海龍水",
+      "reading": "ななみりゅうすい",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-15000eae28067c5e",
+      "title": "大木大樹",
+      "body": "大木大樹",
+      "reading": "おおきたいじゅ",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-6c8ac6b6d35cf307",
+      "title": "小川杠",
+      "body": "小川杠",
+      "reading": "おがわゆずりは",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-5c55886ad070476a",
+      "title": "金狼",
+      "body": "金狼",
+      "reading": "きんろう",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-4ba45bc58f7f6d24",
+      "title": "銀狼",
+      "body": "銀狼",
+      "reading": "ぎんろう",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-38e1b89abf2570f4",
+      "title": "獅子王司",
+      "body": "獅子王司",
+      "reading": "ししおうつかさ",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-f1d55da927fad562",
+      "title": "氷月",
+      "body": "氷月",
+      "reading": "ひょうが",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-25ff2077e599feb3",
+      "title": "紅葉ほむら",
+      "body": "紅葉ほむら",
+      "reading": "もみじほむら",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-fe018b33bbb1befb",
+      "title": "上井陽",
+      "body": "上井陽",
+      "reading": "うえいよう",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-65d1c0094964c398",
+      "title": "西園寺羽京",
+      "body": "西園寺羽京",
+      "reading": "さいおんじうきょう",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-a9007bf79da2ff9e",
+      "title": "花田仁姫",
+      "body": "花田仁姫",
+      "reading": "はなだにき",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-a12f6e6d217f979b",
+      "title": "石神百夜",
+      "body": "石神百夜",
+      "reading": "いしがみびゃくや",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-6acc6b941621276f",
+      "title": "松風",
+      "body": "松風",
+      "reading": "まつかぜ",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-68061778f60a50f8",
+      "title": "リリアン・ワインバーグ",
+      "body": "リリアン・ワインバーグ",
+      "reading": "りりあんわいんばーぐ",
+      "category": "Dr.STONE"
+    },
+    {
+      "id": "w-a74e1f44185f18aa",
+      "title": "スタンリー・スナイダー",
+      "body": "スタンリー・スナイダー",
+      "reading": "すたんりーすないだー",
+      "category": "Dr.STONE"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "105f69df552d1444",
+  "name": "ドラゴンボール",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-a8805a455864e189",
+      "title": "孫悟空",
+      "body": "孫悟空",
+      "reading": "そんごくう",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-32c38f4516b4e6b2",
+      "title": "孫悟飯",
+      "body": "孫悟飯",
+      "reading": "そんごはん",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-99c4154550c7eabb",
+      "title": "孫悟天",
+      "body": "孫悟天",
+      "reading": "そんごてん",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-6f7ee30a90f5db4d",
+      "title": "天津飯",
+      "body": "天津飯",
+      "reading": "てんしんはん",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-7dfb9a3ea8ee7251",
+      "title": "餃子",
+      "body": "餃子",
+      "reading": "ちゃおず",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-8d045760ed951941",
+      "title": "亀仙人",
+      "body": "亀仙人",
+      "reading": "かめせんにん",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-4b6d2dd026978efb",
+      "title": "界王",
+      "body": "界王",
+      "reading": "かいおう",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-176310982651d042",
+      "title": "魔人ブウ",
+      "body": "魔人ブウ",
+      "reading": "まじんぶう",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-d300634c10145243",
+      "title": "人造人間17号",
+      "body": "人造人間17号",
+      "reading": "じんぞうにんげんじゅうななごう",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-a5a332dfa8abfff0",
+      "title": "人造人間18号",
+      "body": "人造人間18号",
+      "reading": "じんぞうにんげんじゅうはちごう",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-f415ae13e1f7371a",
+      "title": "大神官",
+      "body": "大神官",
+      "reading": "だいしんかん",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-7d573d6effbc4e79",
+      "title": "全王",
+      "body": "全王",
+      "reading": "ぜんおう",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-37977fa77b57594",
+      "title": "破壊神ビルス",
+      "body": "破壊神ビルス",
+      "reading": "はかいしんびるす",
+      "category": "ドラゴンボール"
+    },
+    {
+      "id": "w-4468aef77f2df3f8",
+      "title": "ミスター・サタン",
+      "body": "ミスター・サタン",
+      "reading": "みすたーさたん",
+      "category": "ドラゴンボール"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "7684d50c1411e80f",
+  "name": "スキップとローファー",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-b1d61e677e816db7",
+      "title": "岩倉美津未",
+      "body": "岩倉美津未",
+      "reading": "いわくらみつみ",
+      "category": "スキップとローファー"
+    },
+    {
+      "id": "w-420535c34af3dd4a",
+      "title": "志摩聡介",
+      "body": "志摩聡介",
+      "reading": "しまそうすけ",
+      "category": "スキップとローファー"
+    },
+    {
+      "id": "w-91a92e8001d88ad8",
+      "title": "江頭ミカ",
+      "body": "江頭ミカ",
+      "reading": "えがしらみか",
+      "category": "スキップとローファー"
+    },
+    {
+      "id": "w-3c960184142f207c",
+      "title": "村重結月",
+      "body": "村重結月",
+      "reading": "むらしげゆづき",
+      "category": "スキップとローファー"
+    },
+    {
+      "id": "w-9acabff22c494e3f",
+      "title": "高嶺十貴子",
+      "body": "高嶺十貴子",
+      "reading": "たかみねときこ",
+      "category": "スキップとローファー"
+    },
+    {
+      "id": "w-eca2178ae07f6369",
+      "title": "久留米誠",
+      "body": "久留米誠",
+      "reading": "くるめまこと",
+      "category": "スキップとローファー"
+    },
+    {
+      "id": "w-72c06fb6863c2e59",
+      "title": "兼近鳴海",
+      "body": "兼近鳴海",
+      "reading": "かねちかなるみ",
+      "category": "スキップとローファー"
+    },
+    {
+      "id": "w-967e21fdadcd2b00",
+      "title": "山田健人",
+      "body": "山田健人",
+      "reading": "やまだけんと",
+      "category": "スキップとローファー"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "293f3c760b90878d",
+  "name": "NARUTO -ナルト-",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-666376ba22d67c5b",
+      "title": "うずまきナルト",
+      "body": "うずまきナルト",
+      "reading": "うずまきなると",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-837266bdd881367",
+      "title": "うちはサスケ",
+      "body": "うちはサスケ",
+      "reading": "うちはさすけ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-5cba8022dc721bd3",
+      "title": "春野サクラ",
+      "body": "春野サクラ",
+      "reading": "はるのさくら",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-285b806821e3032c",
+      "title": "はたけカカシ",
+      "body": "はたけカカシ",
+      "reading": "はたけかかし",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-c9828d06d257887a",
+      "title": "波風ミナト",
+      "body": "波風ミナト",
+      "reading": "なみかぜみなと",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-7bd1b568a804afe0",
+      "title": "うずまきクシナ",
+      "body": "うずまきクシナ",
+      "reading": "うずまきくしな",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-e4a938ec7894da90",
+      "title": "奈良シカマル",
+      "body": "奈良シカマル",
+      "reading": "ならしかまる",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-95a7a40e5ed96db7",
+      "title": "秋道チョウジ",
+      "body": "秋道チョウジ",
+      "reading": "あきみちちょうじ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-2ab54711b7fc900b",
+      "title": "山中いの",
+      "body": "山中いの",
+      "reading": "やまなかいの",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-c9d92e7b86fc526f",
+      "title": "日向ヒナタ",
+      "body": "日向ヒナタ",
+      "reading": "ひゅうがひなた",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-f2fd5170bf342e57",
+      "title": "日向ネジ",
+      "body": "日向ネジ",
+      "reading": "ひゅうがねじ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-d48d70db48588ce5",
+      "title": "日向ハナビ",
+      "body": "日向ハナビ",
+      "reading": "ひゅうがはなび",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-d705d5d26f08ad2c",
+      "title": "日向ヒアシ",
+      "body": "日向ヒアシ",
+      "reading": "ひゅうがひあし",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-5feccf12ffc9f16e",
+      "title": "犬塚キバ",
+      "body": "犬塚キバ",
+      "reading": "いぬづかきば",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-f205ef1f132216d1",
+      "title": "犬塚ハナ",
+      "body": "犬塚ハナ",
+      "reading": "いぬづかはな",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-e2bdf86caaad5ca1",
+      "title": "油女シノ",
+      "body": "油女シノ",
+      "reading": "あぶらめしの",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-faefd3c75c4954dc",
+      "title": "李洛克",
+      "body": "李洛克",
+      "reading": "りーろっく",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-a68e3474471c0f13",
+      "title": "夕日紅",
+      "body": "夕日紅",
+      "reading": "ゆうひくれない",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-a71020c44044054d",
+      "title": "猿飛アスマ",
+      "body": "猿飛アスマ",
+      "reading": "さるとびあすま",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-37f452fabf11bf61",
+      "title": "猿飛ヒルゼン",
+      "body": "猿飛ヒルゼン",
+      "reading": "さるとびひるぜん",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-352cfd70e9e91360",
+      "title": "猿飛木ノ葉丸",
+      "body": "猿飛木ノ葉丸",
+      "reading": "さるとびこのはまる",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-d3c22010ec5e0212",
+      "title": "御手洗アンコ",
+      "body": "御手洗アンコ",
+      "reading": "みたらしあんこ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-341e2ef89e8cdea6",
+      "title": "森乃イビキ",
+      "body": "森乃イビキ",
+      "reading": "もりのいびき",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-f447e60f4b1cfa8e",
+      "title": "自来也",
+      "body": "自来也",
+      "reading": "じらいや",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-99d0acde2c6dbb2b",
+      "title": "大蛇丸",
+      "body": "大蛇丸",
+      "reading": "おろちまる",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-c9668af70aa0d2bb",
+      "title": "綱手",
+      "body": "綱手",
+      "reading": "つなで",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-ea8ec9332ea58d7",
+      "title": "我愛羅",
+      "body": "我愛羅",
+      "reading": "があら",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-c9b2c0bfe7784deb",
+      "title": "勘九郎",
+      "body": "勘九郎",
+      "reading": "かんくろう",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-5a4d647c79edca6c",
+      "title": "千手柱間",
+      "body": "千手柱間",
+      "reading": "せんじゅはしらま",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-780ae4ec816c68da",
+      "title": "千手扉間",
+      "body": "千手扉間",
+      "reading": "せんじゅとびらま",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-6b819812ceb7dd5c",
+      "title": "うちはマダラ",
+      "body": "うちはマダラ",
+      "reading": "うちはまだら",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-73a99f823624af8f",
+      "title": "うちはイタチ",
+      "body": "うちはイタチ",
+      "reading": "うちはいたち",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-44b92f54870e6ac9",
+      "title": "うちはオビト",
+      "body": "うちはオビト",
+      "reading": "うちはおびと",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-545efedff224aec1",
+      "title": "長門",
+      "body": "長門",
+      "reading": "ながと",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-6d133558d9c30da8",
+      "title": "小南",
+      "body": "小南",
+      "reading": "こなん",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-8d689005d7384fe7",
+      "title": "薬師カブト",
+      "body": "薬師カブト",
+      "reading": "やくしかぶと",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-e48a91e33eb947f7",
+      "title": "桃地再不斬",
+      "body": "桃地再不斬",
+      "reading": "ももちざぶざ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-27e01a1b6d2e0e10",
+      "title": "白",
+      "body": "白",
+      "reading": "はく",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-2b0a99c0f363a85",
+      "title": "君麻呂",
+      "body": "君麻呂",
+      "reading": "きみまろ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-c38799b3a681f195",
+      "title": "鬼灯水月",
+      "body": "鬼灯水月",
+      "reading": "ほおずきすいげつ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-77f38b4d62fa5e91",
+      "title": "香燐",
+      "body": "香燐",
+      "reading": "かりん",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-63ab6cafbca127d",
+      "title": "重吾",
+      "body": "重吾",
+      "reading": "じゅうご",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-98e4cb9c7a4252c1",
+      "title": "大野木",
+      "body": "大野木",
+      "reading": "おおのき",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-b0b45a3aa1946aab",
+      "title": "照美メイ",
+      "body": "照美メイ",
+      "reading": "てるみめい",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-3fdc78ce2ef6fee1",
+      "title": "飛段",
+      "body": "飛段",
+      "reading": "ひだん",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-28443c2e9ea8e085",
+      "title": "角都",
+      "body": "角都",
+      "reading": "かくず",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-6547050261c660f0",
+      "title": "うみのイルカ",
+      "body": "うみのイルカ",
+      "reading": "うみのいるか",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-3fc53c276ecbd183",
+      "title": "奈良シカク",
+      "body": "奈良シカク",
+      "reading": "ならしかく",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-95a79a0e5ed95cb9",
+      "title": "秋道チョウザ",
+      "body": "秋道チョウザ",
+      "reading": "あきみちちょうざ",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-58e92e6afdbffbc2",
+      "title": "山中亥一",
+      "body": "山中亥一",
+      "reading": "やまなかいのいち",
+      "category": "NARUTO -ナルト-"
+    },
+    {
+      "id": "w-a781c1c0f0b35e6d",
+      "title": "水木",
+      "body": "水木",
+      "reading": "みずき",
+      "category": "NARUTO -ナルト-"
+    }
+  ]
+}

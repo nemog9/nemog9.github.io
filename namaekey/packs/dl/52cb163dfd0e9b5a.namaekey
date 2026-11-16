@@ -1,0 +1,79 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "52cb163dfd0e9b5a",
+  "name": "メダリスト",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-80e3c48e39b22a9e",
+      "title": "結束いのり",
+      "body": "結束いのり",
+      "reading": "ゆいつかいのり",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-62617519d2fab65a",
+      "title": "明浦路司",
+      "body": "明浦路司",
+      "reading": "あけうらじつかさ",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-5b00be9c5f1b2352",
+      "title": "狼嵜光",
+      "body": "狼嵜光",
+      "reading": "かみさきひかる",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-4653be37bec2d518",
+      "title": "夜鷹純",
+      "body": "夜鷹純",
+      "reading": "よだかじゅん",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-180f1c88f7508ff5",
+      "title": "鴗鳥理凰",
+      "body": "鴗鳥理凰",
+      "reading": "そにどりりお",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-bdb651f68ca3adec",
+      "title": "三家田涼佳",
+      "body": "三家田涼佳",
+      "reading": "みけたすずか",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-2520a790610f9319",
+      "title": "蛇崩遊大",
+      "body": "蛇崩遊大",
+      "reading": "じゃくずれゆうだい",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-b741a2f8f63541e2",
+      "title": "大和絵馬",
+      "body": "大和絵馬",
+      "reading": "やまとえま",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-5e812ee60b705569",
+      "title": "鹿本すず",
+      "body": "鹿本すず",
+      "reading": "かもとすず",
+      "category": "メダリスト"
+    },
+    {
+      "id": "w-80112fb5f35d631",
+      "title": "高峰瞳",
+      "body": "高峰瞳",
+      "reading": "たかみねひとみ",
+      "category": "メダリスト"
+    }
+  ]
+}

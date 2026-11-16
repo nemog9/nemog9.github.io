@@ -1,0 +1,65 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "22ec44a9d4d918e7",
+  "name": "桃源暗鬼",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-5eec50c06659612",
+      "title": "一ノ瀬四季",
+      "body": "一ノ瀬四季",
+      "reading": "いちのせしき",
+      "category": "桃源暗鬼"
+    },
+    {
+      "id": "w-cc8f318edd676ef3",
+      "title": "無陀野無人",
+      "body": "無陀野無人",
+      "reading": "むだのむじん",
+      "category": "桃源暗鬼"
+    },
+    {
+      "id": "w-c1f7dc3a98feb8b5",
+      "title": "皇后崎迅",
+      "body": "皇后崎迅",
+      "reading": "こうがさきじん",
+      "category": "桃源暗鬼"
+    },
+    {
+      "id": "w-fe56b6611bb1a840",
+      "title": "矢颪碇",
+      "body": "矢颪碇",
+      "reading": "やおろしいかり",
+      "category": "桃源暗鬼"
+    },
+    {
+      "id": "w-e1b06c3ad4a96a6c",
+      "title": "手術岾ロクロ",
+      "body": "手術岾ロクロ",
+      "reading": "しゅじゅつやまろくろ",
+      "category": "桃源暗鬼"
+    },
+    {
+      "id": "w-a8543676ed03c11e",
+      "title": "屏風ヶ浦帆稀",
+      "body": "屏風ヶ浦帆稀",
+      "reading": "びょうぶがうらほまれ",
+      "category": "桃源暗鬼"
+    },
+    {
+      "id": "w-a85e4a3d01c5e2e",
+      "title": "遊摺部従児",
+      "body": "遊摺部従児",
+      "reading": "ゆすりべじゅうじ",
+      "category": "桃源暗鬼"
+    },
+    {
+      "id": "w-db736904328213b4",
+      "title": "花魁坂京夜",
+      "body": "花魁坂京夜",
+      "reading": "おいらんざかきょうや",
+      "category": "桃源暗鬼"
+    }
+  ]
+}

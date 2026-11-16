@@ -1,0 +1,86 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "4ba20dc8594ee530",
+  "name": "負けヒロインが多すぎる!",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-a662a76ee37b37fb",
+      "title": "温水和彦",
+      "body": "温水和彦",
+      "reading": "ぬくみずかずひこ",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-efd3779678907b00",
+      "title": "八奈見杏菜",
+      "body": "八奈見杏菜",
+      "reading": "やなみあんな",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-73acedbc7fb8d767",
+      "title": "焼塩檸檬",
+      "body": "焼塩檸檬",
+      "reading": "やきしおれもん",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-21551478c8af21b4",
+      "title": "小鞠知花",
+      "body": "小鞠知花",
+      "reading": "こまりちか",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-c3a6d884e5ecf467",
+      "title": "朝雲千早",
+      "body": "朝雲千早",
+      "reading": "あさぐもちはや",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-bdd531277ef73628",
+      "title": "綾野光希",
+      "body": "綾野光希",
+      "reading": "あやのみつき",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-da057886bf3a1e3",
+      "title": "志喜屋夢子",
+      "body": "志喜屋夢子",
+      "reading": "しきやゆめこ",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-24b633e00ee70290",
+      "title": "天愛星愛",
+      "body": "天愛星愛",
+      "reading": "てんあいすてら",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-ec748dab6b26c859",
+      "title": "姫宮華恋",
+      "body": "姫宮華恋",
+      "reading": "ひめみやかれん",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-1edb4d3d6bcc874d",
+      "title": "玉木慎太郎",
+      "body": "玉木慎太郎",
+      "reading": "たまきしんたろう",
+      "category": "負けヒロインが多すぎる!"
+    },
+    {
+      "id": "w-f387e435dddd6b65",
+      "title": "放虎原ひばり",
+      "body": "放虎原ひばり",
+      "reading": "ほうこはらひばり",
+      "category": "負けヒロインが多すぎる!"
+    }
+  ]
+}

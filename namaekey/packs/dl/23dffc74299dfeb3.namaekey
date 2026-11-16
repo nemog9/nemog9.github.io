@@ -41,6 +41,13 @@
       "category": "東方Project"
     },
     {
+      "id": "w-e91ab22fe842adcd",
+      "title": "パチュリー・ノーレッジ",
+      "body": "パチュリー・ノーレッジ",
+      "reading": "ぱちゅりーのーれっじ",
+      "category": "東方Project"
+    },
+    {
       "id": "w-8d8cf643648bbd2c",
       "title": "十六夜咲夜",
       "body": "十六夜咲夜",
@@ -48,10 +55,59 @@
       "category": "東方Project"
     },
     {
+      "id": "w-a6e8a9a63653975d",
+      "title": "レミリア・スカーレット",
+      "body": "レミリア・スカーレット",
+      "reading": "れみりあすかーれっと",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-1728127a01e3fcf8",
+      "title": "フランドール・スカーレット",
+      "body": "フランドール・スカーレット",
+      "reading": "ふらんどーるすかーれっと",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-c9babe10af1047c3",
+      "title": "レティ・ホワイトロック",
+      "body": "レティ・ホワイトロック",
+      "reading": "れてぃほわいとろっく",
+      "category": "東方Project"
+    },
+    {
       "id": "w-33e79f1b74f1750b",
       "title": "橙",
       "body": "橙",
       "reading": "ちぇん",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-591d19184c786f91",
+      "title": "アリス・マーガトロイド",
+      "body": "アリス・マーガトロイド",
+      "reading": "ありすまーがとろいど",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-78c5fddfab1848b5",
+      "title": "ルナサ・プリズムリバー",
+      "body": "ルナサ・プリズムリバー",
+      "reading": "るなさぷりずむりばー",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-13aafd47c20233f8",
+      "title": "メルラン・プリズムリバー",
+      "body": "メルラン・プリズムリバー",
+      "reading": "めるらんぷりずむりばー",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-dda769f117e12288",
+      "title": "リリカ・プリズムリバー",
+      "body": "リリカ・プリズムリバー",
+      "reading": "りりかぷりずむりばー",
       "category": "東方Project"
     },
     {
@@ -87,6 +143,20 @@
       "title": "伊吹萃香",
       "body": "伊吹萃香",
       "reading": "いぶきすいか",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-84b3c2fe0fd60136",
+      "title": "リグル・ナイトバグ",
+      "body": "リグル・ナイトバグ",
+      "reading": "りぐるないとばぐ",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-22888b3f606e1507",
+      "title": "ミスティア・ローレライ",
+      "body": "ミスティア・ローレライ",
+      "reading": "みすてぃあろーれらい",
       "category": "東方Project"
     },
     {
@@ -129,6 +199,13 @@
       "title": "藤原妹紅",
       "body": "藤原妹紅",
       "reading": "ふじわらのもこう",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-afcc4406206fc182",
+      "title": "メディスン・メランコリー",
+      "body": "メディスン・メランコリー",
+      "reading": "めでぃすんめらんこりー",
       "category": "東方Project"
     },
     {
@@ -468,6 +545,13 @@
       "category": "東方Project"
     },
     {
+      "id": "w-817623fb13d97bf5",
+      "title": "ドレミー・スイート",
+      "body": "ドレミー・スイート",
+      "reading": "どれみーすいーと",
+      "category": "東方Project"
+    },
+    {
       "id": "w-24604f0b489373f0",
       "title": "稀神サグメ",
       "body": "稀神サグメ",
@@ -479,6 +563,13 @@
       "title": "純狐",
       "body": "純狐",
       "reading": "じゅんこ",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-805e52cdf168c3e8",
+      "title": "ヘカーティア・ラピスラズリ",
+      "body": "ヘカーティア・ラピスラズリ",
+      "reading": "へかーてぃあらぴすらずり",
       "category": "東方Project"
     },
     {
@@ -734,6 +825,13 @@
       "category": "東方Project"
     },
     {
+      "id": "w-ac17a52bd61b1b26",
+      "title": "マエリベリー・ハーン",
+      "body": "マエリベリー・ハーン",
+      "reading": "まえりべりーはーん",
+      "category": "東方Project"
+    },
+    {
       "id": "w-3f139979762e76d7",
       "title": "森近霖之助",
       "body": "森近霖之助",
@@ -794,6 +892,13 @@
       "title": "奥野田美宵",
       "body": "奥野田美宵",
       "reading": "おくのだみよい",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-f0dd019010335fb4",
+      "title": "レイラ・プリズムリバー",
+      "body": "レイラ・プリズムリバー",
+      "reading": "れいらぷりずむりばー",
       "category": "東方Project"
     },
     {
@@ -871,6 +976,13 @@
       "title": "小兎姫",
       "body": "小兎姫",
       "reading": "ことひめ",
+      "category": "東方Project"
+    },
+    {
+      "id": "w-f4eeded948ac391e",
+      "title": "カナ・アナベラル",
+      "body": "カナ・アナベラル",
+      "reading": "かなあなべらる",
       "category": "東方Project"
     },
     {

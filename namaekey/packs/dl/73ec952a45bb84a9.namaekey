@@ -1,0 +1,114 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "73ec952a45bb84a9",
+  "name": "765プロダクション",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-30220172e4033d76",
+      "title": "天海春香",
+      "body": "天海春香",
+      "reading": "あまみはるか",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-bb6108209a89d7f1",
+      "title": "如月千早",
+      "body": "如月千早",
+      "reading": "きさらぎちはや",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-9c17a2d05641d435",
+      "title": "星井美希",
+      "body": "星井美希",
+      "reading": "ほしいみき",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-8f33d9cfaaf95339",
+      "title": "高槻やよい",
+      "body": "高槻やよい",
+      "reading": "たかつきやよい",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-e62045e44d9e9d8a",
+      "title": "萩原雪歩",
+      "body": "萩原雪歩",
+      "reading": "はぎわらゆきほ",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-5f41e428caba0a2b",
+      "title": "菊地真",
+      "body": "菊地真",
+      "reading": "きくちまこと",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-233b45f51a275ed0",
+      "title": "双海亜美",
+      "body": "双海亜美",
+      "reading": "ふたみあみ",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-7c7e2720e38be402",
+      "title": "双海真美",
+      "body": "双海真美",
+      "reading": "ふたみまみ",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-c25dfcc1f6f73440",
+      "title": "水瀬伊織",
+      "body": "水瀬伊織",
+      "reading": "みなせいおり",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-ebc62c964a2dfd8",
+      "title": "三浦あずさ",
+      "body": "三浦あずさ",
+      "reading": "みうらあずさ",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-3a28bb506cf969e8",
+      "title": "秋月律子",
+      "body": "秋月律子",
+      "reading": "あきづきりつこ",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-bcb27878a6515935",
+      "title": "四条貴音",
+      "body": "四条貴音",
+      "reading": "しじょうたかね",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-12450288bb531dca",
+      "title": "我那覇響",
+      "body": "我那覇響",
+      "reading": "がなはひびき",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-73cf265262425661",
+      "title": "音無小鳥",
+      "body": "音無小鳥",
+      "reading": "おとなしことり",
+      "category": "765プロダクション"
+    },
+    {
+      "id": "w-7051f70b93192b35",
+      "title": "高木順二朗",
+      "body": "高木順二朗",
+      "reading": "たかぎじゅんじろう",
+      "category": "765プロダクション"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "990471c18b2d17cb",
+  "name": "タコピーの原罪",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-c17654a030309ac1",
+      "title": "久世しずか",
+      "body": "久世しずか",
+      "reading": "くぜしずか",
+      "category": "タコピーの原罪"
+    },
+    {
+      "id": "w-3e2f44cb81d9d042",
+      "title": "雲母坂まりな",
+      "body": "雲母坂まりな",
+      "reading": "きららざかまりな",
+      "category": "タコピーの原罪"
+    },
+    {
+      "id": "w-786c035a18fe8540",
+      "title": "東直樹",
+      "body": "東直樹",
+      "reading": "あずまなおき",
+      "category": "タコピーの原罪"
+    }
+  ]
+}

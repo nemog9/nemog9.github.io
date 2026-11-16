@@ -1,0 +1,1591 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "6c2ff64ae85b489d",
+  "name": "FateGrandOrder",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-f65c68963e3197fc",
+      "title": "マシュ・キリエライト",
+      "body": "マシュ・キリエライト",
+      "reading": "ましゅ・きりえらいと",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6d4990e96c80066d",
+      "title": "ガイウス・ユリウス・カエサル",
+      "body": "ガイウス・ユリウス・カエサル",
+      "reading": "がいゆす・ゆりうす・かえさる",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-2bde732bae2f83d2",
+      "title": "ジル・ド・レェ",
+      "body": "ジル・ド・レェ",
+      "reading": "じる・ど・れぇ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4829edee3c692662",
+      "title": "フェルグス・マク・ロイ",
+      "body": "フェルグス・マク・ロイ",
+      "reading": "ふぇるぐす・まく・ろい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a6766109cf6b9974",
+      "title": "アルトリア・ペンドラゴン",
+      "body": "アルトリア・ペンドラゴン",
+      "reading": "あるとりあ・ぺんどらごん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-56244a8e4bb6f2cd",
+      "title": "アルトリア・ペンドラゴン〔オルタ〕",
+      "body": "アルトリア・ペンドラゴン〔オルタ〕",
+      "reading": "あるとりあ・ぺんどらごん〔おるた〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-37cb6d2ec9fa5b95",
+      "title": "アルトリア・ペンドラゴン〔リリィ〕",
+      "body": "アルトリア・ペンドラゴン〔リリィ〕",
+      "reading": "あるとりあ・ぺんどらごん〔りりぃ〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1db0dbb91f970bbe",
+      "title": "ネロ・クラウディウス",
+      "body": "ネロ・クラウディウス",
+      "reading": "ねろ・くらうでぃうす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-7a4876ead01ab4ac",
+      "title": "ネロ・クラウディウス〔ブライド〕",
+      "body": "ネロ・クラウディウス〔ブライド〕",
+      "reading": "ねろ・くらうでぃうす〔ぶらいど〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6e0a4038d024aba1",
+      "title": "シュヴァリエ・デオン",
+      "body": "シュヴァリエ・デオン",
+      "reading": "しゅゔぁりえ・でおん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-2a6cd16c5febff1f",
+      "title": "エリザベート・バートリー〔ブレイブ〕",
+      "body": "エリザベート・バートリー〔ブレイブ〕",
+      "reading": "えりざべーと・ばーとりー〔ぶれいぶ〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-adf01ac831fd73c0",
+      "title": "鈴鹿御前",
+      "body": "鈴鹿御前",
+      "reading": "すずかごぜん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-f7a7d6b13f03f80f",
+      "title": "柳生但馬守宗矩",
+      "body": "柳生但馬守宗矩",
+      "reading": "やぎゅうたじまのかみむねのり",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-974d6109bf9c13e8",
+      "title": "女王メイヴ",
+      "body": "女王メイヴ",
+      "reading": "じょおうめいゔ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-856072f3400d354a",
+      "title": "ディルムッド・オディナ",
+      "body": "ディルムッド・オディナ",
+      "reading": "でぃるむっど・おでぃな",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-3f36cfee71e8ec65",
+      "title": "蘭陵王",
+      "body": "蘭陵王",
+      "reading": "らんりょうおう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-12c9a34ce8d05310",
+      "title": "ラクシュミー・バーイー",
+      "body": "ラクシュミー・バーイー",
+      "reading": "らくしゅみー・ばーいー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-fb2dd001a1168b63",
+      "title": "葛飾北斎",
+      "body": "葛飾北斎",
+      "reading": "かつしかほくさい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d5239b153124e5c8",
+      "title": "巴御前",
+      "body": "巴御前",
+      "reading": "ともえごぜん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-fb7457a36c3253ac",
+      "title": "斎藤一",
+      "body": "斎藤一",
+      "reading": "さいとうはじめ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-3eeccef4787771ae",
+      "title": "渡辺綱",
+      "body": "渡辺綱",
+      "reading": "わたなべのつな",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e45a8de7d5f42f66",
+      "title": "山南敬助",
+      "body": "山南敬助",
+      "reading": "さんなんけいすけ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b5872aa81eb42c",
+      "title": "宮本伊織",
+      "body": "宮本伊織",
+      "reading": "みやもといおり",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d3c9058f709d4db2",
+      "title": "黒姫",
+      "body": "黒姫",
+      "reading": "くろひめ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-f340eb5131cad6c2",
+      "title": "グレイ・リリィ",
+      "body": "グレイ・リリィ",
+      "reading": "ぐれい・りりぃ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9d1ecce9d0ea0cff",
+      "title": "沖田総司",
+      "body": "沖田総司",
+      "reading": "おきたそうじ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-2fe03567a3df36bf",
+      "title": "両儀式",
+      "body": "両儀式",
+      "reading": "りょうぎしき",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-aa09d439f420ebd6",
+      "title": "宮本武蔵",
+      "body": "宮本武蔵",
+      "reading": "みやもとむさし",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-faf6d16aea2a2892",
+      "title": "アーサー・ペンドラゴン",
+      "body": "アーサー・ペンドラゴン",
+      "reading": "あーさー・ぺんどらごん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ca5021ef3beb7d0f",
+      "title": "紅閻魔",
+      "body": "紅閻魔",
+      "reading": "べにえんま",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-471cd136c5112f8a",
+      "title": "伊吹童子",
+      "body": "伊吹童子",
+      "reading": "いぶきどうじ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-66fd5959858eac20",
+      "title": "千子村正",
+      "body": "千子村正",
+      "reading": "せんじむらまさ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8f3ebc739c7b5f80",
+      "title": "沖田総司〔オルタ〕",
+      "body": "沖田総司〔オルタ〕",
+      "reading": "おきたそうじ〔おるた〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9e7c2f1e0e952f1",
+      "title": "徴姉妹",
+      "body": "徴姉妹",
+      "reading": "ちょうしまい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4de1daf8734e09eb",
+      "title": "リチャードⅠ世",
+      "body": "リチャードⅠ世",
+      "reading": "りちゃーどいっせい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-786c51cf047789bf",
+      "title": "近藤勇",
+      "body": "近藤勇",
+      "reading": "こんどういさみ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8dbf92b4d1089402",
+      "title": "ロード・ログレス",
+      "body": "ロード・ログレス",
+      "reading": "ろーど・ろぐれす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4bd84f0ee5a98d2d",
+      "title": "ジャック・ド・モレー",
+      "body": "ジャック・ド・モレー",
+      "reading": "じゃっく・ど・もれー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-94ac2814b846768b",
+      "title": "織田信勝",
+      "body": "織田信勝",
+      "reading": "おだのぶかつ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-5f8be58405dfdcc8",
+      "title": "ロビン・フッド",
+      "body": "ロビン・フッド",
+      "reading": "ろびん・ふっど",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-5970cf511ce167c3",
+      "title": "ビリー・ザ・キッド",
+      "body": "ビリー・ザ・キッド",
+      "reading": "びりー・ざ・きっど",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b2e44ef903fb129b",
+      "title": "俵藤太",
+      "body": "俵藤太",
+      "reading": "たわらのとうた",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b5ea48a0b1c6a12b",
+      "title": "ウィリアム・テル",
+      "body": "ウィリアム・テル",
+      "reading": "うぃりあむ・てる",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-bd100c419b522399",
+      "title": "杉谷善住坊",
+      "body": "杉谷善住坊",
+      "reading": "すぎたにぜんじゅぼう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-2fe256148014369f",
+      "title": "織田信長",
+      "body": "織田信長",
+      "reading": "おだのぶなが",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8d9c9dc5c4a0d05d",
+      "title": "アン・ボニー",
+      "body": "アン・ボニー",
+      "reading": "あん・ぼにー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b1f51e68edc5a643",
+      "title": "メアリー・リード",
+      "body": "メアリー・リード",
+      "reading": "めありー・りーど",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6b1ce4bbeb7072a5",
+      "title": "クロエ・フォン・アインツベルン",
+      "body": "クロエ・フォン・アインツベルン",
+      "reading": "くろえ・ふぉん・あいんつべるん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ba60167771310347",
+      "title": "ヘレナ・ブラヴァツキー",
+      "body": "ヘレナ・ブラヴァツキー",
+      "reading": "へれな・ぶらゔぁつきー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b30aaac0a8e27fb2",
+      "title": "浅上藤乃",
+      "body": "浅上藤乃",
+      "reading": "あさがみふじの",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-5db28bcb7ad7d73a",
+      "title": "刑部姫",
+      "body": "刑部姫",
+      "reading": "おさかべひめ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-3d154d50aff3e808",
+      "title": "カラミティ・ジェーン",
+      "body": "カラミティ・ジェーン",
+      "reading": "からみてぃ・じぇーん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-3b32978b065c48ce",
+      "title": "イリヤスフィール・フォン・アインツベルン",
+      "body": "イリヤスフィール・フォン・アインツベルン",
+      "reading": "いりやすふぃーる・ふぉん・あいんつべるん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9a54e62e94316561",
+      "title": "バーヴァン・シー",
+      "body": "バーヴァン・シー",
+      "reading": "ばーゔぁん・しー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a3fbda261e4b643e",
+      "title": "雑賀孫一",
+      "body": "雑賀孫一",
+      "reading": "さいかまごいち",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d04593624fa42d74",
+      "title": "小野小町",
+      "body": "小野小町",
+      "reading": "おののこまち",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6b6a3819dd4368fd",
+      "title": "超人オリオン",
+      "body": "超人オリオン",
+      "reading": "ちょうじんおりおん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b92d75dca044667",
+      "title": "ニコラ・テスラ",
+      "body": "ニコラ・テスラ",
+      "reading": "にこら・てすら",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ac6ed73687aa9b65",
+      "title": "ジェームズ・モリアーティ",
+      "body": "ジェームズ・モリアーティ",
+      "reading": "じぇーむず・もりあーてぃ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-c6c06c81ea43a758",
+      "title": "ジャンヌ・ダルク",
+      "body": "ジャンヌ・ダルク",
+      "reading": "じゃんぬ・だるく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-73c89651328ca064",
+      "title": "清少納言",
+      "body": "清少納言",
+      "reading": "せいしょうなごん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-32e6bf9e4eca1c3d",
+      "title": "源為朝",
+      "body": "源為朝",
+      "reading": "みなもとのためとも",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9548c203544f117a",
+      "title": "高杉晋作",
+      "body": "高杉晋作",
+      "reading": "たかすぎしんさく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-dfb4b5ac294e8ca",
+      "title": "メアリー・アニング",
+      "body": "メアリー・アニング",
+      "reading": "めありー・あにんぐ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-af92255c306306be",
+      "title": "武蔵坊弁慶",
+      "body": "武蔵坊弁慶",
+      "reading": "むさしぼうべんけい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-89759fec6971d1c9",
+      "title": "レオニダス一世",
+      "body": "レオニダス一世",
+      "reading": "れおにだすいっせい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-75d538a323b619e2",
+      "title": "クー・フーリン",
+      "body": "クー・フーリン",
+      "reading": "くー・ふーりん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-c7d288f51b98ce25",
+      "title": "クー・フーリン〔プロトタイプ〕",
+      "body": "クー・フーリン〔プロトタイプ〕",
+      "reading": "くー・ふーりん〔ぷろとたいぷ〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1edafe3339d657a9",
+      "title": "宝蔵院胤舜",
+      "body": "宝蔵院胤舜",
+      "reading": "ほうぞういんいんしゅん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-831d4842d417940f",
+      "title": "エリザベート・バートリー",
+      "body": "エリザベート・バートリー",
+      "reading": "えりざべーと・ばーとりー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d3d971c60dfc31dc",
+      "title": "フィン・マックール",
+      "body": "フィン・マックール",
+      "reading": "ふぃん・まっくーる",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-185bd063db48b96c",
+      "title": "李書文",
+      "body": "李書文",
+      "reading": "りしょぶん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-807d473df4385057",
+      "title": "清姫",
+      "body": "清姫",
+      "reading": "きよひめ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d98e3f049f43d744",
+      "title": "ヴラド三世",
+      "body": "ヴラド三世",
+      "reading": "ゔらどさんせい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-222890e4832d963a",
+      "title": "哪吒",
+      "body": "哪吒",
+      "reading": "なたく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-c06ba6119f14ec2a",
+      "title": "茨木童子",
+      "body": "茨木童子",
+      "reading": "いばらきどうじ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-139a7dbce366ccf7",
+      "title": "秦良玉",
+      "body": "秦良玉",
+      "reading": "しんりょうぎょく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-3e892a29f06a2dec",
+      "title": "長尾景虎",
+      "body": "長尾景虎",
+      "reading": "ながおかげとら",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-91ea3c47f5d1aa94",
+      "title": "宇津見エリセ",
+      "body": "宇津見エリセ",
+      "reading": "うつみえりせ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ab95a00103db0e47",
+      "title": "虞美人",
+      "body": "虞美人",
+      "reading": "ぐびじん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d3a2f3bdd88cd651",
+      "title": "ドン・キホーテ",
+      "body": "ドン・キホーテ",
+      "reading": "どん・きほーて",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-faffb2b1bd135e49",
+      "title": "ドブルイニャ・ニキチッチ",
+      "body": "ドブルイニャ・ニキチッチ",
+      "reading": "どぶるぃにゃ・にきちっち",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4bfaa730685cec5b",
+      "title": "アショカ王",
+      "body": "アショカ王",
+      "reading": "あしょかおう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-eba9221ef9dc3172",
+      "title": "美遊・エーデルフェルト",
+      "body": "美遊・エーデルフェルト",
+      "reading": "みゆ・えーでるふぇると",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-fb12b06f8e5cbd20",
+      "title": "坂本龍馬",
+      "body": "坂本龍馬",
+      "reading": "さかもとりょうま",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-bdd6cc715d932ef0",
+      "title": "バーソロミュー・ロバーツ",
+      "body": "バーソロミュー・ロバーツ",
+      "reading": "ばーそろみゅー・ろばーつ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-998df353b383a1b",
+      "title": "エドワード・ティーチ",
+      "body": "エドワード・ティーチ",
+      "reading": "えどわーど・てぃーち",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9c69aba479c9761e",
+      "title": "牛若丸",
+      "body": "牛若丸",
+      "reading": "うしわかまる",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-98b17ac76a177e2f",
+      "title": "クリストファー・コロンブス",
+      "body": "クリストファー・コロンブス",
+      "reading": "くりすとふぁー・ころんぶす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1847f39de524e76f",
+      "title": "赤兎馬",
+      "body": "赤兎馬",
+      "reading": "せきとば",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-25652c8cdcda0861",
+      "title": "マリー・アントワネット",
+      "body": "マリー・アントワネット",
+      "reading": "まりー・あんとわねっと",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6090b30c76622948",
+      "title": "坂田金時",
+      "body": "坂田金時",
+      "reading": "さかたきんとき",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-bcd6b211784bd453",
+      "title": "黄飛虎",
+      "body": "黄飛虎",
+      "reading": "こうひこ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8d3aa25594d7c49d",
+      "title": "フランシス・ドレイク",
+      "body": "フランシス・ドレイク",
+      "reading": "ふらんしす・どれいく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-51062ee8175e67e1",
+      "title": "ケツァル・コアトル",
+      "body": "ケツァル・コアトル",
+      "reading": "けつぁる・こあとる",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-5da52a16d3fbabfa",
+      "title": "イヴァン雷帝",
+      "body": "イヴァン雷帝",
+      "reading": "いゔぁんらいてい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6984e25bcddf8f10",
+      "title": "司馬懿",
+      "body": "司馬懿",
+      "reading": "しばい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9a4b5e8e115d7c80",
+      "title": "レオナルド・ダ・ヴィンチ",
+      "body": "レオナルド・ダ・ヴィンチ",
+      "reading": "れおなるど・だ・ゔぃんち",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ac307520cefe763f",
+      "title": "太公望",
+      "body": "太公望",
+      "reading": "たいこうぼう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-7e17acb619db048d",
+      "title": "コンスタンティノス11世",
+      "body": "コンスタンティノス11世",
+      "reading": "こんすたんてぃのすじゅういっせい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-31999d72712dad0b",
+      "title": "曲亭馬琴",
+      "body": "曲亭馬琴",
+      "reading": "きょくていばきん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-57210791b1b3c6c6",
+      "title": "武田晴信",
+      "body": "武田晴信",
+      "reading": "たけだはるのぶ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-7af3e9ed6328b8d1",
+      "title": "ウォルフガング・アマデウス・モーツァルト",
+      "body": "ウォルフガング・アマデウス・モーツァルト",
+      "reading": "うぉるふがんぐ・あまでうす・もーつぁると",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a846d17804cb9d17",
+      "title": "ハンス・クリスチャン・アンデルセン",
+      "body": "ハンス・クリスチャン・アンデルセン",
+      "reading": "はんす・くりすちゃん・あんでるせん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4078a0f0eb06813a",
+      "title": "ウィリアム・シェイクスピア",
+      "body": "ウィリアム・シェイクスピア",
+      "reading": "うぃりあむ・しぇいくすぴあ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-199b484d1dd28e73",
+      "title": "陳宮",
+      "body": "陳宮",
+      "reading": "ちんきゅう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-81f1ed86b7e478bd",
+      "title": "パラケルスス・フォン・ホーエンハイム",
+      "body": "パラケルスス・フォン・ホーエンハイム",
+      "reading": "ぱらけるすす・ふぉん・ほーえんはいむ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e28785b18cb52521",
+      "title": "チャールズ・バベッジ",
+      "body": "チャールズ・バベッジ",
+      "reading": "ちゃーるず・ばべっじ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-86579d8968de1560",
+      "title": "張角",
+      "body": "張角",
+      "reading": "ちょうかく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ae6ec2e355667e2c",
+      "title": "ナーサリー・ライム",
+      "body": "ナーサリー・ライム",
+      "reading": "なーさりー・らいむ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6a7e5061aab75cb9",
+      "title": "トーマス・エジソン",
+      "body": "トーマス・エジソン",
+      "reading": "とーます・えじそん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-55f4bbf399c9e355",
+      "title": "アイリスフィール・フォン・アインツベルン",
+      "body": "アイリスフィール・フォン・アインツベルン",
+      "reading": "あいりすふぃーる・ふぉん・あいんつべるん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4eed04690756d445",
+      "title": "酒呑童子",
+      "body": "酒呑童子",
+      "reading": "しゅてんどうじ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-58d5be04a0b465f8",
+      "title": "シャルロット・コルデー",
+      "body": "シャルロット・コルデー",
+      "reading": "しゃるろっと・こるでー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-47b39e7bca7fb983",
+      "title": "大黒天",
+      "body": "大黒天",
+      "reading": "だいこくてん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-414201862c5431f7",
+      "title": "武則天",
+      "body": "武則天",
+      "reading": "ぶそくてん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-23372e7022afec56",
+      "title": "由井正雪",
+      "body": "由井正雪",
+      "reading": "ゆいしょうせつ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-16fd2dede0827496",
+      "title": "諸葛孔明",
+      "body": "諸葛孔明",
+      "reading": "しょかつこうめい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-cfab9ac9823d3408",
+      "title": "玉藻の前",
+      "body": "玉藻の前",
+      "reading": "たまものまえ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9ef6c55d3c09d6f8",
+      "title": "玄奘三蔵",
+      "body": "玄奘三蔵",
+      "reading": "げんじょうさんぞう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b88f723e74e3c094",
+      "title": "アルトリア・キャスター",
+      "body": "アルトリア・キャスター",
+      "reading": "あるとりあ・きゃすたー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9b418e908c4b5216",
+      "title": "ミス・クレーン",
+      "body": "ミス・クレーン",
+      "reading": "みす・くれーん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9d32676d5e07c848",
+      "title": "出雲阿国",
+      "body": "出雲阿国",
+      "reading": "いずものおくに",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-497a08d4215e83b4",
+      "title": "久遠寺有珠",
+      "body": "久遠寺有珠",
+      "reading": "くおんじありす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-256a9fc16372eeee",
+      "title": "花咲翁",
+      "body": "花咲翁",
+      "reading": "はなさかのおきな",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8d49a7df8f8a14fe",
+      "title": "シバの女王",
+      "body": "シバの女王",
+      "reading": "しばのじょおう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-35a2bde35a7fcdcd",
+      "title": "紫式部",
+      "body": "紫式部",
+      "reading": "むらさきしきぶ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-cd051076daa4f871",
+      "title": "佐々木小次郎",
+      "body": "佐々木小次郎",
+      "reading": "ささきこじろう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-65dea6b53c62a72b",
+      "title": "マタ・ハリ",
+      "body": "マタ・ハリ",
+      "reading": "また・はり",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-c8da737de1f45a35",
+      "title": "呪腕のハサン",
+      "body": "呪腕のハサン",
+      "reading": "じゅわんのはさん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a9acdbc0cdee09ef",
+      "title": "シャルル＝アンリ・サンソン",
+      "body": "シャルル＝アンリ・サンソン",
+      "reading": "しゃるるあんり・さんそん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-62f2c5bba5fdf9cc",
+      "title": "ファントム・オブ・ジ・オペラ",
+      "body": "ファントム・オブ・ジ・オペラ",
+      "reading": "ふぁんとむ・おぶ・じ・おぺら",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a7c84bfca45c62ca",
+      "title": "荊軻",
+      "body": "荊軻",
+      "reading": "けいか",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ff6df3af745f393f",
+      "title": "百貌のハサン",
+      "body": "百貌のハサン",
+      "reading": "ひゃくぼうのはさん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8d509a6f58ccfe53",
+      "title": "風魔小太郎",
+      "body": "風魔小太郎",
+      "reading": "ふうまこたろう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-19c15d5358c88200",
+      "title": "静謐のハサン",
+      "body": "静謐のハサン",
+      "reading": "せいひつのはさん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-33684fedf1d52d79",
+      "title": "岡田以蔵",
+      "body": "岡田以蔵",
+      "reading": "おかだいぞう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-73ef19e00ac95552",
+      "title": "燕青",
+      "body": "燕青",
+      "reading": "えんせい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-df3463548a043be4",
+      "title": "望月千代女",
+      "body": "望月千代女",
+      "reading": "もちづきちよめ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6d7746ea6e950213",
+      "title": "加藤段蔵",
+      "body": "加藤段蔵",
+      "reading": "かとうだんぞう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-faec71d1caa5b0f",
+      "title": "鬼一法眼",
+      "body": "鬼一法眼",
+      "reading": "きいちほうげん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1ba7089ba4752094",
+      "title": "耀星のハサン",
+      "body": "耀星のハサン",
+      "reading": "ようせいのはさん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e4b9f065d2301433",
+      "title": "蛇女房",
+      "body": "蛇女房",
+      "reading": "へびにょうぼう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-349cbbed3a96dfd5",
+      "title": "ジャック・ザ・リッパー",
+      "body": "ジャック・ザ・リッパー",
+      "reading": "じゃっく・ざ・りっぱー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-669bfca3bd86e8a2",
+      "title": "謎のヒロインX",
+      "body": "謎のヒロインX",
+      "reading": "なぞのひろいんえっくす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-fd1d1d9eed081a6e",
+      "title": "“山の翁”",
+      "body": "“山の翁”",
+      "reading": "やまのおきな",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e5150ee1f0c56c65",
+      "title": "光のコヤンスカヤ",
+      "body": "光のコヤンスカヤ",
+      "reading": "ひかりのこやんすかや",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1c2a41355c698a53",
+      "title": "呼延灼",
+      "body": "呼延灼",
+      "reading": "こえんしゃく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-eae433e1ea4f5b4a",
+      "title": "果心居士",
+      "body": "果心居士",
+      "reading": "かしんこじ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ec07e2baa60d36b6",
+      "title": "河上彦斎",
+      "body": "河上彦斎",
+      "reading": "かわかみげんさい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-c99add28abb2957a",
+      "title": "ポール・バニヤン",
+      "body": "ポール・バニヤン",
+      "reading": "ぽーる・ばにやん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-be358a43fdce1320",
+      "title": "エイリーク・ブラッドアクス",
+      "body": "エイリーク・ブラッドアクス",
+      "reading": "えいりーく・ぶらっどあくす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-291367e654a93852",
+      "title": "呂布奉先",
+      "body": "呂布奉先",
+      "reading": "りょふほうせん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-3f36c205cd6d609c",
+      "title": "ダレイオス三世",
+      "body": "ダレイオス三世",
+      "reading": "だれいおすさんせい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1970f81ee037715c",
+      "title": "森長可",
+      "body": "森長可",
+      "reading": "もりながよし",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d416c4261076b5b9",
+      "title": "茶々",
+      "body": "茶々",
+      "reading": "ちゃちゃ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b196267926eb1b5f",
+      "title": "鬼女紅葉",
+      "body": "鬼女紅葉",
+      "reading": "きじょこうよう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4c17cd138be0cd7c",
+      "title": "永倉新八",
+      "body": "永倉新八",
+      "reading": "ながくらしんぱち",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-5b86dbcdc26a2140",
+      "title": "静希草十郎",
+      "body": "静希草十郎",
+      "reading": "しずきそうじゅうろう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a16d718d8699c5f2",
+      "title": "フローレンス・ナイチンゲール",
+      "body": "フローレンス・ナイチンゲール",
+      "reading": "ふろーれんす・ないちんげーる",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e4c63fb78c2a74a3",
+      "title": "クー・フーリン〔オルタ〕",
+      "body": "クー・フーリン〔オルタ〕",
+      "reading": "くー・ふーりん〔おるた〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-215ce2beeb4413b3",
+      "title": "源頼光",
+      "body": "源頼光",
+      "reading": "みなもとのらいこう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-be39f38f7e389463",
+      "title": "謎のヒロインX〔オルタ〕",
+      "body": "謎のヒロインX〔オルタ〕",
+      "reading": "なぞのひろいんえっくす〔おるた〕",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-fef894587b1bb3dd",
+      "title": "土方歳三",
+      "body": "土方歳三",
+      "reading": "ひじかたとしぞう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-92cc9b6545293029",
+      "title": "項羽",
+      "body": "項羽",
+      "reading": "こうう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-37e92c94e9f9cd53",
+      "title": "千利休",
+      "body": "千利休",
+      "reading": "せんのりきゅう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e9397c19de25c89e",
+      "title": "壱与",
+      "body": "壱与",
+      "reading": "いよ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8fe6d29aa222ef02",
+      "title": "天草四郎",
+      "body": "天草四郎",
+      "reading": "あまくさしろう",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-dbc8a4385edfd047",
+      "title": "シャーロック・ホームズ",
+      "body": "シャーロック・ホームズ",
+      "reading": "しゃーろっく・ほーむず",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-ebcc8f71108e5878",
+      "title": "始皇帝",
+      "body": "始皇帝",
+      "reading": "しこうてい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-f0f8bc274c6a7148",
+      "title": "卑弥呼",
+      "body": "卑弥呼",
+      "reading": "ひみこ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-76dbb3642c0673af",
+      "title": "カレン・C・オルテンシア",
+      "body": "カレン・C・オルテンシア",
+      "reading": "かれん・しー・おるてんしあ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-f0e953e35bf9e27e",
+      "title": "女教皇ヨハンナ",
+      "body": "女教皇ヨハンナ",
+      "reading": "じょきょうこうよはんな",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-286e07b17143360a",
+      "title": "上杉謙信",
+      "body": "上杉謙信",
+      "reading": "うえすぎけんしん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-295949e3a8700658",
+      "title": "メタトロン・ジャンヌ",
+      "body": "メタトロン・ジャンヌ",
+      "reading": "めたとろん・じゃんぬ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8eafa729e7247d19",
+      "title": "アントニオ・サリエリ",
+      "body": "アントニオ・サリエリ",
+      "reading": "あんとにお・さりえり",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e09d96010c485c14",
+      "title": "謎の蘭丸X",
+      "body": "謎の蘭丸X",
+      "reading": "なぞのらんまるえっくす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-157102a45b4aa898",
+      "title": "徐福",
+      "body": "徐福",
+      "reading": "じょふく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-dfc77da7b10362de",
+      "title": "藤堂平助",
+      "body": "藤堂平助",
+      "reading": "とうどうへいすけ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-5c227291806bbed",
+      "title": "ヘシアン・ロボ",
+      "body": "ヘシアン・ロボ",
+      "reading": "へしあん・ろぼ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-fa118ead9192579c",
+      "title": "エドモン・ダンテス",
+      "body": "エドモン・ダンテス",
+      "reading": "えどもん・だんてす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-efe5d38776939ae2",
+      "title": "魔王信長",
+      "body": "魔王信長",
+      "reading": "まおうのぶなが",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-773d584992ede17b",
+      "title": "平景清",
+      "body": "平景清",
+      "reading": "たいらのかげきよ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a7266a40f3030df7",
+      "title": "丑御前",
+      "body": "丑御前",
+      "reading": "うしごぜん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d5fc55e98e2171c9",
+      "title": "モンテ・クリスト",
+      "body": "モンテ・クリスト",
+      "reading": "もんて・くりすと",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-7fa925a49c6d20bb",
+      "title": "終わりのエリザベート",
+      "body": "終わりのエリザベート",
+      "reading": "おわりのえりざべーと",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-740b289e1ad26266",
+      "title": "ジョン・ラックランド",
+      "body": "ジョン・ラックランド",
+      "reading": "じょん・らっくらんど",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9131607b5aa70a5",
+      "title": "BB",
+      "body": "BB",
+      "reading": "びーびー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d6f87ac36b1e541e",
+      "title": "岸波白野",
+      "body": "岸波白野",
+      "reading": "きしなみはくの",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-a3a160d54a604c3d",
+      "title": "殺生院キアラ",
+      "body": "殺生院キアラ",
+      "reading": "せっしょういんきあら",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-812854e95c52b5a6",
+      "title": "アルクェイド・ブリュンスタッド",
+      "body": "アルクェイド・ブリュンスタッド",
+      "reading": "あるくぇいど・ぶりゅんすたっど",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b221972b5614eba3",
+      "title": "BBドバイ",
+      "body": "BBドバイ",
+      "reading": "びーびーどばい",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-31817deb4bca12a1",
+      "title": "玉兎",
+      "body": "玉兎",
+      "reading": "ぎょくと",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-9c1a7f0d3e227807",
+      "title": "太歳星君",
+      "body": "太歳星君",
+      "reading": "たいさいせいくん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-46873b25e7d0b6fc",
+      "title": "ジュネス・クレーン",
+      "body": "ジュネス・クレーン",
+      "reading": "じゅねす・くれーん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-7b35cb898e1784ad",
+      "title": "蘆屋道満",
+      "body": "蘆屋道満",
+      "reading": "あしやどうまん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d50682775526e91f",
+      "title": "マナナン・マク・リール",
+      "body": "マナナン・マク・リール",
+      "reading": "まななん・まく・りーる",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-66742b13ee34cbc5",
+      "title": "スーパー・バニヤン",
+      "body": "スーパー・バニヤン",
+      "reading": "すーぱー・ばにやん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-7dcbe4c2fdda9d22",
+      "title": "グレゴリー・ラスプーチン",
+      "body": "グレゴリー・ラスプーチン",
+      "reading": "ぐれごりー・らすぷーちん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-dc766906cf07a14",
+      "title": "ひびき＆千鍵",
+      "body": "ひびき＆千鍵",
+      "reading": "ひびきあんどちかぎ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e1f7443b0c3de0ce",
+      "title": "謎のヒロインXX",
+      "body": "謎のヒロインXX",
+      "reading": "なぞのひろいんえっくすえっくす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-13a2334aa6a4b1bc",
+      "title": "アビゲイル・ウィリアムズ",
+      "body": "アビゲイル・ウィリアムズ",
+      "reading": "あびげいる・うぃりあむず",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-7e837d9d887ee500",
+      "title": "楊貴妃",
+      "body": "楊貴妃",
+      "reading": "ようきひ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-719d106b0c8eb1e",
+      "title": "ヴァン・ゴッホ",
+      "body": "ヴァン・ゴッホ",
+      "reading": "ゔぁん・ごっほ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d44bcb9e0d6b4c4d",
+      "title": "闇のコヤンスカヤ",
+      "body": "闇のコヤンスカヤ",
+      "reading": "やみのこやんすかや",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e2bd8c7ae6402e10",
+      "title": "蒼崎青子",
+      "body": "蒼崎青子",
+      "reading": "あおざきあおこ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-6a291d11aa4dab",
+      "title": "九紋竜エリザ",
+      "body": "九紋竜エリザ",
+      "reading": "くもんりゅうえりざ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-8a0486963a7d8e02",
+      "title": "ケット・クー・ミコケル",
+      "body": "ケット・クー・ミコケル",
+      "reading": "けっと・くー・みこける",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b9b08ae908996550",
+      "title": "レディ・アヴァロン",
+      "body": "レディ・アヴァロン",
+      "reading": "れでぃ・あゔぁろん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-e90eaaa26f2588e2",
+      "title": "ダンテ・アリギエーリ",
+      "body": "ダンテ・アリギエーリ",
+      "reading": "だんて・ありぎえーり",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1006f2e94cb557d",
+      "title": "テュフォン・エフェメロス",
+      "body": "テュフォン・エフェメロス",
+      "reading": "てゅふぉん・えふぇめろす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-31ad6fff690904b0",
+      "title": "U-オルガマリー",
+      "body": "U-オルガマリー",
+      "reading": "ゆー・おるがまりー",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-d56a9babbf377c9b",
+      "title": "藤丸立香",
+      "body": "藤丸立香",
+      "reading": "ふじまるりつか",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-45b194f7b63ad3bc",
+      "title": "ロマニ・アーキマン",
+      "body": "ロマニ・アーキマン",
+      "reading": "ろまに・あーきまん",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-32216dd1cdc1f75f",
+      "title": "オルガマリー・アニムスフィア",
+      "body": "オルガマリー・アニムスフィア",
+      "reading": "おるがまりー・あにむすふぃあ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-af42eeaa6bfc09cd",
+      "title": "マーリスビリー・アニムスフィア",
+      "body": "マーリスビリー・アニムスフィア",
+      "reading": "まーりすびりー・あにむすふぃあ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-dfbf68409992c0ba",
+      "title": "ゴルドルフ・ムジーク",
+      "body": "ゴルドルフ・ムジーク",
+      "reading": "ごるどるふ・むじーく",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4a3a891945ecf973",
+      "title": "シオン・エルトナム・ソカリス",
+      "body": "シオン・エルトナム・ソカリス",
+      "reading": "しおん・えるとなむ・そかりす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-b24d6e7f49bf2edf",
+      "title": "カドック・ゼムルプス",
+      "body": "カドック・ゼムルプス",
+      "reading": "かどっく・ぜむるぷす",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-479488f48302c4cd",
+      "title": "オフェリア・ファムルソローネ",
+      "body": "オフェリア・ファムルソローネ",
+      "reading": "おふぇりあ・ふぁむるそろーね",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-1d1045ccaad80420",
+      "title": "キリシュタリア・ウォダイム",
+      "body": "キリシュタリア・ウォダイム",
+      "reading": "きりしゅたりあ・うぉだいむ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-cd7c674934193d2d",
+      "title": "スカンジナビア・ペペロンチーノ",
+      "body": "スカンジナビア・ペペロンチーノ",
+      "reading": "すかんじなびあ・ぺぺろんちーの",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-c1c1f5c5bb202004",
+      "title": "芥ヒナコ",
+      "body": "芥ヒナコ",
+      "reading": "あくたひなこ",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-4f3fad86cffcc0e4",
+      "title": "デイビット・ゼム・ヴォイド",
+      "body": "デイビット・ゼム・ヴォイド",
+      "reading": "でいびっと・ぜむ・ゔぉいど",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-34dbf339b9d405ac",
+      "title": "ベリル・ガット",
+      "body": "ベリル・ガット",
+      "reading": "べりる・がっと",
+      "category": "FateGrandOrder"
+    },
+    {
+      "id": "w-3a73ee78eca0465e",
+      "title": "レフ・ライノール",
+      "body": "レフ・ライノール",
+      "reading": "れふ・らいのーる",
+      "category": "FateGrandOrder"
+    }
+  ]
+}

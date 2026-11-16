@@ -1,0 +1,121 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "3d101036d64a283",
+  "name": "炎炎ノ消防隊",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-4a2ad03cb87e3559",
+      "title": "森羅日下部",
+      "body": "森羅日下部",
+      "reading": "しんらくさかべ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-fe1e740c1ca12661",
+      "title": "茉希尾瀬",
+      "body": "茉希尾瀬",
+      "reading": "まきおぜ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-c9a82fda410224ce",
+      "title": "環古達",
+      "body": "環古達",
+      "reading": "たまきこたつ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-e74a6b347061147a",
+      "title": "武久火縄",
+      "body": "武久火縄",
+      "reading": "たけひさひなわ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-f7a919a6ced438a",
+      "title": "秋樽桜備",
+      "body": "秋樽桜備",
+      "reading": "あきたるおうび",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-1cf2083c2f26a198",
+      "title": "烈火星宮",
+      "body": "烈火星宮",
+      "reading": "れっかほしみや",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-b71df76d903224d2",
+      "title": "象日下部",
+      "body": "象日下部",
+      "reading": "しょうくさかべ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-4bca9d7d71ef51ec",
+      "title": "相模屋紺炉",
+      "body": "相模屋紺炉",
+      "reading": "さがみやこんろ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-94c41126022d999e",
+      "title": "新門紅丸",
+      "body": "新門紅丸",
+      "reading": "しんもんべにまる",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-858fae8e7d86c651",
+      "title": "因果春日谷",
+      "body": "因果春日谷",
+      "reading": "いんかすがたに",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-ba42a6da01158a77",
+      "title": "アーサー・ボイル",
+      "body": "アーサー・ボイル",
+      "reading": "あーさーぼいる",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-23a15c47f5ea8bdc",
+      "title": "ヴァルカン・ジョゼフ",
+      "body": "ヴァルカン・ジョゼフ",
+      "reading": "ゔぁるかんじょぜふ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-e50edd73c1221bce",
+      "title": "カリム・フラム",
+      "body": "カリム・フラム",
+      "reading": "かりむふらむ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-b24f8f3d324efee0",
+      "title": "フォイエン・リィ",
+      "body": "フォイエン・リィ",
+      "reading": "ふぉいえんりぃ",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-6085add443472f88",
+      "title": "パート・コ・パーン",
+      "body": "パート・コ・パーン",
+      "reading": "ぱーとこぱーん",
+      "category": "炎炎ノ消防隊"
+    },
+    {
+      "id": "w-2d20a27def9bb288",
+      "title": "オグン・モンゴメリ",
+      "body": "オグン・モンゴメリ",
+      "reading": "おぐんもんごめり",
+      "category": "炎炎ノ消防隊"
+    }
+  ]
+}

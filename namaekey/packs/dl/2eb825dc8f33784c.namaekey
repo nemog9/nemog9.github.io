@@ -1,0 +1,44 @@
+{
+  "format": "namaekey-pack",
+  "version": 1,
+  "id": "2eb825dc8f33784c",
+  "name": "光が死んだ夏",
+  "author": "",
+  "snippets": [
+    {
+      "id": "w-41609fd945a05ca6",
+      "title": "辻中佳紀",
+      "body": "辻中佳紀",
+      "reading": "つじなかよしき",
+      "category": "光が死んだ夏"
+    },
+    {
+      "id": "w-129d1a0e288a63d9",
+      "title": "忌堂光",
+      "body": "忌堂光",
+      "reading": "いんどうひかる",
+      "category": "光が死んだ夏"
+    },
+    {
+      "id": "w-e8a07d78a7370fce",
+      "title": "山岸朝子",
+      "body": "山岸朝子",
+      "reading": "やまぎしあさこ",
+      "category": "光が死んだ夏"
+    },
+    {
+      "id": "w-b2cca55825478d80",
+      "title": "巻雄大",
+      "body": "巻雄大",
+      "reading": "まきゆうた",
+      "category": "光が死んだ夏"
+    },
+    {
+      "id": "w-f47dac35d3f25a59",
+      "title": "田中",
+      "body": "田中",
+      "reading": "たなか",
+      "category": "光が死んだ夏"
+    }
+  ]
+}
