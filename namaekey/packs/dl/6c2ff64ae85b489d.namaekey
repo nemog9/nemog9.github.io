@@ -9,77 +9,77 @@
       "id": "w-f65c68963e3197fc",
       "title": "マシュ・キリエライト",
       "body": "マシュ・キリエライト",
-      "reading": "ましゅ・きりえらいと",
+      "reading": "ましゅきりえらいと",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-6d4990e96c80066d",
       "title": "ガイウス・ユリウス・カエサル",
       "body": "ガイウス・ユリウス・カエサル",
-      "reading": "がいゆす・ゆりうす・かえさる",
+      "reading": "がいゆすゆりうすかえさる",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-2bde732bae2f83d2",
       "title": "ジル・ド・レェ",
       "body": "ジル・ド・レェ",
-      "reading": "じる・ど・れぇ",
+      "reading": "じるどれぇ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-4829edee3c692662",
       "title": "フェルグス・マク・ロイ",
       "body": "フェルグス・マク・ロイ",
-      "reading": "ふぇるぐす・まく・ろい",
+      "reading": "ふぇるぐすまくろい",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-a6766109cf6b9974",
       "title": "アルトリア・ペンドラゴン",
       "body": "アルトリア・ペンドラゴン",
-      "reading": "あるとりあ・ぺんどらごん",
+      "reading": "あるとりあぺんどらごん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-56244a8e4bb6f2cd",
       "title": "アルトリア・ペンドラゴン〔オルタ〕",
       "body": "アルトリア・ペンドラゴン〔オルタ〕",
-      "reading": "あるとりあ・ぺんどらごん〔おるた〕",
+      "reading": "あるとりあぺんどらごんおるた",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-37cb6d2ec9fa5b95",
       "title": "アルトリア・ペンドラゴン〔リリィ〕",
       "body": "アルトリア・ペンドラゴン〔リリィ〕",
-      "reading": "あるとりあ・ぺんどらごん〔りりぃ〕",
+      "reading": "あるとりあぺんどらごんりりぃ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-1db0dbb91f970bbe",
       "title": "ネロ・クラウディウス",
       "body": "ネロ・クラウディウス",
-      "reading": "ねろ・くらうでぃうす",
+      "reading": "ねろくらうでぃうす",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-7a4876ead01ab4ac",
       "title": "ネロ・クラウディウス〔ブライド〕",
       "body": "ネロ・クラウディウス〔ブライド〕",
-      "reading": "ねろ・くらうでぃうす〔ぶらいど〕",
+      "reading": "ねろくらうでぃうすぶらいど",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-6e0a4038d024aba1",
       "title": "シュヴァリエ・デオン",
       "body": "シュヴァリエ・デオン",
-      "reading": "しゅゔぁりえ・でおん",
+      "reading": "しゅゔぁりえでおん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-2a6cd16c5febff1f",
       "title": "エリザベート・バートリー〔ブレイブ〕",
       "body": "エリザベート・バートリー〔ブレイブ〕",
-      "reading": "えりざべーと・ばーとりー〔ぶれいぶ〕",
+      "reading": "えりざべーとばーとりーぶれいぶ",
       "category": "FateGrandOrder"
     },
     {
@@ -107,7 +107,7 @@
       "id": "w-856072f3400d354a",
       "title": "ディルムッド・オディナ",
       "body": "ディルムッド・オディナ",
-      "reading": "でぃるむっど・おでぃな",
+      "reading": "でぃるむっどおでぃな",
       "category": "FateGrandOrder"
     },
     {
@@ -121,7 +121,7 @@
       "id": "w-12c9a34ce8d05310",
       "title": "ラクシュミー・バーイー",
       "body": "ラクシュミー・バーイー",
-      "reading": "らくしゅみー・ばーいー",
+      "reading": "らくしゅみーばーいー",
       "category": "FateGrandOrder"
     },
     {
@@ -177,7 +177,7 @@
       "id": "w-f340eb5131cad6c2",
       "title": "グレイ・リリィ",
       "body": "グレイ・リリィ",
-      "reading": "ぐれい・りりぃ",
+      "reading": "ぐれいりりぃ",
       "category": "FateGrandOrder"
     },
     {
@@ -205,7 +205,7 @@
       "id": "w-faf6d16aea2a2892",
       "title": "アーサー・ペンドラゴン",
       "body": "アーサー・ペンドラゴン",
-      "reading": "あーさー・ぺんどらごん",
+      "reading": "あーさーぺんどらごん",
       "category": "FateGrandOrder"
     },
     {
@@ -233,7 +233,7 @@
       "id": "w-8f3ebc739c7b5f80",
       "title": "沖田総司〔オルタ〕",
       "body": "沖田総司〔オルタ〕",
-      "reading": "おきたそうじ〔おるた〕",
+      "reading": "おきたそうじおるた",
       "category": "FateGrandOrder"
     },
     {
@@ -261,14 +261,14 @@
       "id": "w-8dbf92b4d1089402",
       "title": "ロード・ログレス",
       "body": "ロード・ログレス",
-      "reading": "ろーど・ろぐれす",
+      "reading": "ろーどろぐれす",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-4bd84f0ee5a98d2d",
       "title": "ジャック・ド・モレー",
       "body": "ジャック・ド・モレー",
-      "reading": "じゃっく・ど・もれー",
+      "reading": "じゃっくどもれー",
       "category": "FateGrandOrder"
     },
     {
@@ -282,14 +282,14 @@
       "id": "w-5f8be58405dfdcc8",
       "title": "ロビン・フッド",
       "body": "ロビン・フッド",
-      "reading": "ろびん・ふっど",
+      "reading": "ろびんふっど",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-5970cf511ce167c3",
       "title": "ビリー・ザ・キッド",
       "body": "ビリー・ザ・キッド",
-      "reading": "びりー・ざ・きっど",
+      "reading": "びりーざきっど",
       "category": "FateGrandOrder"
     },
     {
@@ -303,7 +303,7 @@
       "id": "w-b5ea48a0b1c6a12b",
       "title": "ウィリアム・テル",
       "body": "ウィリアム・テル",
-      "reading": "うぃりあむ・てる",
+      "reading": "うぃりあむてる",
       "category": "FateGrandOrder"
     },
     {
@@ -324,28 +324,28 @@
       "id": "w-8d9c9dc5c4a0d05d",
       "title": "アン・ボニー",
       "body": "アン・ボニー",
-      "reading": "あん・ぼにー",
+      "reading": "あんぼにー",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-b1f51e68edc5a643",
       "title": "メアリー・リード",
       "body": "メアリー・リード",
-      "reading": "めありー・りーど",
+      "reading": "めありーりーど",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-6b1ce4bbeb7072a5",
       "title": "クロエ・フォン・アインツベルン",
       "body": "クロエ・フォン・アインツベルン",
-      "reading": "くろえ・ふぉん・あいんつべるん",
+      "reading": "くろえふぉんあいんつべるん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-ba60167771310347",
       "title": "ヘレナ・ブラヴァツキー",
       "body": "ヘレナ・ブラヴァツキー",
-      "reading": "へれな・ぶらゔぁつきー",
+      "reading": "へれなぶらゔぁつきー",
       "category": "FateGrandOrder"
     },
     {
@@ -366,21 +366,21 @@
       "id": "w-3d154d50aff3e808",
       "title": "カラミティ・ジェーン",
       "body": "カラミティ・ジェーン",
-      "reading": "からみてぃ・じぇーん",
+      "reading": "からみてぃじぇーん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-3b32978b065c48ce",
       "title": "イリヤスフィール・フォン・アインツベルン",
       "body": "イリヤスフィール・フォン・アインツベルン",
-      "reading": "いりやすふぃーる・ふぉん・あいんつべるん",
+      "reading": "いりやすふぃーるふぉんあいんつべるん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-9a54e62e94316561",
       "title": "バーヴァン・シー",
       "body": "バーヴァン・シー",
-      "reading": "ばーゔぁん・しー",
+      "reading": "ばーゔぁんしー",
       "category": "FateGrandOrder"
     },
     {
@@ -408,21 +408,21 @@
       "id": "w-b92d75dca044667",
       "title": "ニコラ・テスラ",
       "body": "ニコラ・テスラ",
-      "reading": "にこら・てすら",
+      "reading": "にこらてすら",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-ac6ed73687aa9b65",
       "title": "ジェームズ・モリアーティ",
       "body": "ジェームズ・モリアーティ",
-      "reading": "じぇーむず・もりあーてぃ",
+      "reading": "じぇーむずもりあーてぃ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-c6c06c81ea43a758",
       "title": "ジャンヌ・ダルク",
       "body": "ジャンヌ・ダルク",
-      "reading": "じゃんぬ・だるく",
+      "reading": "じゃんぬだるく",
       "category": "FateGrandOrder"
     },
     {
@@ -450,7 +450,7 @@
       "id": "w-dfb4b5ac294e8ca",
       "title": "メアリー・アニング",
       "body": "メアリー・アニング",
-      "reading": "めありー・あにんぐ",
+      "reading": "めありーあにんぐ",
       "category": "FateGrandOrder"
     },
     {
@@ -471,14 +471,14 @@
       "id": "w-75d538a323b619e2",
       "title": "クー・フーリン",
       "body": "クー・フーリン",
-      "reading": "くー・ふーりん",
+      "reading": "くーふーりん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-c7d288f51b98ce25",
       "title": "クー・フーリン〔プロトタイプ〕",
       "body": "クー・フーリン〔プロトタイプ〕",
-      "reading": "くー・ふーりん〔ぷろとたいぷ〕",
+      "reading": "くーふーりんぷろとたいぷ",
       "category": "FateGrandOrder"
     },
     {
@@ -492,14 +492,14 @@
       "id": "w-831d4842d417940f",
       "title": "エリザベート・バートリー",
       "body": "エリザベート・バートリー",
-      "reading": "えりざべーと・ばーとりー",
+      "reading": "えりざべーとばーとりー",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-d3d971c60dfc31dc",
       "title": "フィン・マックール",
       "body": "フィン・マックール",
-      "reading": "ふぃん・まっくーる",
+      "reading": "ふぃんまっくーる",
       "category": "FateGrandOrder"
     },
     {
@@ -569,14 +569,14 @@
       "id": "w-d3a2f3bdd88cd651",
       "title": "ドン・キホーテ",
       "body": "ドン・キホーテ",
-      "reading": "どん・きほーて",
+      "reading": "どんきほーて",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-faffb2b1bd135e49",
       "title": "ドブルイニャ・ニキチッチ",
       "body": "ドブルイニャ・ニキチッチ",
-      "reading": "どぶるぃにゃ・にきちっち",
+      "reading": "どぶるぃにゃにきちっち",
       "category": "FateGrandOrder"
     },
     {
@@ -590,7 +590,7 @@
       "id": "w-eba9221ef9dc3172",
       "title": "美遊・エーデルフェルト",
       "body": "美遊・エーデルフェルト",
-      "reading": "みゆ・えーでるふぇると",
+      "reading": "みゆえーでるふぇると",
       "category": "FateGrandOrder"
     },
     {
@@ -604,14 +604,14 @@
       "id": "w-bdd6cc715d932ef0",
       "title": "バーソロミュー・ロバーツ",
       "body": "バーソロミュー・ロバーツ",
-      "reading": "ばーそろみゅー・ろばーつ",
+      "reading": "ばーそろみゅーろばーつ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-998df353b383a1b",
       "title": "エドワード・ティーチ",
       "body": "エドワード・ティーチ",
-      "reading": "えどわーど・てぃーち",
+      "reading": "えどわーどてぃーち",
       "category": "FateGrandOrder"
     },
     {
@@ -625,7 +625,7 @@
       "id": "w-98b17ac76a177e2f",
       "title": "クリストファー・コロンブス",
       "body": "クリストファー・コロンブス",
-      "reading": "くりすとふぁー・ころんぶす",
+      "reading": "くりすとふぁーころんぶす",
       "category": "FateGrandOrder"
     },
     {
@@ -639,7 +639,7 @@
       "id": "w-25652c8cdcda0861",
       "title": "マリー・アントワネット",
       "body": "マリー・アントワネット",
-      "reading": "まりー・あんとわねっと",
+      "reading": "まりーあんとわねっと",
       "category": "FateGrandOrder"
     },
     {
@@ -660,14 +660,14 @@
       "id": "w-8d3aa25594d7c49d",
       "title": "フランシス・ドレイク",
       "body": "フランシス・ドレイク",
-      "reading": "ふらんしす・どれいく",
+      "reading": "ふらんしすどれいく",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-51062ee8175e67e1",
       "title": "ケツァル・コアトル",
       "body": "ケツァル・コアトル",
-      "reading": "けつぁる・こあとる",
+      "reading": "けつぁるこあとる",
       "category": "FateGrandOrder"
     },
     {
@@ -688,7 +688,7 @@
       "id": "w-9a4b5e8e115d7c80",
       "title": "レオナルド・ダ・ヴィンチ",
       "body": "レオナルド・ダ・ヴィンチ",
-      "reading": "れおなるど・だ・ゔぃんち",
+      "reading": "れおなるどだゔぃんち",
       "category": "FateGrandOrder"
     },
     {
@@ -723,21 +723,21 @@
       "id": "w-7af3e9ed6328b8d1",
       "title": "ウォルフガング・アマデウス・モーツァルト",
       "body": "ウォルフガング・アマデウス・モーツァルト",
-      "reading": "うぉるふがんぐ・あまでうす・もーつぁると",
+      "reading": "うぉるふがんぐあまでうすもーつぁると",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-a846d17804cb9d17",
       "title": "ハンス・クリスチャン・アンデルセン",
       "body": "ハンス・クリスチャン・アンデルセン",
-      "reading": "はんす・くりすちゃん・あんでるせん",
+      "reading": "はんすくりすちゃんあんでるせん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-4078a0f0eb06813a",
       "title": "ウィリアム・シェイクスピア",
       "body": "ウィリアム・シェイクスピア",
-      "reading": "うぃりあむ・しぇいくすぴあ",
+      "reading": "うぃりあむしぇいくすぴあ",
       "category": "FateGrandOrder"
     },
     {
@@ -751,14 +751,14 @@
       "id": "w-81f1ed86b7e478bd",
       "title": "パラケルスス・フォン・ホーエンハイム",
       "body": "パラケルスス・フォン・ホーエンハイム",
-      "reading": "ぱらけるすす・ふぉん・ほーえんはいむ",
+      "reading": "ぱらけるすすふぉんほーえんはいむ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-e28785b18cb52521",
       "title": "チャールズ・バベッジ",
       "body": "チャールズ・バベッジ",
-      "reading": "ちゃーるず・ばべっじ",
+      "reading": "ちゃーるずばべっじ",
       "category": "FateGrandOrder"
     },
     {
@@ -772,21 +772,21 @@
       "id": "w-ae6ec2e355667e2c",
       "title": "ナーサリー・ライム",
       "body": "ナーサリー・ライム",
-      "reading": "なーさりー・らいむ",
+      "reading": "なーさりーらいむ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-6a7e5061aab75cb9",
       "title": "トーマス・エジソン",
       "body": "トーマス・エジソン",
-      "reading": "とーます・えじそん",
+      "reading": "とーますえじそん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-55f4bbf399c9e355",
       "title": "アイリスフィール・フォン・アインツベルン",
       "body": "アイリスフィール・フォン・アインツベルン",
-      "reading": "あいりすふぃーる・ふぉん・あいんつべるん",
+      "reading": "あいりすふぃーるふぉんあいんつべるん",
       "category": "FateGrandOrder"
     },
     {
@@ -800,7 +800,7 @@
       "id": "w-58d5be04a0b465f8",
       "title": "シャルロット・コルデー",
       "body": "シャルロット・コルデー",
-      "reading": "しゃるろっと・こるでー",
+      "reading": "しゃるろっとこるでー",
       "category": "FateGrandOrder"
     },
     {
@@ -849,14 +849,14 @@
       "id": "w-b88f723e74e3c094",
       "title": "アルトリア・キャスター",
       "body": "アルトリア・キャスター",
-      "reading": "あるとりあ・きゃすたー",
+      "reading": "あるとりあきゃすたー",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-9b418e908c4b5216",
       "title": "ミス・クレーン",
       "body": "ミス・クレーン",
-      "reading": "みす・くれーん",
+      "reading": "みすくれーん",
       "category": "FateGrandOrder"
     },
     {
@@ -905,7 +905,7 @@
       "id": "w-65dea6b53c62a72b",
       "title": "マタ・ハリ",
       "body": "マタ・ハリ",
-      "reading": "また・はり",
+      "reading": "またはり",
       "category": "FateGrandOrder"
     },
     {
@@ -919,14 +919,14 @@
       "id": "w-a9acdbc0cdee09ef",
       "title": "シャルル＝アンリ・サンソン",
       "body": "シャルル＝アンリ・サンソン",
-      "reading": "しゃるるあんり・さんそん",
+      "reading": "しゃるるあんりさんそん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-62f2c5bba5fdf9cc",
       "title": "ファントム・オブ・ジ・オペラ",
       "body": "ファントム・オブ・ジ・オペラ",
-      "reading": "ふぁんとむ・おぶ・じ・おぺら",
+      "reading": "ふぁんとむおぶじおぺら",
       "category": "FateGrandOrder"
     },
     {
@@ -1010,7 +1010,7 @@
       "id": "w-349cbbed3a96dfd5",
       "title": "ジャック・ザ・リッパー",
       "body": "ジャック・ザ・リッパー",
-      "reading": "じゃっく・ざ・りっぱー",
+      "reading": "じゃっくざりっぱー",
       "category": "FateGrandOrder"
     },
     {
@@ -1059,14 +1059,14 @@
       "id": "w-c99add28abb2957a",
       "title": "ポール・バニヤン",
       "body": "ポール・バニヤン",
-      "reading": "ぽーる・ばにやん",
+      "reading": "ぽーるばにやん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-be358a43fdce1320",
       "title": "エイリーク・ブラッドアクス",
       "body": "エイリーク・ブラッドアクス",
-      "reading": "えいりーく・ぶらっどあくす",
+      "reading": "えいりーくぶらっどあくす",
       "category": "FateGrandOrder"
     },
     {
@@ -1122,14 +1122,14 @@
       "id": "w-a16d718d8699c5f2",
       "title": "フローレンス・ナイチンゲール",
       "body": "フローレンス・ナイチンゲール",
-      "reading": "ふろーれんす・ないちんげーる",
+      "reading": "ふろーれんすないちんげーる",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-e4c63fb78c2a74a3",
       "title": "クー・フーリン〔オルタ〕",
       "body": "クー・フーリン〔オルタ〕",
-      "reading": "くー・ふーりん〔おるた〕",
+      "reading": "くーふーりんおるた",
       "category": "FateGrandOrder"
     },
     {
@@ -1143,7 +1143,7 @@
       "id": "w-be39f38f7e389463",
       "title": "謎のヒロインX〔オルタ〕",
       "body": "謎のヒロインX〔オルタ〕",
-      "reading": "なぞのひろいんえっくす〔おるた〕",
+      "reading": "なぞのひろいんえっくすおるた",
       "category": "FateGrandOrder"
     },
     {
@@ -1185,7 +1185,7 @@
       "id": "w-dbc8a4385edfd047",
       "title": "シャーロック・ホームズ",
       "body": "シャーロック・ホームズ",
-      "reading": "しゃーろっく・ほーむず",
+      "reading": "しゃーろっくほーむず",
       "category": "FateGrandOrder"
     },
     {
@@ -1206,7 +1206,7 @@
       "id": "w-76dbb3642c0673af",
       "title": "カレン・C・オルテンシア",
       "body": "カレン・C・オルテンシア",
-      "reading": "かれん・しー・おるてんしあ",
+      "reading": "かれんしーおるてんしあ",
       "category": "FateGrandOrder"
     },
     {
@@ -1227,14 +1227,14 @@
       "id": "w-295949e3a8700658",
       "title": "メタトロン・ジャンヌ",
       "body": "メタトロン・ジャンヌ",
-      "reading": "めたとろん・じゃんぬ",
+      "reading": "めたとろんじゃんぬ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-8eafa729e7247d19",
       "title": "アントニオ・サリエリ",
       "body": "アントニオ・サリエリ",
-      "reading": "あんとにお・さりえり",
+      "reading": "あんとにおさりえり",
       "category": "FateGrandOrder"
     },
     {
@@ -1262,14 +1262,14 @@
       "id": "w-5c227291806bbed",
       "title": "ヘシアン・ロボ",
       "body": "ヘシアン・ロボ",
-      "reading": "へしあん・ろぼ",
+      "reading": "へしあんろぼ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-fa118ead9192579c",
       "title": "エドモン・ダンテス",
       "body": "エドモン・ダンテス",
-      "reading": "えどもん・だんてす",
+      "reading": "えどもんだんてす",
       "category": "FateGrandOrder"
     },
     {
@@ -1297,7 +1297,7 @@
       "id": "w-d5fc55e98e2171c9",
       "title": "モンテ・クリスト",
       "body": "モンテ・クリスト",
-      "reading": "もんて・くりすと",
+      "reading": "もんてくりすと",
       "category": "FateGrandOrder"
     },
     {
@@ -1311,7 +1311,7 @@
       "id": "w-740b289e1ad26266",
       "title": "ジョン・ラックランド",
       "body": "ジョン・ラックランド",
-      "reading": "じょん・らっくらんど",
+      "reading": "じょんらっくらんど",
       "category": "FateGrandOrder"
     },
     {
@@ -1339,7 +1339,7 @@
       "id": "w-812854e95c52b5a6",
       "title": "アルクェイド・ブリュンスタッド",
       "body": "アルクェイド・ブリュンスタッド",
-      "reading": "あるくぇいど・ぶりゅんすたっど",
+      "reading": "あるくぇいどぶりゅんすたっど",
       "category": "FateGrandOrder"
     },
     {
@@ -1367,7 +1367,7 @@
       "id": "w-46873b25e7d0b6fc",
       "title": "ジュネス・クレーン",
       "body": "ジュネス・クレーン",
-      "reading": "じゅねす・くれーん",
+      "reading": "じゅねすくれーん",
       "category": "FateGrandOrder"
     },
     {
@@ -1381,21 +1381,21 @@
       "id": "w-d50682775526e91f",
       "title": "マナナン・マク・リール",
       "body": "マナナン・マク・リール",
-      "reading": "まななん・まく・りーる",
+      "reading": "まななんまくりーる",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-66742b13ee34cbc5",
       "title": "スーパー・バニヤン",
       "body": "スーパー・バニヤン",
-      "reading": "すーぱー・ばにやん",
+      "reading": "すーぱーばにやん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-7dcbe4c2fdda9d22",
       "title": "グレゴリー・ラスプーチン",
       "body": "グレゴリー・ラスプーチン",
-      "reading": "ぐれごりー・らすぷーちん",
+      "reading": "ぐれごりーらすぷーちん",
       "category": "FateGrandOrder"
     },
     {
@@ -1416,7 +1416,7 @@
       "id": "w-13a2334aa6a4b1bc",
       "title": "アビゲイル・ウィリアムズ",
       "body": "アビゲイル・ウィリアムズ",
-      "reading": "あびげいる・うぃりあむず",
+      "reading": "あびげいるうぃりあむず",
       "category": "FateGrandOrder"
     },
     {
@@ -1430,7 +1430,7 @@
       "id": "w-719d106b0c8eb1e",
       "title": "ヴァン・ゴッホ",
       "body": "ヴァン・ゴッホ",
-      "reading": "ゔぁん・ごっほ",
+      "reading": "ゔぁんごっほ",
       "category": "FateGrandOrder"
     },
     {
@@ -1458,35 +1458,35 @@
       "id": "w-8a0486963a7d8e02",
       "title": "ケット・クー・ミコケル",
       "body": "ケット・クー・ミコケル",
-      "reading": "けっと・くー・みこける",
+      "reading": "けっとくーみこける",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-b9b08ae908996550",
       "title": "レディ・アヴァロン",
       "body": "レディ・アヴァロン",
-      "reading": "れでぃ・あゔぁろん",
+      "reading": "れでぃあゔぁろん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-e90eaaa26f2588e2",
       "title": "ダンテ・アリギエーリ",
       "body": "ダンテ・アリギエーリ",
-      "reading": "だんて・ありぎえーり",
+      "reading": "だんてありぎえーり",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-1006f2e94cb557d",
       "title": "テュフォン・エフェメロス",
       "body": "テュフォン・エフェメロス",
-      "reading": "てゅふぉん・えふぇめろす",
+      "reading": "てゅふぉんえふぇめろす",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-31ad6fff690904b0",
       "title": "U-オルガマリー",
       "body": "U-オルガマリー",
-      "reading": "ゆー・おるがまりー",
+      "reading": "ゆーおるがまりー",
       "category": "FateGrandOrder"
     },
     {
@@ -1500,63 +1500,63 @@
       "id": "w-45b194f7b63ad3bc",
       "title": "ロマニ・アーキマン",
       "body": "ロマニ・アーキマン",
-      "reading": "ろまに・あーきまん",
+      "reading": "ろまにあーきまん",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-32216dd1cdc1f75f",
       "title": "オルガマリー・アニムスフィア",
       "body": "オルガマリー・アニムスフィア",
-      "reading": "おるがまりー・あにむすふぃあ",
+      "reading": "おるがまりーあにむすふぃあ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-af42eeaa6bfc09cd",
       "title": "マーリスビリー・アニムスフィア",
       "body": "マーリスビリー・アニムスフィア",
-      "reading": "まーりすびりー・あにむすふぃあ",
+      "reading": "まーりすびりーあにむすふぃあ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-dfbf68409992c0ba",
       "title": "ゴルドルフ・ムジーク",
       "body": "ゴルドルフ・ムジーク",
-      "reading": "ごるどるふ・むじーく",
+      "reading": "ごるどるふむじーく",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-4a3a891945ecf973",
       "title": "シオン・エルトナム・ソカリス",
       "body": "シオン・エルトナム・ソカリス",
-      "reading": "しおん・えるとなむ・そかりす",
+      "reading": "しおんえるとなむそかりす",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-b24d6e7f49bf2edf",
       "title": "カドック・ゼムルプス",
       "body": "カドック・ゼムルプス",
-      "reading": "かどっく・ぜむるぷす",
+      "reading": "かどっくぜむるぷす",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-479488f48302c4cd",
       "title": "オフェリア・ファムルソローネ",
       "body": "オフェリア・ファムルソローネ",
-      "reading": "おふぇりあ・ふぁむるそろーね",
+      "reading": "おふぇりあふぁむるそろーね",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-1d1045ccaad80420",
       "title": "キリシュタリア・ウォダイム",
       "body": "キリシュタリア・ウォダイム",
-      "reading": "きりしゅたりあ・うぉだいむ",
+      "reading": "きりしゅたりあうぉだいむ",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-cd7c674934193d2d",
       "title": "スカンジナビア・ペペロンチーノ",
       "body": "スカンジナビア・ペペロンチーノ",
-      "reading": "すかんじなびあ・ぺぺろんちーの",
+      "reading": "すかんじなびあぺぺろんちーの",
       "category": "FateGrandOrder"
     },
     {
@@ -1570,21 +1570,21 @@
       "id": "w-4f3fad86cffcc0e4",
       "title": "デイビット・ゼム・ヴォイド",
       "body": "デイビット・ゼム・ヴォイド",
-      "reading": "でいびっと・ぜむ・ゔぉいど",
+      "reading": "でいびっとぜむゔぉいど",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-34dbf339b9d405ac",
       "title": "ベリル・ガット",
       "body": "ベリル・ガット",
-      "reading": "べりる・がっと",
+      "reading": "べりるがっと",
       "category": "FateGrandOrder"
     },
     {
       "id": "w-3a73ee78eca0465e",
       "title": "レフ・ライノール",
       "body": "レフ・ライノール",
-      "reading": "れふ・らいのーる",
+      "reading": "れふらいのーる",
       "category": "FateGrandOrder"
     }
   ]
